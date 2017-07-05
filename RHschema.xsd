@@ -41,6 +41,7 @@
           <xs:enumeration value="Bisected_circle"/>
           <xs:enumeration value="Crown"/>
           <xs:enumeration value="JC"/>
+          <xs:enumeration value="Hatching"/>
           <xs:enumeration value="HT"/>
           <xs:enumeration value="Hieroglyphic_Monad"/>
           <xs:enumeration value="Jupiter"/>
