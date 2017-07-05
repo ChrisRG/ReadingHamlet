@@ -41,7 +41,6 @@
           <xs:enumeration value="Bisected_circle"/>
           <xs:enumeration value="Crown"/>
           <xs:enumeration value="JC"/>
-          <xs:enumeration value="Hatching"/> <!-- Added for Reading Hamlet -->
           <xs:enumeration value="HT"/>
           <xs:enumeration value="Hieroglyphic_Monad"/>
           <xs:enumeration value="Jupiter"/>
@@ -206,11 +205,9 @@
   </xs:element>
   <xs:attributeGroup name="attlist.page">
     <xs:attribute name="filename" use="required"/>
-    <xs:attribute name="pagination"/>
+    <xs:attribute name="pagination" use="required"/> <!-- Added requirement for Reading Hamlet -->
     <xs:attribute name="signature"/>
     <xs:attribute name="reader" use="required"/>
-    <xs:attribute name="act"/>            <!-- Added for Reading Hamlet -->
-    <xs:attribute name="scene"/>      <!-- Added for Reading Hamlet -->
     <xs:attribute name="origin">
       <xs:simpleType>
         <xs:restriction base="xs:token">
@@ -235,7 +232,6 @@
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="marginalia"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="underline"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="deletion"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="symbol"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="mark"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="numeral"/>
@@ -259,7 +255,7 @@
     </xs:complexType>
   </xs:element>
   <xs:attributeGroup name="attlist.marginalia">
-    <xs:attribute ref="hand"/>
+    <xs:attribute ref="hand"/> <!-- Deleted requirement for Reading Hamlet -->
     <xs:attribute ref="method"/>
     <xs:attribute ref="colour"/>
     <xs:attribute name="id"/>
@@ -395,7 +391,7 @@
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
-    <xs:attribute ref="language"/>   <!-- Removed requirement for Reading Hamlet -->
+    <xs:attribute ref="language"/>  <!-- Deleted requirement for Reading Hamlet -->
     <xs:attribute name="text" use="required"/>
     <xs:attribute name="id"/>
     <xs:attribute name="internal_ref"/>
@@ -407,7 +403,7 @@
     </xs:complexType>
   </xs:element>
   <xs:attributeGroup name="attlist.deletion">
-    <xs:attribute ref="method" use="required/>
+    <xs:attribute ref="method" use="required"/>
     <xs:attribute ref="colour"/>
     <xs:attribute name="type" use="required">
       <xs:simpleType>
@@ -417,7 +413,7 @@
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
-    <xs:attribute ref="language"/>
+    <xs:attribute ref="language"/>  <!-- Deleted requirement for Reading Hamlet -->
     <xs:attribute name="text" use="required"/>
     <xs:attribute name="id"/>
     <xs:attribute name="internal_ref"/>
@@ -503,7 +499,7 @@
     </xs:complexType>
   </xs:element>
   <xs:attributeGroup name="attlist.errata">
-    <xs:attribute ref="language"/>
+    <xs:attribute ref="language"/>   <!-- Deleted requirement for Reading Hamlet -->
     <xs:attribute name="copytext" use="required"/>
     <xs:attribute name="amendedtext" use="required"/>
     <xs:attribute name="id"/>
