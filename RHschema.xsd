@@ -45,8 +45,7 @@
     <xs:attribute name="hand">
       <xs:simpleType>
         <xs:restriction base="xs:token">
-          <xs:enumeration value="English_secretary"/>
-          <xs:enumeration value="Italian"/>
+          <xs:enumeration value="English"/>
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
