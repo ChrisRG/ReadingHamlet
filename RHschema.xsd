@@ -15,7 +15,8 @@
   <xs:attributeGroup name="attlist.page">
     <xs:attribute name="filename" use="required"/>
     <xs:attribute name="pagination"/>
-    <xs:attribute name="signature"/>
+    <xs:attribute name="act"/>
+    <xs:attribute name="scene"/>
     <xs:attribute name="reader" use="required"/>
   </xs:attributeGroup>
   <xs:element name="annotation">
