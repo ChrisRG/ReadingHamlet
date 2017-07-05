@@ -209,6 +209,8 @@
     <xs:attribute name="pagination" use="required"/> <!-- Added requirement for Reading Hamlet -->
     <xs:attribute name="signature"/>
     <xs:attribute name="reader" use="required"/>
+    <xs:attribute name="act"/> <!-- Added for Reading Hamlet -->
+    <xs:attribute name="scene"/> <!-- Added for Reading Hamlet -->
     <xs:attribute name="origin">
       <xs:simpleType>
         <xs:restriction base="xs:token">
