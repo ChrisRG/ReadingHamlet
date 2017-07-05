@@ -235,7 +235,7 @@
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="marginalia"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="underline"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="deletion"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="deletion"/>  <!-- Added for Reading Hamlet -->
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="symbol"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="mark"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="numeral"/>
