@@ -403,7 +403,7 @@
   
   <xs:element name="deletion">  <!-- Added for Reading Hamlet -->
     <xs:complexType>
-      <xs:attributeGroup ref="attlist.deletiion"/>
+      <xs:attributeGroup ref="attlist.deletion"/>
     </xs:complexType>
   </xs:element>
   <xs:attributeGroup name="attlist.deletion">
