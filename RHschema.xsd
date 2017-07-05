@@ -41,7 +41,7 @@
           <xs:enumeration value="Bisected_circle"/>
           <xs:enumeration value="Crown"/>
           <xs:enumeration value="JC"/>
-          <xs:enumeration value="Hatching"/>
+          <xs:enumeration value="Hatching"/> <!-- Added for Reading Hamlet -->
           <xs:enumeration value="HT"/>
           <xs:enumeration value="Hieroglyphic_Monad"/>
           <xs:enumeration value="Jupiter"/>
@@ -407,7 +407,7 @@
     </xs:complexType>
   </xs:element>
   <xs:attributeGroup name="attlist.deletion">
-    <xs:attribute ref="method" use="required"/>
+    <xs:attribute ref="method" use="required/>
     <xs:attribute ref="colour"/>
     <xs:attribute name="type" use="required">
       <xs:simpleType>
