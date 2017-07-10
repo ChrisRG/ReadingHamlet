@@ -90,6 +90,8 @@
 		
 		<!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
 		<symbol name="Hatching" place="right_margin"/> 
+	
+		<mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/>
 		
 				
     </annotation>
