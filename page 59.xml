@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="59" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <!-- It looks like there are several marginalia on this page. -->
+       
+        <!-- Substitutions -->
+       
+        <substitution method="pen" type="insertion" copyText="That I can keep your counsel and not mine own, besides, to be demanded of a spunge, what replication should be made by ? the son of a King? " amendedText="-- That I can keep your counsel, and not mine own; besides, to be demanded of a spounge, what replication should be made by the son of a King?"/>
+        
+        <!-- I think it would be best to include the name of the speaker if in the line, i.e. "Ham. I, Sir, that sokes up ..." -->
+        <substitution method="pen" type="insertion" copyText="I Sir, that sokes up the Kings countenance, his rewards, his authorities: but such Officers do the King best service in the end; he keeps them like an apple in the corner of his jaw first mouth’d to be last swallowed. When he needs what you have gleand, it is but squeesing you, and spunge you shall be dry again" amendedText="I, Sir, that sokes up the Kings countenance, his rewards, his authorities; but such Officers do the King best service in the end; he keeps them like an apple, in the corner of his jaw; first mouth’d to be last swallowed: When he needs what you have gleand, it is but squeesing you, and,spunge ,you shall be dry again"/>		
+        <substitution method="pen" type="insertion" copyText="I am glad of it: a knavish speech sleeps in a foolish ear" amendedText="I am glad of it; a knavish speech sleeps in a foolish ear "/>		
+        
+        
+ 
+        
+        <substitution method="pen" type="deletion" copyText="'' The body is with the King, but the King is not with the body: the King is a thing " amendedText=""/>
+        
+        <!-- I would include the following line with the previous one as one long deletion. -->
+        <substitution method="pen" type="deletion" copyText="'' A thing my Lord? " amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Of nothing  " amendedText=""/>
+        
+        <!-- It looks like there are several more deletions on this page, e.g. "Yet must we not" and "King" and others. -->
+        
+        <!-- There's at least one Hatching on this page too. -->
+        
+        
+    </annotation>
+</transcription>

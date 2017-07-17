@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="3" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia -->     <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Don't forget to delete the marginalia from the template! -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (4)
+                        Ghost
+                    </marginalia_text>
+                    <person name="Ghost"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (5)
+                        one to Cron [?]    <!-- Unsure -->
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (6)
+                        King
+                        Queen
+                        Polonius
+                        Ophelia
+                        Guildenstern
+                        Rosencraus
+                        Attendants
+                        Flourish
+                        Throne
+                        Chaire
+                    </marginalia_text>
+                    <person name="King"/>
+                    <person name="Queen"/>
+                    <person name="Polonius"/>
+                    <person name="Ophelia"/>
+                    <person name="Guildenstern"/>
+                    <person name="Rosencraus"/>
+                    <person name="Attendants"/>
+                    <person name="Flourish"/>
+                    <person name="Throne"/>
+                    <person name="Chaire"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        
+        <!-- Are all of these substitutions on this page or are some from the template? -->
+        <substitution method="pen" type="replacement" copyText="I could not believe this," amendedText="I could not this believe,"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' So frown'd he once, when in angry Parle | '' He smote the sleaded Pollax on the ice | 'Tis strange." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Mar. Pray sit down and tell me he that knows," amendedText="Mar. Pray tell me he that knows,"/>
+        <substitution method="pen" type="deletion" copyText="
+            '' the
+            '' mirror up to nature; to show virtue her own feature, |
+            '' scorn her own image, and the very age and body of | 
+            '' the time his form and pressure. Now this overdone, |
+            '' or com`e tardy off, though it make the unskillful |
+            '' laugh, cannot but make the judicious grieve; the |
+            '' censure of the which one must in your allowance |
+            '' o'erweigh a whole theatre of others. O, there be |
+            '' players that I have seen play, and heard others |
+            '' praise, and that highly, not to speak it profanely, |
+            '' that, neither having the accent of Christians nor |
+            '' the gait of Christian, pagan, nor man, have so |
+            '' strutted and bellowed that I have thought some of |
+            '' nature's journeymen had made men and not made them |
+            '' well, they imitated humanity so abominably. 
+            " amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' A man that fortune's buffets and rewards |
+            '' Hast ta'en with equal thanks: and blest are those |
+            '' Whose blood and judgment are so well commingled, |
+            '' That they are not a pipe for fortune's finger 
+            " amendedText=""/>
+        
+        
+        <!-- Some of these are from the Template, and it looks like you might have missed other deletions throughout, such as "Enter," and replacements.  -->
+        
+        <substitution method="pen" type="replacement" copyText="Makes the night joynt labour with the day?" amendedText="Making the night joynt labourer with the day?"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="From what advancement do I hope from thee" amendedText="From what advancement do I hope from thee ?"/>        
+        <substitution method="pen" type="insertion" copyText="Nay,  do not think I flatter" amendedText="Nay,  do not think I flatter :"/>
+        <substitution method="pen" type="insertion" copyText="As one in suffering all that suffers nothing " amendedText="As one , in suffering all, that suffers nothing."/>
+        <substitution method="pen" type="deletion" copyText="'' Thereto prickt on by a most emulate pride" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' For (so this side of our known world esteem'd him)" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' Against the which a moity competent |
+            '' Was gaged by our King, which had returned |
+            '' To the inheritance of Fortinbas, |
+            '' Had he been vanquisher: as by the same compact, |
+            '' And carriage of the Articles design, |
+            '' His fell to Hamlet:" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Of unimproved metal, hot, and full," amendedText=""/>
+        
+        
+        <!-- Symbols and marks -->    <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        
+        <!-- It looks like there are multiple Hatchings and no X_sign. -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        <mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/>
+        
+        
+    </annotation>
+</transcription>

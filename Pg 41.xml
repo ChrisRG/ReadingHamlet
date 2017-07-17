@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.021r.tif" pagination="3" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    
+            <!-- Don't forget to change the pagination and signature. -->
+    
+    <annotation>
+        
+        <!-- Substitutions -->
+        
+        <!-- I would leave a space between the quote and the beginning of the line, as well as a space between the end of the line and the vertical bar. -->
+        <substitution method="pen" type="deletion" copyText="
+            '' Ham. Speak the speech I pray you, as I pronounc'd it to you| 
+            ''Smoothly from the tongue; but if you mouth it, as many of our|
+            ''Players do, I had as lieve the Town-crier spoke my lines: nor do|
+            ''not saw the air too much with your hand thus, but use all gently;|
+            ''for in the very torrent tempest, and as I may say, whirlwind of|
+             your passion you must acquire and beget a temperance that may|
+             give it smoothness: O it offends me to the soul to hear a robusti-| 
+            ''ous Periwig-gated fellow tear a passion to very rags, to split the| 
+             ears of the ground-lings, who for the most part are capable of| 
+            ''nothing but inexplicable dumb shews and noise: I would have| 
+            ''such a fellow whipt for ore- doing Termagant, it out-Herods Herod, |
+            ''pray you, avoid it.| 
+            ''Pla. I warrant your honour.| 
+            ''Ham. Be not too tame neither, but let your own discretion be| 
+             your tutor; sute the action to the word, the word to the action,| 
+            ''with this special observance, that you o'er-step not the modesty of|
+            ''Nature: for anything so o're-done is from the purpose of Play- 
+            ''ing, whose end both at the first, and now, was and is, to hold, as 'twere" amendedText=""/>
+          
+          <!-- For the following line, I would count this as a replacement, and for the amendedText put "Enter Hamlet meeting Pol&amp;c" -->
+        <substitution method="pen" type="insertion" copyText="Enter Hamlet and three of the Players" amendedText="meeting Pol. &amp;C"/>
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

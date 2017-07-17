@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="3" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">                
+                <position place="right_margin" book_orientation="0">  <!-- You might want to check the position of this marginalia-->
+                    <marginalia_text>
+                        (6)
+                        King
+                        Queen 
+                        Laertes
+                        a 
+                        Flourish
+                        one with a 
+                        cup of wine
+                    </marginalia_text>
+                    <person name=""/>   <!-- Each person referenced should get a single "Person" line. -->
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0"> <!-- Check the position. -->
+                    <marginalia_text>
+                        (7)
+                        Ophrick     <!-- I think this is "Ostrick." -->
+                        with Foile
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
+        
+        <substitution method="pen" type="deletion" copyText="Hora. I knew you must be edited by the margin e're you had done." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="I would it might be hangers till then;" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="why is this all you call it?" amendedText="as I take it"/>
+        
+        <substitution method="pen" type="deletion" copyText="He did so Sir with his dog before he suckt it;" amendedText=""/>
+        
+        <!-- Check the spelling for the following line. -->
+        <substitution method="pen" type="deletion" copyText="Your does well rocommend it felt, there are no tongues, elfe for his turn. Hora. This lapwong runaway with the shell on his head.''He did so Sir with his dog before he fuckt it;''thus has be and many more of the fame breed that I know the drossie age doses on, only got the tun of the tie, and out of an habit of inconnter, a kind of yefty collection, which carries them through and through the most profane and renowned opinions; and do but blow them to their trials the bubbles are out." amendedText=""/>		
+        
+        <!-- Where are the following lines? -->
+        <substitution method="pen" type="deletion" copyText="'' Thereto prickt on by a most emulate pride" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' For (so this side of our known world esteem'd him)" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' Against the which a moity competent |
+            '' Was gaged by our King, which had returned |
+            '' To the inheritance of Fortinbas, |
+            '' Had he been vanquisher: as by the same compact, |
+            '' And carriage of the Articles design, |
+            '' His fell to Hamlet:" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Of unimproved metal, hot, and full," amendedText=""/>
+        
+        <!-- Is there hatching on this page? -->
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

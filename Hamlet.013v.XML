@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.013v.tif" pagination="26" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Thanks Guildenstern and gentle Rosencraus" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Guil. Heavens make our presence and our practices |
+                                                                 Pleasant and helpful to him.|
+                                                                 Queen. Amen" amendedText=""/>
+        <!-- I'd put a space between the quotes and the beginning of the line, and a space between the end of the line and the vertical bar. -->
+        <substitution method="pen" type="deletion" copyText="''Pol. Th' Embassadors from Norway, my good Lord,
+            | ''Are joyfully return'd|
+            ''King. Thou still half the father of good news,|
+            ''Pol. Have I my Lord? I assure my good Liege|
+            ''I hold my duty as I hold my Soul,|
+            ''Both to my God, and to my gracious King." amendedText="Mar. Pray tell me he that knows,"/>
+        
+        <substitution method="pen" type="replacement" copyText="''And'' I do think, or else this brain of mine" 
+            amendedText="Pol: My good Liege,  I do think, or else this brain of mine"/>
+        
+        <substitution method="pen" type="deletion" copyText=" ''Pol. Give first admittance to the Embassadors.|
+             ''My news shall be the fruit to that great feast.|
+            '' King. Thy self do grace to them, and bring them in,|
+           '' He tell me, my dear Gertrud, he hath found|
+             ''The head and source of all your sons distemper|
+           '' Queen. I doubt it has no other but the main,|
+           ''  His fathers death, and our hafty marriage.|
+            Enter Embassadors|
+            '' King. Well, we shall sist* him: welcome my good friends;|
+            '' Say Voltemand, what gfrom our brother Norway?|
+           '' Vol. Most fair return of greetings and desires:|
+            '' Upon our first he sent out to suppress|
+            '' His Nephews levies, which to him appear'd|
+            ''To be a preparation gaint the Pollack,|
+          ''  But better lookt into, he truly found." amendedText=""/>
+        
+        
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
+        
+    </annotation>
+</transcription>
+

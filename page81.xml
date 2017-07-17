@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="81" signature="IV.7" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <!-- I think it's probably best to include the name of the speaker if it's present in the printed text. I.e. "Ham. Sir, his definement suffers no loss in you, etc." -->
+        
+        <substitution method="pen" type="deletion" copyText="Sir, his definement suffers no loss in you, though I know to divide him inventorially, would dizzy th' arithmetick of memo-ry, : but in the verity of extolment, I take him to be a foul of great article. and his infusion of such dearth and rarenels, as to make true diction of him, his femblable is his mirrour, and who elfe would trace him, his umbrage, nothing more." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Your Lordship speaks most infalliby of him." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="The concernancy, Sir why do we wrap the Gentleman in our rawer breath?" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Sir." amendedText=""/>
+        
+        <!-- I'm not sure where the following line is on the page. -->        
+        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Is't not possible to understand in another tongue, you will do't Sir really-" amendedText=""/>		
+        
+        <!-- For the following line, it looks like there aren't double quotes. -->
+        <substitution method="pen" type="deletion" copyText="'' His purse is empty already, all's golden words are spent," amendedText=""/>
+        
+        <!-- For the following line, it looks like there aren't double quotes. -->
+        <substitution method="pen" type="deletion" copyText="'' I know you are not ignorant" amendedText=""/>
+        
+        <!-- For the following line, don't forget the "amendedText" element. -->
+        <substitution method="pen" type="deletion" copyText="I would you did Sir yet if you did it would not much approve me: well Sir."
+       
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+            
+            <!-- Is there hatching on this page? -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>
