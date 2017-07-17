@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.007r.tif" pagination="13" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+
+        <!-- Substitutions -->
+        
+        <!-- Don't forget to add a space between the quotes at the beginning and the start of the text,
+        as well as a space after the end of the text and the vertical bar. -->
+        <substitution method="pen" type="deletion" copyText="'' Out of the shot and danger of desire:" amendedText=""/>
+ 
+        <substitution method="pen" type="deletion" copyText="
+            '' Virtue if self seapes not caluminious strokes |
+            '' The canker galls the infant of the Spring |
+            '' Too oft before their buttons bedifoles’d |
+            '' And in the morn and liquid dew of youth |
+            '' Cantagious blastments are most imminent |
+            '' Be wary then best safety lies in fear, |
+            '' Youth to it self rebells though none elfe near."
+           amendedText=""/>
+           
+        <substitution method="pen" type="deletion" copyText="" amendedText="“And reaks not his own reed, "/>
+        
+        <substitution method="pen" type="deletion" copyText="'' A double blessing is a double grace, | '' Occasion smiles upon a second leave," amendedText=""/>"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' There, my blessing with thee, |
+            '' And these few precepts in thy memory |
+            '' Look thou character: Give thy thoughts no tongue, |
+            '' Nor any unproportion’d thought act: |
+            '' Be thou familiar, but by no means: vulgar: |
+            '' Those friends thou hast and their adoption tried, |
+            '' Grapple them unto thy palm with entertainment |
+            '' Of each new hatch’t unfledge’d courage: beware |
+            '' Of entrance to a quarrel, but being in, |
+            '' Bear’t that th’ oppose may beware of thee: |
+            '' Give every man thy ear, but few thy voice; |
+            '' Take each mans censure, but reserve thy judgement: |
+            '' Costly thy habit as thy purse can buy, |
+            '' But not exprest in fancy; rich, not gaudy; |
+            '' For the apparel oft proclaims the man, |
+            '' And they in France of the Best rank and station, |
+            '' Are of the most select and generous, chief in that: |
+            '' Neither a borrower nor a lender boy, |
+            '' For love oft loses both it self and friend, |
+            '' And borrowing dulls the edge of husbandry."
+            amendedText=""/>
+                
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        
+        <!-- Looks like there's a Hatching in the right_margin -->
+    </annotation>
+</transcription>
