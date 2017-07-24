@@ -5,9 +5,9 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.002r.tif" pagination="3" signature="I.1-2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.003r.tif" pagination="5" signature="I.1-I.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-   
+    
         
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="Bar. 'Tis here. | Hor. 'Tis here." amendedText=""/>
@@ -25,6 +25,8 @@
         
         <substitution method="pen" type="deletion" copyText="'' Do you consent we shall acquaint him with it, | As needful in our loves, fitting our duty?" amendedText=""/>
         
+        
+       <!-- Scene division -->
         
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->

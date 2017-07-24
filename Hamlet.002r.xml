@@ -4,7 +4,7 @@
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
     <page filename="Hamlet.002r.tif" pagination="3" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
-    <annotation>
+    <annotation> 
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
             <language ident="EN">
@@ -23,7 +23,7 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         (5)
-                        one to Cron [?]	<!-- Unsure -->
+                        one to Cron	<!-- Unsure -->
                     </marginalia_text>
                 </position>
             </language>
