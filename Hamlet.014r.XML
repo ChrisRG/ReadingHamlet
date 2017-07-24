@@ -7,42 +7,31 @@
     
     <page filename="Hamlet.014r.tif" pagination="27" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
+        <substitution method="pen" type="deletion" copyText=" ''It as against your Highness; whereat griev'd |
+            '' That so his sickness, age, and impotence |
+            '' Was falsly born in hand, sends out arrests |
+            '' On Fortinbrass, which he in brief obeys, |
+            '' Receives rebuke from Norway, and in fine, |
+            '' Makes vow before his Uncle never more |
+            '' To give the' affay of arms against your Majesty: |
+            '' Whereon old Norway overcome with joy |
+            '' Gives him threefoore* thousand Crowns in annual fee, |
+            '' And his commission, to imploy those Souldiers |
+            '' With an entreaty herein further shown, |
+            '' That it might please you to give quiet pass |
+            '' Through your Dominions for this enterprize |
+            '' On such regards of safety and allowance |
+            '' As herein are set down. |
+            '' King. It likes us well, |
+            '' And at our more considered time we'll read, |
+            '' Answer, and think upon this business: |
+            '' Mean time we thank you for your well took labour, |
+            '' Go to your reft, at night we'll feast together: |
+            '' Most welcome home. |
+            '' [Exeunt Embassadors |
+            '' Pol.   This business is well ended." amendedText=""/>
         
-        <!-- Substitutions -->
-        
-        
-        <substitution method="pen" type="deletion" copyText=" ''It as against your Highness; whereat griev'd|
-            ''That so his sickness, age, and impotence|
-           '' Was falsly born in hand, sends out arrests|
-            ''On Fortinbrass, which he in brief obeys,|
-            ''Receives rebuke from Norway, and in fine,|
-            ''Makes vow before his Uncle never more|
-            ''To give the' affay of arms against your Majesty:|
-           ''Whereon old Norway overcome with joy|
-            ''Gives him threefoore* thousand Crowns in annual fee,|
-            ''And his commission, to imploy those Souldiers|
-            ''With an entreaty herein further shown,|
-            ''That it might please you to give quiet pass|
-            ''Through your Dominions for this enterprize|
-            ''On such regards of safety and allowance|
-            ''As herein are set down.|
-            ''King. It likes us well,|
-            ''And at our more considered time we'll read,|
-            ''Answer, and think upon this business:|
-            ''Mean time we thank you for your well took labour,|
-            ''Go to your reft, at night we'll feast together:|
-           '' Most welcome home.|
-           '' [Exeunt Embassadors|
-            ''Pol.   This business is well ended.|
-            " amendedText=""/>
-        
-        
-        
-        
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-    
-        
+                
     </annotation>
 </transcription>

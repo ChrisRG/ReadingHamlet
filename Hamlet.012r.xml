@@ -7,54 +7,51 @@
     
     <page filename="Hamlet.012r.tif" pagination="23" signature="II.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        
-       
-        <!-- I'd put a space between the quotes and the beginning of the line. -->    
-        <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="“What forgeries you please, marry none so rank|
-            ''As may dishonour him, take heed of that;|
-            ''But Sir, such wanton, wild, and usual slips,|
-            ''As are companions noted and most known|
-            ''To youth and liberty. |
-            ''Rey. As gaming my Lord.|
-            ''Pol. I, or drinking, fencing, swearing,|
-            ''Quarelling, drabbing. You may go so far.|
-            ''Rey. My Lord, that would dishonour him.|
-            ''Pol. Faith as you may season it in the charge,|
-            ''You must not put another scandal on him,|
-            ''That he is open to incontinency,|
-            ''That's not my meaning, but breath his faults so quaintly,|
-            ''That they may seem the taints of liberty,|
-            ''The flash and out-break of a fiery-mind,|
-            ''A savageness in unreclaimed blood|
-            ''of general assault.|
-            ''Rel. But my good Lord.|
-            ''Pol. Wherefore should you do this?|
-            ''Rey. I my Lord, I would know that.|
-            ''Pol. Marry Sir, here's my drift,|
-            ''And I believe it is a fetch of wit.|
-            ''You laying these slight sullies on my son,|
-            ''As 'twere a thing a little soil'd with working,|
-            ''Mark you, your party in converse, he you would sound,|
-            ''Having ever seen In the prenominate crimes,|
-            ''The youth you breath of guilty, be assur'd|
-            ''He closes with you in this consequence;|
-            ''Good sir, or so, or friend, or Gentleman,|
-            ''According to the Phrase and the Addition|
-            ''Of man and Country.|
-            ''Rey. Very good my Lord.|
-            ''Pol. And then Sir does he this, he does: what was I about to say?|
-            ''By the Mass I was about to say something,|
-            ''Where did I leave?|
-            ''Rey. At closes in the consequence:|
-            ''Pol. At closes in the consequence; I marry,|
-            ''He closes thus, I know the Gentleman,|
-            ''I saw him yesterday, or th’ other day,|
-            ''Or then, or then, with such and such, and, as you say,|
-            ''There was he gaming there, or took in's Rowse,|
-            ''There falling out at Tennis, or perchance|
-            ''I saw him enter such and such a house of sale;|
-            ''Videlicet, a Brothel, or so forth. See you now," amendedText=""/>
+
+        <substitution method="pen" type="deletion" copyText="“ What forgeries you please, marry none so rank |
+            '' As may dishonour him, take heed of that; |
+            '' But Sir, such wanton, wild, and usual slips, |
+            '' As are companions noted and most known |
+            '' To youth and liberty. |
+            '' Rey. As gaming my Lord. |
+            '' Pol. I, or drinking, fencing, swearing, |
+            '' Quarelling, drabbing. You may go so far. |
+            '' Rey. My Lord, that would dishonour him. |
+            '' Pol. Faith as you may season it in the charge, |
+            '' You must not put another scandal on him, |
+            '' That he is open to incontinency, |
+            '' That's not my meaning, but breath his faults so quaintly, |
+            '' That they may seem the taints of liberty, |
+            '' The flash and out-break of a fiery-mind, |
+            '' A savageness in unreclaimed blood |
+            '' of general assault. |
+            '' Rel. But my good Lord. |
+            '' Pol. Wherefore should you do this? |
+            '' Rey. I my Lord, I would know that. |
+            '' Pol. Marry Sir, here's my drift, |
+            '' And I believe it is a fetch of wit. |
+            '' You laying these slight sullies on my son, |
+            '' As 'twere a thing a little soil'd with working, |
+            '' Mark you, your party in converse, he you would sound, |
+            '' Having ever seen In the prenominate crimes, |
+            '' The youth you breath of guilty, be assur'd |
+            '' He closes with you in this consequence; |
+            '' Good sir, or so, or friend, or Gentleman, |
+            '' According to the Phrase and the Addition |
+            '' Of man and Country. |
+            '' Rey. Very good my Lord. |
+            '' Pol. And then Sir does he this, he does: what was I about to say? |
+            '' By the Mass I was about to say something, |
+            '' Where did I leave? |
+            '' Rey. At closes in the consequence: |
+            '' Pol. At closes in the consequence; I marry, |
+            '' He closes thus, I know the Gentleman, |
+            '' I saw him yesterday, or th’ other day, |
+            '' Or then, or then, with such and such, and, as you say, |
+            '' There was he gaming there, or took in's Rowse, |
+            '' There falling out at Tennis, or perchance |
+            '' I saw him enter such and such a house of sale; |
+            '' Videlicet, a Brothel, or so forth. See you now," amendedText=""/>
         
        
     </annotation>

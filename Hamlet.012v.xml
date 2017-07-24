@@ -58,22 +58,21 @@
         
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="
-            ''Your bait of falshood takes this carp of truth,|
-            ''And thus do we of wisdom and of reach,|
-            ''With windlesses, and with essays of byas,|
-            ''By indirectis find directions out:|
-            ''So by my former Lecture and advice|
-            ''Shall you my son. You have me, have you not?|
-            ''Rey. My Lord I haue.|
-            ''Pol. God buy you; fare you well.|
-            ''Rey. Good my Lord.|
-            ''Pol. Obserue his inclination in your selfe.|
-            ''Rey. I shall my Lord.|
-            ''Pol. And let him plye his Musicke.|
-            ''Rey. Well, my Lord. Exit.|
-            Enter Ophelia.|
-            ''Pol. Farewell:|
-            " amendedText="I could not this believe,"/>
+            '' Your bait of falshood takes this carp of truth, |
+            '' And thus do we of wisdom and of reach, |
+            '' With windlesses, and with essays of byas, | 
+            '' By indirectis find directions out: |
+            '' So by my former Lecture and advice |
+            '' Shall you my son. You have me, have you not? |
+            '' Rey. My Lord I haue. |
+            '' Pol. God buy you; fare you well. |
+            '' Rey. Good my Lord. |
+            '' Pol. Obserue his inclination in your selfe. |
+            '' Rey. I shall my Lord. |
+            '' Pol. And let him plye his Musicke. |
+            '' Rey. Well, my Lord. Exit. |
+            Enter Ophelia. |
+            '' Pol. Farewell: |" amendedText="I could not this believe,"/>
         
         <substitution method="pen" type="deletion" copyText="No hat upon his head, his stockings loose,
             ''Ungartered, and down gived to his anckle," amendedText=""/>

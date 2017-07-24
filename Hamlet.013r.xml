@@ -10,7 +10,7 @@
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="to call it;|
+        <substitution method="pen" type="deletion" copyText="to call it; |
                                                                 Sith not th'exterior, nor the inward man |
                                                                 Resembles that it was:" amendedText=""/>
         
@@ -21,8 +21,8 @@
         
         <substitution method="pen" type="replacement" copyText="That you vouchsafe your rest here in our Court Some little time," amendedText="That you vouchsafe your pray here in our Court Some little time,"/>
         
-        <substitution method="pen" type="replacement" copyText="To draw him on to pleasures, and to gather 
-                                                                    | So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
+        <substitution method="pen" type="replacement" copyText="To draw him on to pleasures, and to gather | 
+                                                                    So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
         
 	
            

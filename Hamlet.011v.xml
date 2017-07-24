@@ -7,33 +7,27 @@
     
     <page filename="Hamlet.011v.tif" pagination="22" signature="II.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-       
-        <!-- Substitutions -->
-        
-        <!-- I would put a space between the end of the line and the vertical bar. -->
+
         <substitution method="pen" type="deletion" copyText="
-           '' Pol. Give him this money, and these two notes Reynoldo.|
-           '' Rey. I will my Lord.|
-           '' Pol. You shall do marvellous wisely, good Reynoldo,|
-           '' Before you visit him to make inquiry|
-           '' Of his behaviour|
-           '' Rey. My Lord I did intend it.|
-           '' Pol. Marry, well said, very well said, look your Sir,|
-           '' Enquire me first what Danskers are in Paris,|
-           '' And how, and who, what means and where they keep,|
-           '' What company, at what expence: and finding|
-           '' By this encompassment and drift of question,|
-           '' That they do know my son: come you more near|
-           '' Then your particular demands will touch it,|
-           '' Take you as 'twere some distant knowledge of him,|
-           '' As thus, I know his father, and his friends,|
+           '' Pol. Give him this money, and these two notes Reynoldo. |
+           '' Rey. I will my Lord. |
+           '' Pol. You shall do marvellous wisely, good Reynoldo, |
+           '' Before you visit him to make inquiry |
+           '' Of his behaviour |
+           '' Rey. My Lord I did intend it. |
+           '' Pol. Marry, well said, very well said, look your Sir, |
+           '' Enquire me first what Danskers are in Paris, |
+           '' And how, and who, what means and where they keep, |
+           '' What company, at what expence: and finding |
+           '' By this encompassment and drift of question, |
+           '' That they do know my son: come you more near |
+           '' Then your particular demands will touch it, |
+           '' Take you as 'twere some distant knowledge of him, |
+           '' As thus, I know his father, and his friends, |
            '' And in part him: Do you mark this Reynoldo? |
-           '' Rey. I very well my Lord.|
-           '' Pol. And in part him, but you may say not well,|
-           '' But if it be he I mean, he’s very wild,|
-           '' Addicted so and so, and there put on him|"
-            
-        
-         amendedText=""/>
+           '' Rey. I very well my Lord. |
+           '' Pol. And in part him, but you may say not well, |
+           '' But if it be he I mean, he’s very wild, |
+           '' Addicted so and so, and there put on him" amendedText=""/>
     </annotation>
 </transcription>
