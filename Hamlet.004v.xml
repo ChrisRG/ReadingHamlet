@@ -1,0 +1,62 @@
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.004v.tif" pagination="8" signature="I.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (7)
+                        Horatio
+                        Marcellus
+                        Barnardo
+                    </marginalia_text>
+                    <person name="Horatio"/>
+                    <person name="Marcellus"/>
+                    <person name="Barnardo"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            but to persevere |
+            in obstinate condolement, does express |
+            An impious stubbornness, 'tis unmanly grief |
+            '' It shews a will most incorrect to heaven, |
+            '' A heart unfortified, or mind impatient, |
+            '' An understanding simple and unschool'd: |
+            '' For what we know must be, and is as common |
+            '' As any the most vulgar thing to sense, |
+            '' Why should we in our peevish opposition |
+            '' Take it to heart? fie, 'tis a fault to heaven |
+            '' A fault against the dead, a fault to nature, |
+            '' To reason most absurd, whose common theam |
+            '' Is death of fathers, and who still hath cried |
+            '' From the first coarse till he that died to day, |
+            '' This must be so:" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="dares express" amendedText="does express"/>
+        <substitution method="pen" type="deletion" copyText="
+            '' And with no less nobility of love |
+            '' Than that which dearset father bears his son |
+            '' Do I impart toward you for your intent |
+            '' In going  back to School to Wittenberg; |
+            '' It is most retrograde to our desire, |
+            '' And we beseech you bend you to remain |
+            '' Here in the chear and comfort of our eye," amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="'Tis a loving" amendedText="It is a loving"/>
+      
+        <substitution method="pen" type="replacement" copyText="Madam come," amendedText="come, madam,"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' And the Kings rowse the heave shall bruit again, | Respeaking earthly thunder: Come away." amendedText=""/>
+        
+        <substitution method="pen" type="errata" copyText="Cannon" amendedText="Canon"/>		
+        
+        
+    </annotation>
+</transcription>

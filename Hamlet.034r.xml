@@ -1,0 +1,52 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.034r.tif" pagination="67" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Exit
+                  
+                    </marginalia_text>
+                    <person name=""/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (16)
+                        King
+                        Laertes
+                    </marginalia_text>
+                    <person name="King"/>
+                    <person name="Laertes"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text="">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="but" amendedText=""/>   
+        <substitution method="pen" type="deletion" copyText="Our Crown, our life and all that we call ours" amendedText=""/>  
+        <substitution method="pen" type="deletion" copyText="Be you content to" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="lend your patience to us" amendedText="lend but your patience to us"/>
+        
+    </annotation>
+</transcription>

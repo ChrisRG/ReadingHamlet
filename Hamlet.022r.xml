@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.022r.tif" pagination="43" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (8)
+                        player King 
+                        and Queen 
+                    </marginalia_text>
+                    <person name="Player King"/>
+                    <person name="Player Queen"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (7)
+                        Prologue
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                     Discover'd
+                    </marginalia_text>
+                </position>
+              </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="give me that man" amendedText="give me that man,"/>
+        <substitution method="pen" type="insertion" copyText="In my heart’s core I, in my heart, of heart" amendedText="In my heart’s core; I, in my heart, of heart,
+            "/>
+        <substitution method="pen" type="insertion" copyText="As I do thee. Something too much of this" amendedText="As I do thee.—Something too much of this:—
+            "/>
+        <substitution method="pen" type="insertion" copyText="One scene of it comes near the circumstance
+            " amendedText="One scene of it comes near the circumstance,
+            "/>
+        <substitution method="pen" type="insertion" copyText="give him heedful note" amendedText="give him heedful note;"/>
+        <substitution method="pen" type="deletion" copyText="To sound what stop she please: " amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="'' And my imaginations are as foul" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="'' As Vulcan’s smithy" amendedText=""/>
+        
+        
+        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
+        
+
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

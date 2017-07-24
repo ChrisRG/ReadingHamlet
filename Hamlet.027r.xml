@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.027r.tif" pagination="53" signature="III.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (20)
+                        Ghost
+                        Ready at 
+                        Long trap
+                    </marginalia_text>
+                    <person name="Ghost"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text="Pol. O I am slain.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        dies
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+  
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="How, now, a Rat? dead for a ducket, dead." amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="I Lady,it was my word." amendedText="I lady, 'twas my word."/>
+        <substitution method="pen" type="replacement" copyText="I took thee for thy better take thy fortune," amendedText="I took thee for thy betters, take thy fortune;"/>
+        <substitution method="pen" type="replacement" copyText="Thou findest to be too busie is some danger" amendedText="Thou find'st, to be too busie, is some danger"/>
+        
+        <substitution method="pen" type="insertion" copyText="And let me wring your heart; for so I shall," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' If damned custom have not braz'd it so,| '' That it be proof and bulwark against sense," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="''heavens face does glow| 
+            ''Yea this solidity and compound mass|
+            ''With heated visage as against the doom|
+            ''Is thought-sick at the act." amendedText=""/>		
+        
+        <substitution method="pen" type="replacement" copyText="and eye like Mars to threaten and command;" amendedText="an eye, like Mars, to threaten on command;"/>
+        
+        <substitution method="pen" type="deletion" copyText="''A station like the Herald Mercury| ''New lighted on a heaven kissing hill," amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="A combination, and a form indeed,"
+            amendedText=""/>
+        
+       
+        
+        
+    </annotation>
+</transcription>

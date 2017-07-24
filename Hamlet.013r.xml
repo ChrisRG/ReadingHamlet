@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.013r.tif" pagination="25" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="to call it;|
+                                                                Sith not th'exterior, nor the inward man |
+                                                                Resembles that it was:" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="that thus hath put him |
+                                                                so much from the understanding of himself" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="That being of so young days brought up with him, |
+                                                                '' And sith so neighboured to his youth and behaviour," amendedText="Mar. Pray tell me he that knows,"/>
+        
+        <substitution method="pen" type="replacement" copyText="That you vouchsafe your rest here in our Court Some little time," amendedText="That you vouchsafe your pray here in our Court Some little time,"/>
+        
+        <substitution method="pen" type="replacement" copyText="To draw him on to pleasures, and to gather 
+                                                                    | So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
+        
+	
+           
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.023r.tif" pagination="45" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (9)
+                        Lucianus
+                        a
+                        phial
+                    </marginalia_text>
+                    <person name="Lucianus"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        Mock
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text="Queen">
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        Mock                   
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+         <marginalia  anchor_text="King">
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        Mock
+                    </marginalia_text>
+                </position>
+            </language>
+         </marginalia>
+                    <!-- Substitutions -->
+                    <substitution method="pen" type="replacement" copyText="And thou shalt live in this fair world behind," amendedText="But thou shalt live in this fair world behind,"/>
+        
+                    <substitution method="pen" type="deletion" copyText="'' And womens fear and love hold quantity, |
+                       '' Either none, in neither ought, or in extremity."  amendedText=""/>
+                    <substitution method="pen" type="replacement" copyText="None wed the second but who killed the first:" amendedText="None wed the second but who killed the first: --
+                        "/>
+        
+                    <substitution method="pen" type="replacement" copyText="That's wormwood" amendedText="That's wormwood--"/>
+        
+                    <substitution method="pen" type="deletion" copyText="''Neptunes salt wash, and Tellus orb’d ground,
+                        ''And thirty dozen Moons with borrowed sheen
+                        ''About the world have times twelve thirties been," amendedText=""/>
+        
+                    <substitution method="pen" type="deletion" copyText="The instances that second marriage move |
+                        Are base respects of thrift but none of love: |
+                        ''A second time I kill my husband dead |
+                        ''When second husband kisses me in bed." amendedText=""/>		
+        
+                    <substitution method="pen" type="deletion" copyText="Purpose is but the slave to memory, |
+                        Of violent birth, but poor validity; |
+                        Which now, like fruit unripe sticks on the tree, |
+                        But fall unshaken, when they mellow be. |
+                        Most necessary ’tis that we forget |
+                        To pay our selves what to our selves is debt: |
+                        What to our selves in passion we propose, |
+                        The passion ending, doth the purpose lose; |
+                        ''The violence of either grief or joy |
+                        ''Their own enactures with themselves destroy; |
+                        ''Where joy most revels grief doth most lament." amendedText=""/>
+        
+        
+        
+        
+       
+        
+        
+    </annotation>
+</transcription>

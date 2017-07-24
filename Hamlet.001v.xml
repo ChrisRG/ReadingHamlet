@@ -1,0 +1,37 @@
+
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.001v.tif" pagination="2" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            Therefore I have entreated him along, |
+            With us to watch the minutes of this night, |
+            '' That if again this apparition come, |
+            '' He may approve our eyes and speak to it" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Bar. Sit down a while, |
+            And let us once again assail your ears" 
+            amendedText="Bar. Come, | let us once again assail your ears"/>
+        <substitution method="pen" type="errata" copyText="too" amendedText="two"/>
+        <substitution method="pen" type="deletion" copyText="
+            Well, let's down, |
+            And let us hear Barnardo speak of this."
+           amendedText="Well, | let us hear Barnardo speak of this."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Bar. In the same figure, like the King that's dead. |
+            Mar. Thou art a Scholar, speak to it Horatio." amendedText="Ber: Looks it not like the king?"/>
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
+        <mark name="X_sign" place="left_margin"/>
+        
+        
+    </annotation>
+</transcription>

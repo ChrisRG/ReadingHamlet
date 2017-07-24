@@ -1,0 +1,53 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.032r.tif" pagination="63" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (11)
+                        Messenger
+                    </marginalia_text>
+                    <person name="Messenger"/>
+                </position>
+            </language>
+        </marginalia>
+    
+    <marginalia>
+        <language ident="EN">
+            <position place="right_margin" book_orientation="0">
+                <marginalia_text>
+                   Laertes
+                   and Attendant
+                   without
+                </marginalia_text>
+                <person name="Laertes"/>
+                <person name="Attendant"/>
+            </position>
+        </language>
+    </marginalia>
+    
+    
+    
+    <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            '' Yet the unshaped use of it doth move | 
+            '' The hearers to collection, they yawn at it, |
+            '' And botch the words up fit to their own thoughts, |
+            '' Which as winks, and nods, and gestures yield them, |
+            '' Indeed would make one think there might be thought, |
+            '' Though nothing sure, yet much unhappily" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="To my sick soul, as sins true nature is, Each toy seems prologue to some great amifs, So full of artless jealousie is guilt, It spills itself in hearing to be split" amendedText=""/>       
+        <substitution method="pen" type="deletion" copyText="Alas sweet Lady, which imports this song?" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Alas, look here my lord" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Then up he rose and dond his clothes and dupt the Chamber door, Let in the Maid, that out Maid never departed more" amendedText=""/>
+        
+        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin"/>
+    </annotation>
+</transcription>

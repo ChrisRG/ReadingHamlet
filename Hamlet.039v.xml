@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.039v.tif" pagination="78" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
+        <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
+        <substitution method="pen" type="insertion" copyText=" I prethee take thy fingers from my throat, " amendedText=" I prethee take thy fingers from my throat, --" />        
+        
+        <substitution method="pen" type="deletion" copyText=" Hamlet, Hamlet. | Gentlemen. | Good my Lord be quiet. " amendedText=""/>    
+        <substitution method="pen" type="deletion" copyText=" O he is mad Laertes. | Forbear him. " amendedText=""/>    
+        <substitution method="pen" type="replacement" copyText=" Shew me what thou’t do, | Wilt weep wilt fight, wilt fast wilt tear thy self, | Wilt drink up  Efil, eat a Crocodile? | I’ll do’t ; doest thou come here to whine? " amendedText=" Shew me what thoust do. | Wilt weep?  wilt fight, ? wilt fast wilt tear thy self,? | Wilt drink up  Eifil, eat a Crocodile? | I’ll do’t --doest thou come here to whine? " />                
+        
+        <substitution method="pen" type="deletion" copyText=" Be buried quick with her ;" amendedText=" Be buried quick with her "/>    
+        <substitution method="pen" type="insertion" copyText=" Make Ossa like a wart nay, and thou’lt mouth  " amendedText=" Make Ossa like a wart! nay, and thou’lt mouth  ," />        
+        
+    </annotation>
+</transcription>
+
+

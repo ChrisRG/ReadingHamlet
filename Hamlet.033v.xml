@@ -1,0 +1,46 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.033v.tif" pagination="66" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (14)
+                        Horatio
+                        Messenger
+                    </marginalia_text>
+                    <person name="Horatio"/>
+                    <person name="Messenger"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                       (19)
+                        Sailor with Letter writ
+                    </marginalia_text>
+                    <person name="Sailor"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="A good childe, and" amendedText=""/>       
+       
+        <substitution method="pen" type="replacement" copyText="As day does to your eyes" amendedText="As day does to your eyes. Poor Ophelia!"/>
+        <substitution method="pen" type="deletion" copyText="How now? What noise is that? O heat dry up my brains, tears seven time fast Burn out the sense vertue of mine eye" amendedText=""/>
+        
+        <symbol name="Hatching" place="left_margin"/>
+    </annotation>
+</transcription>

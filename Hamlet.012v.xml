@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.012v.tif" pagination="24" signature="II.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        Act Begins Here
+                    </marginalia_text>
+                    <person name=""/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (1)
+                       Polonius
+                       Ophelia 
+                       Meeting
+                    </marginalia_text>
+                    <person name="Polonius"/>
+                    <person name="Ophelia"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (2)
+                        King
+                        Queen
+                        Rosencraus:
+                        Guildenstern:
+                        Attendants
+                        a
+                        Flouris[h]
+                    </marginalia_text>
+                    <person name="King"/>
+                    <person name="Queen"/>
+                    <person name="Rosencraus"/>
+                    <person name="Guildenstern"/>
+                    <person name="Attendant"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            ''Your bait of falshood takes this carp of truth,|
+            ''And thus do we of wisdom and of reach,|
+            ''With windlesses, and with essays of byas,|
+            ''By indirectis find directions out:|
+            ''So by my former Lecture and advice|
+            ''Shall you my son. You have me, have you not?|
+            ''Rey. My Lord I haue.|
+            ''Pol. God buy you; fare you well.|
+            ''Rey. Good my Lord.|
+            ''Pol. Obserue his inclination in your selfe.|
+            ''Rey. I shall my Lord.|
+            ''Pol. And let him plye his Musicke.|
+            ''Rey. Well, my Lord. Exit.|
+            Enter Ophelia.|
+            ''Pol. Farewell:|
+            " amendedText="I could not this believe,"/>
+        
+        <substitution method="pen" type="deletion" copyText="No hat upon his head, his stockings loose,
+            ''Ungartered, and down gived to his anckle," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Come, go with me, I will go seek the King" amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="How now Ophelia, what's the matter?" amendedText="Pol: How now Ophelia, what's the matter?"/> 
+        
+        <substitution method="pen" type="insertion" copyText="Enter Ophelia" amendedText="Enter Ophelia meeting Polonius"/> 
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
+        
+        
+    </annotation>
+</transcription>

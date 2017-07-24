@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.072v.tif" pagination="54" signature="III.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+
+                
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="This was your husband,--look you now what follows;" amendedText=""/>
+        
+        <substitution method="pen" type="errata" copyText="moor" amendedText="moore"/>
+        <substitution method="pen" type="insertion" copyText="You cannot call it love, for at your age" amendedText="You cannot call it love; for, at your age,"/>
+        <substitution method="pen" type="insertion" copyText="sense sure you have,|
+            Else could you not have motion but sure that sense| 
+            Is apoplext: for madness would not err;|" 
+            amendedText="sense, sure, you have,|
+            Else could you not have motion: but, sure, that sense|
+            Is apoplext: for madness would not err;|"/>
+        
+        <substitution method="pen" type="replacement" copyText="pardons" amendedText="panders"/>
+        <substitution method="pen" type="replacement" copyText="The heyday of the blood" amendedText="the heyday in the blood is tame"/>
+        <substitution method="pen" type="deletion" copyText="Sense, sure, you have,| 
+            Else could you not have motion: but, sure, that sense|
+            Is apoplext: for madness would not err;|
+            Nor sense to extasie was ne'er so thrall'd,|
+            But it refery'd some quantity of choice|
+            To serve in such a difference, what Devil was't| 
+            ''That thus hath cousn'd you at hodman-blind?| 
+            ''Eyes without feeling, feeling without fight,| 
+            ''Ears without hands, or eyes, smelling sans all, |
+            ''Or but a sickly part of one true sense| 
+            '' Could not so mope,'' Oh shame! where is thy blush?| 
+            Rebellious hell, | 
+            If thou canst matinyin a Matrons bones, |
+            To flaming youth, let vertue be as wax|
+            And melt in her own fire, proclaim no shame, | 
+            When the compulsive ardure gives the charge; | 
+            Since frost it self as actively dith burn, |
+            And reason panders will|" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="''And there I see such black and grieved spots|'' As will leave there their tinct." amendedText=""/>		
+        
+        <substitution method="pen" type="deletion" copyText="Stew'd in corruption, '' honeying and making love| ''Over the nasty stye| O speak to me no more| O speak to me no more| These words like daggers enter in minecars" amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="A murtherer and a villain" amendedText="A murtherer and a villain!--"/>
+        
+        <substitution method="pen" type="insertion" copyText="A slave that's not the twentieth part the tythe" amendedText="A slave, that's not the twentieth part the tythe"/>
+        
+        <substitution method="pen" type="insertion" copyText="Of your precedent Lord a vice of Kings;" amendedText="Of your precedent Lord. a vice of Kings;--"/>
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

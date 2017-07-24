@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet..028r.tif" pagination="55" signature="III.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia anchor_text="what would your gracious">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>   
+                        Form?
+                    </marginalia_text>
+                    <person name=""/>
+                </position>
+            </language>
+        </marginalia>  
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="A King of shredsa nd patches." amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="Save me and hover o're me with your wings" amendedText="Save me and hover o're me with your wings,"/>
+
+        <substitution method="pen" type="replacement" copyText="You heavenly guards what would your gracious fire?" amendedText="You heavenly guards! what would your gracious form?"/>
+        
+        <substitution method="pen" type="insertion" copyText="Do you not come your tardy son to chide" amendedText="Do you not come your tardy son to chide,"/>
+        
+        <substitution method="pen" type="replacement" copyText="person" amendedText="passion"/>
+        
+        <substitution method="pen" type="deletion" copyText="That lap'st in time, and person lets go by" amendedText="That lap'st in time and person lets go by"/>		
+        
+        <substitution method="pen" type="replacement" copyText="dead" amendedText="dread"/>
+        
+        <substitution method="pen" type="insertion" copyText="How is it with you Lady?" amendedText="How is it with you, Lady?"/>
+        
+        <substitution method="pen" type="replacement" copyText="the affrighted" amendedText="th'affrighted"/>
+        
+        <substitution method="pen" type="replacement" copyText="upon" amendedText="on"/>
+        <substitution method="pen" type="insertion" copyText="tears perchance for blood" amendedText="tears, perchance, for blood"/>
+        <substitution method="pen" type="replacement" copyText="that is" amendedText="that's"/>
+        <substitution method="pen" type="replacement" copyText="steals" amendedText="stalks"/>
+        <substitution method="pen" type="insertion" copyText="My father in his habit as he liv'd" amendedText="My father in his habit as he liv'd!"/>
+        <substitution method="pen" type="insertion" copyText="Look where he goes, even now out at the portal," amendedText="Look, where he goes, even now out at the portal,"/>
+        <substitution method="pen" type="deletion" copyText="This bodiless creation extasie is very cunning in." amendedText=""/>
+        <substitution method="pen" type="errata" copyText="it is" amendedText="'tis"/>
+        <substitution method="pen" type="replacement" copyText="for" amendedText="from"/>
+        <substitution method="pen" type="insertion" copyText="Would make them capable. do not look up on me" amendedText="Would make them capable: do not look on me"/>
+        
+        <substitution method="pen" type="insertion" copyText="Mother for love of grace" amendedText="Mother, from, love of grace"/>
+     
+        
+        
+    </annotation>
+</transcription>
+

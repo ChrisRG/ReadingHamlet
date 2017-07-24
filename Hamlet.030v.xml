@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.030v.tif" pagination="60" signature="IV.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (9)
+                        Ophelia
+                      
+                    </marginalia_text>
+                    <person name="Ophelia"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (10)
+                        King
+                    </marginalia_text>
+                    <person name="King"/>
+                </position>
+            </language>
+        </marginalia>
+        
+       <!--There are some deletions and one insertion on this page that need to be represented-->
+        <!-- Substitutions --> 
+        <substitution method="pen" type="replacement" copyText="At supper, where? " amendedText="At supper? where? "/>
+        <substitution method="pen" type="replacement" copyText="I fee a Cherub that sees them: but come, for England. Farewel dear mother. " amendedText="I fee a Cherub, that sees them; but come, for England! Farewel,dear mother. "/>
+        <substitution method="pen" type="replacement" copyText="My mother, father and mother is man and wife; Man and wife is one flesh, and for so my mother. Come, for England." amendedText="My mother: father and mother is a man and wife; Man and wife is one flesh, and, so, my mother. Come, for England "/>
+        <substitution method="pen" type="replacement" copyText="Where is Polonius?" amendedText="But where is Polonius? " />
+        <substitution method="pen" type="replacement" copyText="thine" amendedText="thye" />
+        <substitution method="pen" type="replacement" copyText="thyself" amendedText="yourself" />
+        
+        
+
+        
+        
+    </annotation>
+</transcription>
+

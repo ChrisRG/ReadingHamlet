@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.024v.tif" pagination="48" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (12)
+                        Polonius
+                    </marginalia_text>
+                    <person name="Polonius"/>
+                </position>
+            </language>
+        </marginalia>
+                     
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Enter the Players with Recorders" amendedText="Enter Horatio with Recorders"/>    
+        
+        <substitution method="pen" type="deletion" copyText="therefore no" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="more, but to the matter: my mother, you say,--" amendedText=""/>		
+        
+        <substitution method="pen" type="replacement" copyText="Your wisdom should shew it self rich to
+            signifie this to the Doctor:  for, for me to put him
+            to his purgation would perhaps plunge him into far
+            more choler." amendedText="Your wisdom should shew it self more rich to
+            signifie this to his Doctor:  for, for me to put him
+            to his purgation would, perhaps, plunge him into far
+            more choler."/>
+        
+        <substitution method="pen" type="deletion" copyText="'' For (so this side of our known world esteem'd him)" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' Against the which a moity competent |
+            '' Was gaged by our King, which had returned |
+            '' To the inheritance of Fortinbas, |
+            '' Had he been vanquisher: as by the same compact, |
+            '' And carriage of the Articles design, |
+            '' His fell to Hamlet:" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. And I do still by these pickers and stealers." amendedText="Ham. Peril I do still, by these pickers and stealers."/>
+        <substitution method="pen" type="replacement" copyText="Guil. Good my Lord vochsafe me a word with yon." amendedText=" Guil. Good my Lord, vouchsafe me a word with yon. "/>
+        <substitution method="pen" type="replacement" copyText="Guil. The King Sir." amendedText="Guil. The King, Sir.----- "/>
+        <substitution method="pen" type="replacement" copyText=" Ham. I Sir, what of him?" amendedText=" Ham. I, Sir, what of him? "/>
+        <substitution method="pen" type="replacement" copyText="Guil. Is in his retirement marvelous distempered. " amendedText="Guil. Is, in his retirement, marvelous distempered. -----"/>
+        <substitution method="pen" type="replacement" copyText=" Ham. With drink Sir?" amendedText="Ham. With drink, Sir?"/>
+        <substitution method="pen" type="replacement" copyText="Guil. No my Lord, with choler. " amendedText="Guil. No, my Lord, with choler."/>
+        <substitution method="pen" type="replacement" copyText="Guild. Nay good my Lord this courtesie is not of the right
+            breed, if it shall please you to make me a
+            wholesome answer, I will do your Mothers commandment, if not, your pardon and my return
+            shall be the end of the business." amendedText="Nay, good my Lord, this courtesie is not of the right
+            breed, if it shall please you to make me a
+            wholesome answer, I will do your Mothers commandment, if not, your pardon and my return
+            shall be the end of the business."/>
+      <substitution method="pen" type="replacement" copyText="My Lord you once did love me." amendedText="My Lord, you once did love me. "/>
+        <substitution method="pen" type="replacement" copyText="Ham. Sir I lack advancement." amendedText="Ham. Sir, I lack advancement."/>  
+        <substitution method="pen" type="replacement" copyText=" Ham. And I do still by these pickers and stealers." amendedText="Ham. Peril I do still, by these pickers and stealers."/>
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin"/>
+        
+        
+    </annotation>
+</transcription>

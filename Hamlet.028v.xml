@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet..028v.tif" pagination="56" signature="III.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>   
+                        King
+                    </marginalia_text>
+                    <person name="King"/>
+                </position>
+            </language>
+        </marginalia>      
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="That not your trespass but my madness speaks |
+            It will but skin and film the ulcerous place |
+            While rank corruption mining all within |
+            Infects unseen: confess your self to heaven|
+            Repent what's past, avoid what is to come" amendedText="That not your trespass, but my madness, speaks; |
+            It will but skin and film the ulcerous place; |
+            While rank corruption, mining all within, |
+            Infects unseen: confess your self to heaven; |
+            Repent what's past, avoid what is to come, "/>
+        
+        <substitution method="pen" type="insertion" copyText="Then throw away the worser part of it | 
+            And leave the purer with the other half. |
+            Goodnight, but go not to my Uncles bed |
+            Assume a vertue if you have it not. Once more goodnight. " amendedText="Then throw away the worser part of it. | 
+            And live the purer with the other half. |
+            Goodnight; but go not to my Uncles bed: |
+            Assume a vertue, if you have it not. Once more goodnight!"/>
+        
+
+
+       
+        <substitution method="pen" type="deletion" copyText="''And do not spread the compost on the weeds|
+            ''To make them ranker: forgive me this my vertue,|
+            ''For in the fatness of these pursie times|
+            ''Vetrue it self of vice must pardon-beg,|
+            ''Yea curb and wooe for leave to do him good." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            '' And with such daily cost of brasen Cannon, | 
+            '' And foreign Mart for implements of war? |
+            '' Why such impress of ship-wrights, whose sore task |
+            '' Does not divide the Sunday from the week?
+            '' What might be toward, that this sweaty haste" amendedText=""/>
+    
+ <substitution method="pen" type="deletion" copyText="
+     '' That monster custom, who all sense doth eat, |
+     '' of habits devil, is Angel yet in this, |
+     '' That to the use of actions fair and good |
+     '' He likewise gives a frock or livery |
+     '' That aptly is put on : refrain to night, |
+     '' And that shall lend a kind of easiness |
+     '' To the next abstinence, the next more easie; |
+     '' For use almost can change the stamp of nature, |
+     '' And master the Devil, or throw him out |
+     '' With wondrous potency : Once more good night," amendedText=""/>
+ <substitution method="pen" type="deletion" copyText="That I must be their scourge and minister" amendedText=""/>       
+ <substitution method="pen" type="deletion" copyText="Not this by no means that I bid you do," amendedText=""/>
+ <substitution method="pen" type="deletion" copyText="
+     '' Pinch wanton on you cheek, call you his Mouse, |
+     '' And let him for a pair of reechy kisses, |
+     '' Or padling in your neck with his damn's fingers, " amendedText="" />
+        
+        
+        
+       
+        
+      		
+      
+        
+       
+        
+     
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

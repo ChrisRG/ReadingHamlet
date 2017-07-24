@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.020r.tif" pagination="39" signature="III.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (3)
+                        King
+                        Polonius 
+                    </marginalia_text>
+                    <person name="King"/>
+                    <person name="Polonius"/>
+                    
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="as" amendedText="he"/>
+        <substitution method="pen" type="replacement" copyText="To groan and sweat under a weary life?" amendedText="[?]"/>
+        <substitution method="pen" type="insertion" copyText="  The [?r] unidiscover’d Country, from whole born" amendedText=" (The [?r] unidiscover’d Country, from whole bourn" />   
+        <substitution method="pen" type="insertion" copyText="  No traveller returns, puzzles te will" amendedText=" No traveller returns,) puzzles te will;" />        
+
+    
+        <substitution method="pen" type="replacement" copyText="Shows" amendedText="If"/>
+        <substitution method="pen" type="deletion" copyText="ought" amendedText="pale capt of thought"/>
+        <substitution method="pen" type="replacement" copyText="away" amendedText="awry "/>
+        <substitution method="pen" type="replacement" copyText="Soft you now, the fair Ophelia and lose the name of action" amendedText= " Soft the fair Ophelia and lose the name of action "/>
+        
+        
+        
+        <substitution method="pen" type="deletion" copyText=" Be all my sins remembered?" amendedText="Be all my sins remembered?"/>
+        <substitution method="pen" type="deletion" copyText=" for virtue cannot so ??? our old flock but we shall relish of it: " amendedText=" for virtue cannot so our old flock but we shall relish of it: "/>
+        
+        <substitution method="pen" type="insertion" copyText=" I humbly thank you, well. " amendedText="I humbly thank you, well. --"/>       
+       
+        
+      
+        
+    
+         <substitution method="pen" type="replacement" copyText="than the force of honestly can translate beauty to his likeness" amendedText=" than the force of honestly can translate beauty into its likeness "/>        
+        <substitution method="pen" type="insertion" copyText="for virtue cannot so ??? our old flock but we shall relish of it: " amendedText=" for virtue cannot so ??? our old flock, but we shall relish of it: "/>        
+        
+        
+        <substitution method="pen" type="deletion" copyText=" but now the time gives it proof." amendedText="but now the time gives it proof.--"/>
+        
+
+        
+      
+        
+        <substitution method="pen" type="replacement" copyText=" You should have not believed me for vertue cannot so evacuate our old stock but we shall rellish of it: I love you not. " amendedText="You should have not believed me for vertue cannot so inoculate our old stock, but we shall rellish of it: I love you not."/>
+        
+
+        
+        
+    </annotation>
+</transcription>
+

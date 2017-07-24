@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.038v.tif" pagination="76" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia -->     <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia >
+            <language ident="EN">
+                <position place="left_margin" book_orientation="90">
+                    <marginalia_text>
+                        Hamlet Prince of Denmark
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text= "And smelt so? Pah." >
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        Smelling to the scull
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (3)
+                        King
+                        Queen
+                        Laertes
+                        Priest
+                        Attendant
+                        Corpse Supported
+                        
+                    </marginalia_text>
+                    <person name="King"/>
+                    <person name="Queen"/>
+                    <person name="Laertes"/>
+                    <person name="Priest"/>
+                    <person name="Attendant"/>
+                    <person name="Corpse Supported"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText=" ‘Twill not be seen in him there, there are men as mad as mad as he." amendedText="‘Twill not be seen in him; there there are men as mad as mad as he "/>
+        <substitution method="pen" type="insertion" copyText="Very strangely they say." amendedText=" Very strangely, they say "/>      
+        <substitution method="pen" type="replacement" copyText="Alas poor Yorick I knew him Horatio, a fellow of infinite jest, of most excellent fancy he hath bore me on his back a thousand times and now how abhorred in my imagination it is? My gorge rifes at it. " amendedText=" Alas poor Yorick! I knew him, Horatio, a fellow of infinite jest; of most excellent fancy: he hath bore me in his arms a thousand times: "/>
+        <substitution method="pen" type="replacement" copyText=" not one now" amendedText=" not one now,"/>
+        
+        <substitution method="pen" type="deletion" copyText=" to this favour she must come; make her laugh at that, " amendedText=" to this favour she must come; "/>
+        <substitution method="pen" type="insertion" copyText="Dost thou think Alexander lookt on this fashion I’th’ earth?" amendedText=" Dost thou think, Alexander lookt on this fashion I’th’ earth?" />             
+            <substitution method="pen" type="insertion" copyText="To what base use we may return Horatio! Why may not imagination trace the nobble dust of Alexander till he find it stopping a bung hole. " amendedText=" To what base use we may return, Horatio! Why may not imagination trace the nobble dust of Alexander, till he find it stopping a bung hole.  "/>             
+    </annotation>
+</transcription>
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.016v.tif" pagination="32" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (7)
+                        }Players
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="tail" book_orientation="0">
+                    <marginalia_text>
+                        Pol: If you call me, Jeptha, my Lord, I|
+                        have a daughter that I love passing well|
+                        Ham. Nay, that follows not.
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Ros. I think their inhibition comes by the means of the late in-|
+                                                             novation" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="very" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="[A Flourish" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="and those that would make mouths at him while my father, lived,|
+                                                                give twenty, forty, fiftay, a hundred duckets a piece for his picture|
+                                                                in little:" 
+                                                      amendedText="and those that would make mouths at him while my father, lived,|
+                                                                             give twenty, forty, fiftay, nay a hundred duckets a piece for his picture|
+                                                                             in little:"/>
+        <substitution method="pen" type="deletion" copyText="come then," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="let me comply with you in this garb, ''Left my extent to the Play-|
+                                                             ''ers, which I tell you must shew farily outwards, should more ap-|
+                                                             ''pear like entertainment than yours; you are welocome:" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Hark you Guildenstern, and you too, aat each ear a hearer," 
+                                                        amendedText="Hark you Guildenstern, and Rosencrans,"/>
+        <substitution method="pen" type="deletion" copyText="as" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="that great baby you see is not yet out of his swadling clouts." 
+                                                         amendedText="that great baby you see yonder is not yet out of his swadling clouts."/>
+        
+        <substitution method="pen" type="replacement" copyText="I will prophesie that he comes to tell me of the Players,|
+                                                                mark it: YOu say right Sir, Monday morning 'twas then indeed." 
+                                                                amendedText="I will prophesie that he comes to tell me of the Players,|
+                                                                mark it -- YOu say right, Sir; for on Monday morning 'twas then, indeed."/>
+        <substitution method="pen" type="replacement" copyText="My Lord I have news to tell you:" 
+                                                                amendedText="My Lord, I have news to tell you:"/>
+        <substitution method="pen" type="replacement" copyText="Actor in Rome." 
+                                                                amendedText="Actor in Rome.--"/>
+        <substitution method="pen" type="replacement" copyText="Buz, buz" 
+                                                                amendedText="Buz,--"/>
+        <substitution method="pen" type="replacement" copyText="Upon mine honour." 
+                                                                amendedText="Upon mine honour.--"/>
+        <substitution method="pen" type="replacement" copyText="Then came each actor in his Ass" 
+                                                                amendedText="Then came each actor in his Ass--"/>
+        <substitution method="pen" type="replacement" copyText="O feptha Judge of Israel what a treasure hadst thou" 
+                                                                amendedText="O feptha Judge of Israel what a treasure hadst thou!"/>
+        <substitution method="pen" type="deletion" copyText="Pol: If you call me, Jeptha, my Lord, I|
+                                                             have a daughter that I love passing well|
+                                                             Ham. Nay, that follows not." amendedText=""/>
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
+        <symbol name="Hatching" place="right_margin"/> 
+    </annotation>
+</transcription>

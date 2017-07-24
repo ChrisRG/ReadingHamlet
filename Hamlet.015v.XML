@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.015v.tif" pagination="30" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="powerfully and" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="''which rea-|
+                                                            son and sanctity could nor so happily be delivered of.'' I will |
+                                                            leave him and my daughter." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="of you" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="not" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="except my life, except my life" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="''Ros. As the indifferent children of the earth.| 
+            ''Guil. Happy in that we are not ever happy on fortunes cap,|
+            ''We are not the very button.|
+            ''Ham. Not the soles of her shoe.|
+            ''Ros. Neither my Lord.|
+            ''Ham. Then you live about her wast, or in the middle of her favours.|
+            ''Guil. Faith her privates we.|
+            ''Ham. In the secret parts of fortune, oh most true, she is a stum-|
+            ''per." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="''and sure dear friends my thanks are too dear a half peny:''" amendedText=""/>
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+    </annotation>
+</transcription>
+
+

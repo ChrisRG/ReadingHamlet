@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.025r.tif" pagination="49" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (13)
+                        King
+                    </marginalia_text>
+                    <person name="King"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (14)
+                        Rosencraus
+                        Guilderstern
+                    </marginalia_text>
+                    <person name="Rosencraus"/>
+                    <person name="Guilderstern"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (15)
+                        Polonius
+                    </marginalia_text>
+                    <person name="Polonius"/>
+                </position>
+            </language>
+        </marginalia>
+        
+
+
+
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText=" I will come by and by. Leave me, friends By and by is easily said.
+            " amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="To withdraw with
+            you" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Ham, It is as easie as lying; govern these ventages with
+            your fingers and thumb, give it breath with your
+            mouth, and it will discourse most eloquent musick :
+            look you, these are the stops. 
+            " amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Ham. I beseech you." amendedText="Ham. I do beseech you."/>
+        
+        <substitution method="pen" type="replacement" copyText="Guil. I know no touch of it my Lord." amendedText="Guil. I know no touch of it, my Lord."/>
+        
+        <substitution method="pen" type="replacement" copyText="And do such business as day it self" amendedText="And do such deeds as day it self"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. Why look you now how unworthy a thing you make of
+            me; you would play upon me, you would seem to know
+            my stops; you would pluck out the heart of my
+            mystery; you would sound me from my lowest note to
+            my compass, and there is much music,
+            excellent voice in this little organ, yet cannot
+            you make it speak , do you think I am
+            easier to be plaid on than a pipe? Call me what
+            instrument you will, though you can fret me you
+            cannot play upon me." amendedText="Ham. Why, look you now, how unworthy a thing you make of
+            me; you would play upon me, you would seem to know
+            my stops; you would pluck out the heart of my
+            mystery; you would sound me from my lowest note, to the top of 
+            my compass, and there is much music,
+            excellent voice, in this little organ, yet cannot
+            you make it speak. Why do you think I am
+            easier to be plaid on than a pipe? Call me what
+            instrument you will, though you can fret me, you
+            cannot play upon me.----"/>		
+        
+        <substitution method="pen" type="replacement" copyText="Ham. Methinks it is like a Wezal
+            Pol. It is black like a Wezal" amendedText="Ham. Methinks it is like an ouzle
+            Pol. It is black like an ouzle "/>
+        
+        <substitution method="pen" type="insertion" copyText="Ham. Or like a Whale." amendedText="Ham. Or rather like a Whale."/>
+        
+       
+        
+   
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>
+
+

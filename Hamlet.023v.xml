@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.023v.tif" pagination="46" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (10)
+                       Rosencraus
+                       Guildenstern
+                    </marginalia_text>
+                    <person name="Rosencraus"/>
+                    <person name="Guildenstern"/>              
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="Think still thou wilt no second husband wed" amendedText="So Think still thou wilt no second husband wed"/>
+        
+        <substitution method="pen" type="insertion" copyText="Queen. Nor earth to me give food, nor heaven light," amendedText="Mock Queen.  Nor earth to me give food, nor heaven light,"/>
+        <substitution method="pen" type="insertion" copyText=" King. 'Tis deeply sworn: sweet leave me here a while," amendedText="Mock King.'Tis deeply sworn: sweet leave me here a while,,"/>
+        <substitution method="pen" type="insertion" copyText="[Ham. If he should [ break it now." amendedText="---  [Ham. If she should [ break it now.---"/>
+        
+        <substitution method="pen" type="insertion" copyText="O but she'll keep her word." amendedText=" O, but she'll keep her word."/>
+        
+        <substitution method="pen" type="insertion" copyText=" No, no, they do but jest, poison in jest, no offence " amendedText="No, no, they do but jest, poison in jest, no offence i 'th'world."/>
+        
+        <substitution method="pen" type="replacement" copyText="The Mousetrap, marry how? tropically. This Play is the image of a murther done in Vienna, Gonzago is the Dukes name, his wife Baptista, you shall see anon, 'tis a knavish piece of work; but what of that? your Majesty and we have free souls, it touches not us; let the galled jade winch, our withers are unwrung. This is one Lucianus, Nephew to the King.
+            " amendedText="The Mousetrap;- marry, how? tropically. This Play is the image of a murther done in Vienna; Gonzago is the Dukes name, his wife Baptista; you shall see anon, 'tis a knavish piece of work; but what o’ that? your Majesty and we have free souls, it touches us not; let the galled jade winch, our withers are unwrung. This is one Lucianus, Nephew to the Duke."/>		
+        
+        <substitution method="pen" type="replacement" copyText="This is one Lucianus, Nephew to the King." amendedText="This is one Lucianus, Nephew to the Duke."/>
+        
+        <substitution method="pen" type="replacement" copyText="Exeunt" amendedText="Exit"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' Grief joy, joy griefs on slender accident. |
+            This world is not for aye, nor is it strange, |
+            That even our loves should with our fortunes change: |
+            For- ’tis a question left us yet to prove, |
+            Whether love lead fortune, or else fortune love. |
+            '' The great man down, you mark his favorite flies, |
+            '' The poor advanc’d makes friends of enemies: |
+            '' And hitherto doth love on fortune tend, |
+            '' For who not needs shall never lack a friend, |
+            '' And who in want a hollow friend doth try, |
+            '' Directly seasons him his enemy. |
+            '' But orderly to end where I begun, |
+            '' ur wills and fates do so contrary run, |
+            '' That our devices still are overthrown: |
+            ''Our thoughts are ours, their ends none of our own." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' To desperation turn my trust and hope, |
+            '' An Anchors cheer in prison be my scope, |
+            '' Each opposite that blanks the face of joy, |
+            '' Meet what I would have well, and it destroy;" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="his wife Baptista, you shall see anon, 'tis a knavish piece of work; but what of that?" amendedText="his wife Baptista, you see anon, 'tis a knavish piece of work; but what of that?"/>
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

@@ -1,0 +1,56 @@
+DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.032v.tif" pagination="64" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Exit
+                    </marginalia_text>
+                    <person name=/>
+                </position>
+            </language>
+        </marginalia>
+
+
+
+
+
+        <!-- Substitutions -->
+
+<substitution method="pen" type="deletion" copyText="Quoth she, before you tumbled me you promis’d me to wed. (He answers) So should I have done, by yonder Sun And thou hadst not come to my bed" amendedText=""/>
+
+        <substitution method="pen" type="deletion" copyText="O this is the poison of deep grief, it springs all from her fathers death: and now behold O gertrard, Gertrard, |
+            When sorrows come they come not single spies, | 
+            But in battalians: first, her father slain, | 
+            Next, your son gone, and he most violent author |
+            Of his own just remove; the people muddied, | 
+            Thick and unwholsome in thoughts and whispers | 
+            For good Polonius death, and we have done but | 
+            Obseurely to interr him; poor Ophelia | 
+            Divided from her self and her fair judgment, | 
+            Without which we are but pictures, or meer beasts. | 
+            Last, and as much containing as all these, | 
+            Her brother is in secret come from France, | 
+            Feeds on this wonder, keeps himself in clouds, | 
+            And wants not whispers to infect his ear | 
+            With pestilent speeches of his fathers death, | 
+            ‘Wherein necessity of mater beggerd | 
+            ‘Will nothing slick our person to arraign | 
+            ‘In ear and ear: O my dear Gertrard, this |
+            Like to a murdering-piece in many places  | 
+            Gives me superfluous death" amendedText=""/>
+
+<substitution method="pen" type="deletion" copyText="Where are my Swiffers? Let them guard the door" amendedText=""/>
+ 
+        <substitution method="pen" type="deletion" copyText="Quoth she, before you tumbled me you promis’d me to wed. (He answers) So should I have done, by yonder Sun And thou hadst not come to my bed" amendedText=""/>
+        
+       <symbol name="Hatching" place="left_margin"
+        
+    </annotation>
+</transcription>

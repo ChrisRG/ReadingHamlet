@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.040r.tif" pagination="79" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="Hear you Sir," amendedText=" Hear you Sir,--"/>        
+        
+        <substitution method="pen" type="replacement" copyText="I lov’d you ever, but it is not matter," amendedText=" I lov’d you ever, but it is not matter --"/>
+        <substitution method="pen" type="insertion" copyText=" Let Hercules himself do what he may" amendedText=" Let Hercules himself do what he may ,"/>  
+        
+        <substitution method="pen" type="replacement" copyText="I pray thee good" amendedText=" I pray you  good "/>
+        <substitution method="pen" type="replacement" copyText=" Good Gertrard set some watch over you son, " amendedText=" Good Gertrurd set some watch over you son, "/>
+        
+        <substitution method="pen" type="deletion" copyText="''  An hour of quiet thereby shall we see, |'' Till then in patience out proceeding be.  " amendedText=""/>
+            
+            
+            
+            
+            
+    </annotation>
+</transcription>
+
+

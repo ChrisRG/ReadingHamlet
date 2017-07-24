@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.026r.tif" pagination="51" signature="III.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (17)
+                        Queen 
+                        Polonius
+                        2 Chairs on
+                    </marginalia_text>
+                    <person name="Queen"/>
+                    <person name= "Polonius"/>
+                </position>
+            </language>
+        </marginalia>
+        <substitution method="pen" type="insertion" copyText="Where is this murderer" amendedText="Where is this murderer?"/>
+        <substitution method="pen" type="insertion" copyText="And now I’ll do’t" amendedText="And now I’ll do’t--"/>
+        <substitution method="pen" type="insertion" copyText="And so he goes to heaven," amendedText="And so he goes to heaven,--"/>
+        <substitution method="pen" type="insertion" copyText="That would be scann’d;" amendedText="That would be scann’d;--"/>
+        <substitution method="pen" type="insertion" copyText="I his sole son send him" amendedText="I, his sole son, send him"/>
+        <substitution method="pen" type="insertion" copyText="To heaven" amendedText="To heaven-------"/>
+        <substitution method="pen" type="insertion" copyText="He kill'd my father, and for that" amendedText="He kill'd my father-and fot that,"/>
+        <substitution method="pen" type="insertion" copyText="" amendedText="&amp;"/>
+        <substitution method="pen" type="insertion" copyText="" amendedText="7"/>
+        <substitution method="pen" type="deletion" copyText="why this is a reward" amendedText="why this is reward"/>
+            
+            
+        
+        
+
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/> 
+        
+        
+    </annotation>
+</transcription>

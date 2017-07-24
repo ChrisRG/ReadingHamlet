@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.029v.tif" pagination="58" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+     
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Enter Rosencraus Guildenstern 2 attendants
+                      
+                    </marginalia_text>
+                    <person name="Rosencraus "/>
+                    <person name="Guildenstern"/>
+                    <person name="Attendants"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Enter Hamlet, Rosencraus and others" amendedText="Ros: w[i]thout: Hamlet! Lord Hamlet"/>
+        
+       
+        <substitution method="pen" type="deletion" copyText="'' O here they come," amendedText=""/>
+        
+     
+        <!-- I think there are a couple Hatchings here. -->
+      
+    </annotation>
+</transcription>
+

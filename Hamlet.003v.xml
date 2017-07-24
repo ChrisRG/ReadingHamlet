@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="6" signature="I.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+     
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            '' With an auspicious and a dropping eye, |
+            '' With mirth in funeral, and with dirge in marriage, |
+            '' In equal scale weighing delight and dole," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            (for all our thanks) |
+            '' Now follows that you know young Fortinbrass, |
+            '' Holding a weak supposal of our worth, |
+            '' Or thinking by our late dear brothers death |
+            '' Our state to be dis-joynt, and out of frame, |
+            '' Colleagued with this dream of his advantage, |
+            '' He hath not fail'd to pester us with message, |
+            '' Importing the surrender of those lands |
+            '' Lost by his father, with all bands of Law, |
+            '' To our most valiant brother. So much for him. |
+            '' Now for our self, and for this time of meeting, |
+            '' Thus much the business is, we have here writ |
+            '' To Norway, Uncle of young Fortinbrass, |
+            '' Who impotent and bedrid, scarcely hears |
+            '' Of this his Nephews purpose, to suppress |
+            '' His further gate herein, in that the levies, |
+            '' The lists, and full proportions are all made |
+            '' Out of his subjects: and we now dispatch |
+            '' You good Cornelius, and you Voltemand, |
+            '' Ambassadors to old Norway, |
+            '' Who have no further personal power |
+            '' Of Treaty with the King, more than th escope |
+            '' Of these delated Articles allow. |
+            '' Farewel, and let your haste commend your duty. |
+            '' Cor. Vo. In that and all things will we shew our duty. |
+            '' King. We doubt it nothing: heartily farewel. |" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Now Laertes, what's the news with you?" amendedText="And Now Laertes,"/>
+        <substitution method="pen" type="deletion" copyText="
+            '' You cannot speak of reason to the Dane, |
+            '' And lose your voice: what would'st thou beg Laertes? |
+            '' That shall not be my offer, not thy asking. |
+            '' The head is not more native to the heart, |
+            '' The hand more instrumental to the mouth," amendedText=""/>
+        
+        
+    </annotation>
+</transcription>

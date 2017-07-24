@@ -1,0 +1,41 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.033r.tif" pagination="65" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (13)
+                        Ophelia
+                    </marginalia_text>
+                    <person name="Ophelia"/>
+                </position>
+            </language>
+        </marginalia>
+        
+      
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Antiquity forgot, custom not known, | 
+            The ratifiers and props of every word, | 
+            They cry chuse we Laertes for our King, | 
+            Caps, hands, and tongues applaud it to the clouds, Laertes shall be King.| 
+            ‘How chearfully on the false tail they cry; | 
+            ‘O this is counter you false Danish doggs" amendedText=""/>       
+        <substitution method="pen" type="deletion" copyText="With others" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="The doors are broke" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Cries Cuckold to my father, brands and the Harlot | 
+            Even here between the chaste brows |
+            Of my true mother" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Acts little of his will: tell me Laertes Why thou art thus incenst" amendedText=""/>
+        
+        <symbol name="Hatching" place="right_margin"/>
+        
+    </annotation>
+</transcription>

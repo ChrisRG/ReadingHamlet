@@ -1,0 +1,48 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.004r.tif" pagination="7" signature="I.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <!-- Substitutions -->
+        
+        <substitution method="pen" type="deletion" copyText="'' Than is the throne of 
+            Denmark to thy father: | '' What would'st thou have Laertes?" amendedText=""/>
+        
+        
+        <substitution method="pen" type="replacement" copyText="again toward France" 
+            amendedText="again for France"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' And bow them to your 
+            gracious leave and pardon" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' I do beseech you give 
+            him leave to go." amendedText=""/>        
+        
+        <substitution method="pen" type="deletion" copyText="And thy best graces; 
+            spend it at thy will." amendedText="And; spend it at thy will."/>
+        
+        <substitution method="pen" type="deletion" copyText="Not so much my Lord," 
+            amendedText="Not so my Lord,"/>
+        
+        <substitution method="pen" type="replacement" copyText="cloke could 
+            smother," amendedText="suit good mother,"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Nor customary sutes 
+            of solemn black, | '' Nor windy suspiration of forc'd breath, | '' No, nor the fruitful river in the 
+            eye, | Nor the dejected haviour of the visage," amendedText=""/>
+        <substitution method="pen" type="errata" copyText="forms, moeds, 
+            shapes" amendedText="forms, moodes, shapes"/> 
+        <substitution method="pen" type="replacement" copyText="'' For they are 
+            actions that a man might play:" amendedText=""/>
+        
+        
+        
+    </annotation>
+</transcription>
+
+
+
+

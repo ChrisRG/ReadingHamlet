@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.030r.tif" pagination="59" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+       
+        <!-- Substitutions -->
+       
+        <substitution method="pen" type="insertion" copyText="That I can keep your counsel and not mine own, besides, to be demanded of a spunge, what replication should be made by the son of a King? " amendedText="That I can keep your counsel, and not mine own; besides, to be demanded of a spunge, what replication should be made by the son of a King?"/>		
+        <substitution method="pen" type="insertion" copyText="I Sir, that sokes up the Kings countenance, his rewards, his authorities: but such Officers do the King best service in the end; he keeps them like an apple in the corner of his jaw first mouth’d to be last swallowed. when he needs what you have gleaned, it is but squeesing you, and spunge you shall be dry again" amendedText="--I, Sir, that sokes up the Kings countenance, his rewards, his authorities; but such Officers do the King best service in the end; he keeps them like an apple, in the corner of his jaw; first mouth’d to be last swallowed: when he needs what you have glean'd, it is but squeesing you, and,spunge, you shall be dry again. "/>		
+        <substitution method="pen" type="insertion" copyText="I am glad of it: a knavish speech sleeps in a foolish ear." amendedText="--I am glad of it; a knavish speech sleeps in a foolish ear."/>		
+        <substitution method="pen" type="deletion" copyText="'' The body is with the King, but the King is not with the body: the King is a thing" amendedText=""/> 
+        <substitution method="pen" type="deletion" copyText="''A thing my Lord?" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="'' Of nothing, " amendedText=""/>
+    </annotation>
+</transcription>

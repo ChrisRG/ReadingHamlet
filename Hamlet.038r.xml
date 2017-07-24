@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.038r.tif" pagination="75" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="where  be his quiddities now his quilietes, his case his tenures, and his tricks?" amendedText=" where  be his quiddities now ?his quilietes?  his case? his tenures, and his tricks?" /> 
+            <substitution method="pen" type="deletion" copyText="this fellow might bt in’s time a great buyer of land, with his statues, his recognisances, his fines, his double vouchers vouch him no more of his purchases and doubles, than the length and bredth of a pair of Indentures? the very conveyances of his land will scarcely lie in this box, and must th inheritor himself have no more? Ha?" amendedText=""/>
+            <substitution method="pen" type="insertion" copyText="Mine Sir, or a pit of clay for to be made. | I think it’s thine indeed, for thou lyft int. | You ly out on’t Sir, " amendedText=" Mine Sir, -or a pit of clay for to be made.-- | I think it’s thine indeed; for thou ly’ft in’t. | You ly’e out on’t’ Sir, "/>  
+            <substitution method="pen" type="insertion" copyText=" Thou doest lye in’t, to be in’t and say it is thine," amendedText=" Thou doest lye in’t; to be in’t and say, it is thine "/>  
+            
+            <substitution method="pen" type="replacement" copyText="Horatio this three years I have took notice, of it, the age is grown so picked, that the toe of the pesant comes so near the hell of the Courtier, he galls his kibe" amendedText=" Horatio these three years I have took notice, that the toe of the pesant comes so near the hell of the Courtier, he galls his kibe "/>
+            
+            
+            
+            
+    </annotation>
+</transcription>

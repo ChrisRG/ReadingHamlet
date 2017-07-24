@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.020v.tif" pagination="40" signature="III.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia -->     <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (4)
+                        Ghost
+                    </marginalia_text>
+                    <person name="Ghost"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (5)
+                        one to Cron [?]    <!-- Unsure -->
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (4)
+                        Hamlet
+                        Polonius
+                        Rosencraus
+                        Guildenstern
+                        
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                    <person name="Polonius"/>
+                    <person name="Rosencraus"/>
+                    <person name="Guildenstern"/>
+                    (5)
+                    <person name="Horatio"/>
+                    <person name=" "/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="Get thee to a nunnery" amendedText Get thee to a nunnery."/>  
+        <substitution method="pen" type="insertion" copyText=" I am my self indifferent honest," amendedText= “I am my self indifferent honest;"/>        
+        <substitution method="pen" type="replacement" copyText="I could not believe this," amendedText="I could not this believe,"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' So frown'd he once, when in angry Parle | '' He smote the sleaded Pollax on the ice | 'Tis strange." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Mar. Pray sit down and tell me he that knows," amendedText="Mar. Pray tell me he that knows,"/>
+        <substitution method="pen" type="deletion" copyText="The courtiers, Souldiers, Scholar, ye, tongue, sword," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText=" The glass of fashion, and the mould of form" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="That suck the honey of his Musick vows” amendedText=""/>
+            <substitution method="pen" type="deletion" copyText=" For what he spake though it lack form a little, was not likfe madness. There’s something in his foul o’re which his melancholy sits on brood" amendedText=""/>
+            <substitution method="pen" type="replacement" copyText="Makes the night joynt labour with the day?" amendedText="Making the night joynt labourer with the day?"/>
+            
+            <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
+            
+            
+            
+                <substitution method="pen" type="insertion" copytext= "with more offences at my beck ”amendedText= “with more offences at my beck,"/>        
+                
+                <substitution method="pen" type="insertion" copytext= "”amendedText= “with more offences at my beck,"/>        
+                
+                <substitution method="pen" type="insertion" copytext= "make of them: to a nunnery ”amendedText= “make of them: to a nunnery ,"/>        
+                <substitution method="pen" type="insertion" copytext= "I have heard of your paintings”amendedText= “I have heard of your paintings too"/> 
+                <substitution method="pen" type="insertion" copytext= "Nature hath given you one face, and you make yourself another ”amendedText= “Nature hath given you one face, and you make yourself another."/> 
+                <substitution method="pen" type="insertion" copytext= " and make your wantonness your ignorance ”amendedText= “Nature hath given you one face, and you make yourself another."/> 
+                <substitution method="pen" type="insertion" copytext= "I say we will have no more marriages |  " those that are married already all but one shall live the rest shall keep as they are: to a Nunnery go.”amendedText= “ I say, we will have no more marriages. |  " those that are married already, all but one,  shall live; the rest shall keep as they are: to a Nunnery go.”"/> 
+                    
+                    
+                    
+                    <substitution method="pen" type="deletion" copyText="'' I have heard of your paintings too well enough" amendedText=" I have heard of your paintings too "/>
+                    <substitution method="pen" type="deletion" copyText="'' Thereto prickt on by a most emulate pride" amendedText=""/>
+                    
+                    <substitution method="pen" type="deletion" copyText="'' you jig and given you one face" amendedText=" you jig given you one face "/>
+                    
+                    <substitution method="pen" type="deletion" copyText=" make of them: to a nunnery,got,- and quicklytoo:farewl. " amendedText=" make of them: to a nunnery , go,-"/>
+                    
+                    <substitution method="pen" type="deletion" copyText="'' Of unimproved metal, hot, and full," amendedText=""/>
+                    
+                    
+                    <!-- Symbols and marks -->    <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+                    
+                    
+                    
+                    <mark name="Hatching" method="pen" place="left_margin" text="Enter King and Polonius "/>
+                    
+    </annotation>
+</transcription>
+
+
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.014v.tif" pagination="28" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+<marginalia>
+    <language ident="EN">
+        <position place="left_margin" book_orientation="0">
+            <marginalia_text>
+                (4)
+                }Hamlet
+                }a Book
+            </marginalia_text>
+            <person name="Hamlet"/>
+        </position>
+    </language>
+</marginalia>
+
+<!-- Substitutions -->
+<substitution method="pen" type="deletion" copyText="''All given to mine ear." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="think" amendedText=""/>
+
+    <substitution method="pen" type="deletion" copyText="''When I had seen this hot love on the wing,|
+    ''As I perceiv'd it (I must tell you that)|
+    ''Before my daughter told me; what might you" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="plaid the Dusk, or Table book,|
+                                                                ''Or given my heart a winking, mute and dumb,|
+                                                                or" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="then into a fast,|
+                                                               ''Thence to a watch, then into a weakness,|
+                                                               ''Thence to a lightness," amendedText=""/>
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        
+    </annotation>
+</transcription>
+

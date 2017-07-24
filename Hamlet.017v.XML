@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.017v.tif" pagination="34" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Ham: So proceed." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="his antich sword|
+                                                                Rebellious to his arm," 
+                                                                amendedText="his antique sword|
+                                                                Rebellious to his arm,"/>
+        <substitution method="pen" type="deletion" copyText="''Seeming to feel this blow, with flaming top|
+                                                             ''Stoops to his base, and with a hideous crash|
+                                                             ''Takes prisoner Pyrrhus ear: for loe his sword,
+                                                             ''Which was declining on the milky head|
+                                                             ''Of reverend Priam seem'd i'th air to stick,|
+                                                             ''So as a painted tyrant Pyrrhus stood,|
+                                                             ''Like a neutral to his will and matter,|
+                                                             ''Did nothing" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="''all you gods|
+                                                             ''In general Synod take away her power,
+                                                             ''Break all the spokes and felloes from her wheel,
+                                                             ''And bowl the round have down the hill of heaven,
+                                                             ''As low as to the fiends." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Ham. It shall to the Barbers with your beard: prethee, say on:|
+                                                                he's for a jig, or a take of bawdry, or he sleeps, say on come to|
+                                                                Hecuba." 
+                                                                amendedText="Ham. It shall to th' Barbers with your beard. Prethee, say on:|
+                                                                he's for a jig, or a take of bawdry, or he sleeps. Say on come to|
+                                                                Hecuba."/>
+        <substitution method="pen" type="deletion" copyText="About her lank and all o're teamed loyns," amendedText=""/>
+        
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+    </annotation>
+</transcription>
+
