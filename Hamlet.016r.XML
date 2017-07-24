@@ -13,7 +13,7 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         (6)
-                        }Polonius
+                        Polonius
                     </marginalia_text>
                     <person name="Polonius"/>
                 </position>
@@ -23,19 +23,19 @@
         <substitution method="pen" type="deletion" copyText="come" amendedText=""/>
         <substitution method="pen" type="deletion" copyText="and" amendedText=""/>
         <substitution method="pen" type="deletion" copyText="ever preferred" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="lost all my mirth,|
+        <substitution method="pen" type="replacement" copyText="lost all my mirth, |
                                                                 forgone all custom of exercises" 
-                                                                amendedText="lost all my mirth,|
+                                                                amendedText="lost all my mirth, |
                                                                 forgone all custom of exercise"/>
-        <substitution method="pen" type="deletion" copyText="look|
+        <substitution method="pen" type="deletion" copyText="look |
                                                              you, this brave o're anged firmament," amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="why it appeareth nothing to me but a foul and pe-|
+        <substitution method="pen" type="replacement" copyText="why it appeareth nothing to me but a foul and pe- |
                                                                 stilent congregation of vapours." 
-                                                                amendedText="why it appears nothing to me but a foul and pe-|
+                                                                amendedText="why it appears nothing to me but a foul and pe- |
                                                                  stilent congregation of vapours."/>
         <substitution method="pen" type="replacement" copyText="and the lady shall say her mind freely," 
                                                                  amendedText="and the lady shall speak her mind freely,"/>
-        <substitution method="pen" type="deletion" copyText="Ham. How chances, it they travel? their residence both in repu-|
+        <substitution method="pen" type="deletion" copyText="Ham. How chances, it they travel? their residence both in repu- |
                                                              tation and profit was better both ways." amendedText=""/>
         
         

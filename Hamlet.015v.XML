@@ -18,16 +18,17 @@
         <substitution method="pen" type="deletion" copyText="not" amendedText=""/>
         <substitution method="pen" type="deletion" copyText="except my life, except my life" amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="''Ros. As the indifferent children of the earth.| 
-            ''Guil. Happy in that we are not ever happy on fortunes cap,|
-            ''We are not the very button.|
-            ''Ham. Not the soles of her shoe.|
-            ''Ros. Neither my Lord.|
-            ''Ham. Then you live about her wast, or in the middle of her favours.|
-            ''Guil. Faith her privates we.|
-            ''Ham. In the secret parts of fortune, oh most true, she is a stum-|
-            ''per." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText=" '' Ros. As the indifferent children of the earth. | 
+            '' Guil. Happy in that we are not ever happy on fortunes cap, |
+            '' We are not the very button. |
+            '' Ham. Not the soles of her shoe. |
+            '' Ros. Neither my Lord. |
+            '' Ham. Then you live about her wast, or in the middle of her favours. |
+            '' Guil. Faith her privates we. |
+            '' Ham. In the secret parts of fortune, oh most true, she is a stum- |
+            '' per." amendedText=""/>
         <substitution method="pen" type="deletion" copyText="''and sure dear friends my thanks are too dear a half peny:''" amendedText=""/>
+        
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 
         

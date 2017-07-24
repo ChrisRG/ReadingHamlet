@@ -13,7 +13,7 @@
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        Enter Hamlet. m: D:O P.
+                        Enter Hamlet. m: D:O:P.
                     </marginalia_text>
                 </position>
             </language>
@@ -24,8 +24,8 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         (5)
-                        {Rosencrans
-                        {Guildenstern
+                        Rosencrans
+                        Guildenstern
                     </marginalia_text>
                     <person name="Rosencrans"/>
                     <person name="Guildenstern"/>
