@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.044v.tif" pagination="88" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="On plots and errors happen.| '' Let four Captains| Bear Hamlet like a souldier to the stage,| For he was likely hadhe been put on,| T'have prov'd most royal: and for his passage,| The Souldiers Musick and the rights of War| Speak loudly for him.| ," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Go bid the Souldiers Shoot." amendedText=""/>
+       
+        
+    </annotation>
+</transcription>
+
+

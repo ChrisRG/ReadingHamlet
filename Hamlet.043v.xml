@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.002r.tif" pagination="86" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (8)
+                        Ostrick Drum to beat a march
+                    </marginalia_text>
+                    <person name="Ostrick"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                       Ring 
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Exit Ostrick
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="insertion" copyText="The point envenom d too then venom to thy work." amendedText="The point envenom d too? then venom to thy work."/>
+        
+        <substitution method="pen" type="deletion" copyText="All, treafon, treafon" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Drink off this potion is the onyx have?" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="He is jufily sery' d, it is a poison comper'd by himself." amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="Heaven make thee free of it I follow thee:" amendedText="Heaven make thee free of it! I follow thee:"/>		
+        
+        <substitution method="pen" type="replacement" copyText="I am dead Horatio, wretched Queen farewel." amendedText=",wretched Queen, farewel."/>
+        
+        <substitution method="pen" type="replacement" copyText="But let it be, Horatio I am dead," amendedText="But let it be Horatio,"/>
+        
+        <substitution method="pen" type="insertion" copyText="O Horatio what wounded name," amendedText="O good Horatio what wounded name,"/>
+        
+        <substitution method="pen" type="insertion" copyText="The embassadors of England give this warlike volley." amendedText="To the embassadors of England gives this warlike volley."/>
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
+        
+        
+    </annotation>
+</transcription>
+
+

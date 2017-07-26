@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.043r.tif" pagination="85" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Stay , give me drink, Hamlet this pearl is thine," amendedText="Stay , give me the cup, Hamlet this pearl is thine,"/>
+        
+        <substitution method="pen" type="deletion" copyText=" He's fat and seant of breath| Here Hamlet, Take my Handkerchief; wipe day brows" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="I will my lord, I pray you pardon me." amendedText=" good my lord; I have."/>
+       
+        <substitution method="pen" type="deletion" copyText=" I dare not drink yet Madam, by and by.| Come let me wipe thy face."amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="Come, for the third Laertes, you do but dally," amendedText="Come, for the third Laertes, you but dally"/>
+        
+        <substitution method="pen" type="deletion" copyText="Look to the Queen there ho." amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="They bleed on both sides, how is't my Lord" amendedText="How is't my Lord?"/>		
+        
+        <substitution method="pen" type="insertion" copyText="Why as a woodclock in mine own sprindge Ostrick," amendedText="Why as a woodclock caught in mine own sprindge Ostrick,"/>
+        
+        <substitution method="pen" type="replacement" copyText="She swoons to see them bleed." amendedText="She swoons to see 'em bleed."/>
+        
+        
+    </annotation>
+</transcription>
+
+
