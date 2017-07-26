@@ -17,31 +17,32 @@
                 </position>
             </language>
         </marginalia>
-        <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="''But if the gods themselves did see her then,|
-            ''When she saw Pyrrhus make malicious sport|
-            ''In mincing with his sword her husbands limbs,|
-            ''The instant burst of clamour that she made,|
-            ''Unless things mortal move them not at all,|
-            ''Would have made milch the burning eyes of heaven,|
-            ''And passion in the gods." amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="'Tis well, I'll hve the speak out the rest of this soon.|
-                                                                 Good my Lord will you se the Players well bestowed do you hear,|
-                                                                 let them be well used, for they are the absract and brief Chronicles|
-                                                                 of the time: after your death you were better haave a bad Epitaph,
+        
+        
+        <substitution method="pen" type="deletion" copyText="'' But if the gods themselves did see her then, |
+            '' When she saw Pyrrhus make malicious sport |
+            '' In mincing with his sword her husbands limbs, |
+            '' The instant burst of clamour that she made, |
+            '' Unless things mortal move them not at all, |
+            '' Would have made milch the burning eyes of heaven, |
+            '' And passion in the gods." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="'Tis well, I'll hve the speak out the rest of this soon. |
+                                                                 Good my Lord will you se the Players well bestowed do you hear, |
+                                                                 let them be well used, for they are the absract and brief Chronicles |
+                                                                 of the time: after your death you were better haave a bad Epitaph, |
                                                                  than their ill report while you live." 
-                                                                 amendedText="'Tis well, I'll hve the speak out the rest of this soon.|
-                                                                 Good my Lord, will you se the Players well bestowed. Do you hear,|
-                                                                 let them be well used; for they are the absract, and brief Chronicle|
-                                                                 of the time. After your death, you were better haave a bad Epitaph,
+                                                                 amendedText="'Tis well, I'll hve the speak out the rest of this soon. |
+                                                                 Good my Lord, will you se the Players well bestowed. Do you hear, |
+                                                                 let them be well used; for they are the absract, and brief Chronicle |
+                                                                 of the time. After your death, you were better haave a bad Epitaph, |
                                                                  than their ill report while you liv'd."/>
         <substitution method="pen" type="replacement" copyText="use every man after his desert," 
             amendedText="use every man according to his desert,"/>
-        <substitution method="pen" type="replacement" copyText="Ham. We'll have't to morrow night: you could for need study|
+        <substitution method="pen" type="replacement" copyText="Ham. We'll have't to morrow night: you could for need study |
                                                                 a speech of some dosen lines, which I would set down and insert|
                                                                 in't, could you not?" 
-                                                                amendedText="Ham. We'll have't to morrow night: you could, for a need, study|
-                                                                a speech of some dosen or sixteen lines, which I would set down, and insert|
+                                                                amendedText="Ham. We'll have't to morrow night: you could, for a need, study |
+                                                                a speech of some dosen or sixteen lines, which I would set down, and insert |
                                                                 in't? could you not?"/>
         <substitution method="pen" type="replacement" copyText="Ros. Good my Lord." amendedText="Ros. Farewell, my Lord."/>
         <substitution method="pen" type="deletion" copyText="I so God buy to you; now I am alone." amendedText=""/>
@@ -49,20 +50,18 @@
         <substitution method="pen" type="replacement" copyText="Is it not monstrous that this Player here But in a fiction," 
             amendedText="Is it not monstrous that this Player here, But in a fiction,"/>
         
-        <substitution method="pen" type="replacement" copyText="That from her working all visage wand,|
-                                                                Tears in his eyes, distraction in's aspect,|
-                                                                A rboken voice, and his whole functioning suting|
-                                                                With forms to his conceit, and all for nothing,|
+        <substitution method="pen" type="replacement" copyText="That from her working all visage wand, |
+                                                                Tears in his eyes, distraction in's aspect, |
+                                                                A rboken voice, and his whole functioning suting |
+                                                                With forms to his conceit, and all for nothing, |
                                                                 For Hecuba?|
                                                                 What's Hecuba to him, or he to her," 
-                                                                amendedText="That, from her working all visage warm'd,|
-                                                                Tears in his eyes, distraction in his aspect,|
-                                                                A rboken voice, and his whole functioning suting,|
-                                                                With forms to his conceit? and all for nothing?|
-                                                                For Hecuba?|
+                                                                amendedText="That, from her working all visage warm'd, |
+                                                                Tears in his eyes, distraction in his aspect, |
+                                                                A rboken voice, and his whole functioning suting, |
+                                                                With forms to his conceit? and all for nothing? |
+                                                                For Hecuba? |
                                                                 What's Hecuba to him, or he to Hecuba,"/>
-
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
      
     </annotation>
 </transcription>

@@ -14,42 +14,40 @@
         <substitution method="pen" type="deletion" copyText="''and cleave the gerenal ear with horrid speech," amendedText=""/>
         <substitution method="pen" type="replacement" copyText="Make mad the guilty and appeal the free;" amendedText="Make the mad guilty, and appiale the free,"/>
         <substitution method="pen" type="deletion" copyText="yet I,|
-                                                             ''A dull and muddy metled raskal, peak|
-                                                             ''Like John a dreams, unpregrant of my cause,|
-                                                             ''And can say nothing, no not for a King,|
-                                                             ''Upon whose property and most dear life|
-                                                             ''A damn'd defear was made: am I a coward.|
-                                                             ''Who calls me villain, breaks my pate across,|
-                                                             ''Plucks off my bear, and blows it in my face,|
-                                                             ''Twekes me by the'nose gives me the lyei'th throat|
-                                                             ''As deep as to the lungs? who does me this?|
-                                                             ''Hah? s'wounds I should take it, for it cannot be" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="To make oppression bitter or e're this|
-                                                                I should have fatted all the region Kites|
+                                                             '' A dull and muddy metled raskal, peak |
+                                                             '' Like John a dreams, unpregrant of my cause, |
+                                                             '' And can say nothing, no not for a King, |
+                                                             '' Upon whose property and most dear life |
+                                                             '' A damn'd defear was made: am I a coward. |
+                                                             '' Who calls me villain, breaks my pate across, |
+                                                             '' Plucks off my bear, and blows it in my face, |
+                                                             '' Twekes me by the'nose gives me the lyei'th throat |
+                                                             '' As deep as to the lungs? who does me this? |
+                                                             '' Hah? s'wounds I should take it, for it cannot be" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="To make oppression bitter or e're this |
+                                                                I should have fatted all the region Kites |
                                                                 With slaves ofsal:" 
-                                                                amendedText="To make oppression bitter: or, e're this,|
-                                                                I should have fatted all the region Kites|
+                                                                amendedText="To make oppression bitter: or, e're this, |
+                                                                I should have fatted all the region Kites |
                                                                 With slaves ofsal:"/>
-        <substitution method="pen" type="deletion" copyText="''bloody, bawdy villian,|
-                                                             ''Remorsless, treacherous lecherous, kindless villian.|
-                                                             ''Why what an ass am I? this most brave,|
-                                                             ''That I the son of a dear father murthered,|
-                                                             ''Promted to my revenge by heaven and hell,|
-                                                             ''Must like a whore unpack my heart with words,|
-                                                             ''And fall a cursing like a very drab, stallion, fie upon't. foh|
-                                                             ''About my brains,'' hum" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="''bloody, bawdy villian, |
+                                                             '' Remorsless, treacherous lecherous, kindless villian. |
+                                                             '' Why what an ass am I? this most brave, |
+                                                             '' That I the son of a dear father murthered, |
+                                                             '' Promted to my revenge by heaven and hell, |
+                                                             '' Must like a whore unpack my heart with words, |
+                                                             '' And fall a cursing like a very drab, stallion, fie upon't. foh |
+                                                             '' About my brains,'' hum" amendedText=""/>
         <substitution method="pen" type="replacement" copyText="if he do blench | I know my course." 
             amendedText="if he look pale, | I know my course."/>
         <substitution method="pen" type="replacement" copyText="and the Devil hath power" amendedText="and the Devil may have power"/>
         
-        <substitution method="pen" type="deletion" copyText="''yea and perhaps|
-                                                             ''Out of my weakness and my melancholly,
-                                                             ''As he is very potent with such spirits,
-                                                             ''Abuses me to damn me:" 
+        <substitution method="pen" type="deletion" copyText="''yea and perhaps |
+                                                             '' Out of my weakness and my melancholly,
+                                                             '' As he is very potent with such spirits,
+                                                             '' Abuses me to damn me:" 
             amendedText=""/>
         
         
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-       
     </annotation>
 </transcription>

@@ -11,15 +11,13 @@
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="'' And gather by him as he is behav’d" amendedText=""/>
         <substitution method="pen" type="deletion" copyText="If it be the affliction of his love or no" amendedText=" If it be the affliction of love or no"/>
-        
-        <!-- For the following, I think there's a double quote in the printed text. --> 
+         
         <substitution method="pen" type="deletion" copyText=" That thus he suffers for" amendedText=""/>
         
         <substitution method="pen" type="deletion" copyText="To both your honours." amendedText=""/>
         
-        <!-- For the following line, it looks like there's a double quote in the printed text. -->
         <substitution method="pen" type="deletion" copyText=" Read on this Book" amendedText=""/> 
-        <substitution method="pen" type="deletion" copyText=" 
+        <substitution method="pen" type="deletion" copyText="
             ''That shrew of such an exercise may colour | 
             '' Yout loneliness: we are oft to blame in this, | 
             '' 'Tis too much prov'd, that with devotions visage, |
@@ -30,8 +28,7 @@
             '' Te harlots check beautied with plastrinf art, | 
             '' Is not more ugly to the things that help it, |
             '' Than is my deed to my mor painted word: |
-            O heavy burden! amendedText=""/>
-            <!-- On the previous line, don't forget to close the section of text with a double quote (i.e. after "heavy burden!"), otherwise you'll get an error. -->
+            O heavy burden!" amendedText=""/>
             
             <substitution method="pen" type="replacement" copyText="
                 I hear him coming, withdraw my Lord. |
