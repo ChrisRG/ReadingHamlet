@@ -8,6 +8,19 @@
     <page filename="Hamlet.027r.tif" pagination="53" signature="III.4" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        
+        <marginalia anchor_text="Pol. O I am slain.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        dies
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        
         <marginalia>
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
@@ -21,16 +34,7 @@
                 </position>
             </language>
         </marginalia>
-        
-        <marginalia anchor_text="Pol. O I am slain.">
-            <language ident="EN">
-                <position place="right_margin" book_orientation="0">
-                    <marginalia_text>
-                        dies
-                    </marginalia_text>
-                </position>
-            </language>
-        </marginalia>
+
   
         <!-- Substitutions -->
         <substitution method="pen" type="insertion" copyText="How, now, a Rat? dead for a ducket, dead." amendedText=""/>
