@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.008v.tif" pagination="16" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            '' Since nature cannot choose his origen) |
+            '' By therr o’re growth of some complexion, |
+            '' Ott breaking down the pales and forts of reason; |
+            '' Or by some habit that too much o’re-leavens |
+            '' The form of plausive manners, that these men |
+            '' Carrying I say the stamp of one defect, |
+            '' Being Natures livery, or Fortunes star, |
+            '' His virtues elfe be they as pure grace, |
+            '' As infinite as man undergo, |
+            '' Shall in the general censure take corruption |
+            '' From that particular fault: the dram of ease |
+            '' Doth all the noble substance of a doubt |
+            '' To his own scandal. 
+            " amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="'' Thou com'ft in such a questionable shape" amendedText="'' Thou com'ft in such a questionable shape,"/>
+        
+        <substitution method="pen" type="replacement" copyText="', King, Father, royal Dane: O answer me; | 'Let me not burst in ignorance; but tell | Why thy canonize'd bones hearsed in death | Have burst their cerement: why the Sepulchre,"  amendedText="'' King, Father, royal Dane: O! answer me; | Let me not burst in ignorance; but tell, | Why thy canonize'd bones, hearsed in death, | Have burst their cerement; why the Sepulchre, "/>		
+        
+        <substitution method="pen" type="replacement" copyText="'' To cast thee up again: ,, what may this mean | That thou, dead course again in complete steel" amendedText="'' To cast thee up again: ,, what may this mean? | That thou, dead course, again, in complete steel,"/>
+        
+        <substitution method="pen" type="deletion" copyText="I do not value my life " amendedText="I value my life:"/>
+        
+        <substitution method="pen" type="insertion" copyText="I value my life:" amendedText="I value not my life:"/>
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/>
+        
+    </annotation>
+</transcription>

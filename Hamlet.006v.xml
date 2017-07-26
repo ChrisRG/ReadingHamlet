@@ -5,14 +5,9 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.006v.xml" pagination="12" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.006v.tif" pagination="12" signature="I.3" reader="John Ward"/> <!-- -->
     <annotation>
-        
-        <!-- There's one marginalia on the left: "(9) Polonius" -->
-        
         <!-- Substitutions -->
-        
-        <!-- It looks like there are punctuation marks inserted in Hamlet's short five line speech: "Your loves as mine to you, farewel" -> "Your loves, as mine to you: farewel."  -->
         <substitution method="pen" type="replacement" copyText="And filter, as the winds gives benefit" amendedText="And filter, as the winds permit,"/>
         
         <substitution method="pen" type="deletion" copyText="And convey in assistant, ,, do not sleep," amendedText=""/>
@@ -22,13 +17,13 @@
         <substitution method="pen" type="deletion" copyText="and suppliance" amendedText=""/>
         
         <substitution method="pen" type="deletion" copyText="
-            '' For nature cressant does not grow alone, |
-            '' In thews and bulks, but as the Temple waxes, |
-            '' The inward service of the mind and soul |
-            '' Grows wide withal: perhaps he loves you now, |
-            '' And now no soil nor cautel doth besmirch |
-            '' The virtue of his will; but you must fear |
-            '' His greatest weigh'd his will is not his own "
+            ''For nature cressant does not grow alone, |
+            ''In thews and bulks, but as the Temple waxes, |
+            ''The inward service of the mind and soul |
+            ''Grows wide withal: perhaps he loves you now, |
+            ''And now no soil nor cautel doth besmirch |
+            ''The virtue of his will; but you must fear |
+            ''His greatest weigh'd his will is not his own "/
             amendedText=""/>
         
             
@@ -39,22 +34,19 @@
            '' It fits you wisdom so far to believe it, |
            '' As he in his particular act and place |
            '' May give his saying deed; which is no further |
-           '' Than the main voice of Denmark goes withal, "
+           '' Than the main voice of Denmark goes withal, "/
            amendedText=""/>
+        
+        <!-- Looks like there's a replacement with "keen to him" -->
            
-           
-            <!-- Looks like there's a replacement with "keen to him" -->
-           
-            <substitution method="pen" type="deletion" copyText="'' Or loose your heart, or your chaste treasure open | '' To his unmastered importunity." amendedText=""/>
+            <substitution method="pen" type="deletion" copyText="''Or loose your heart, or yoyr chfse treasure open | ''To his unmastered importunity." amendedText=""/>
                 
             <substitution method="pen" type="deletion" copyText="''To his unmastered importunity" amendedText=""/>
             
-            <substitution method="pen" type="deletion" copyText="'' And keep you in the rear of your affection," amendedText=""/>
+            <substitution method="pen" type="deletion" copyText="And keep you in the rear of your affection," amendedText=""/>
                 
             <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        
-            <!-- Looks like this Hatching is in the left_margin -->
-            <symbol name="Hatching" place="right_margin"/> 
+            <symbol name="Hatching" place="left_margin"/> 
             
     </annotation>
 </transcription>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.008r.tif" pagination="15" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+ 
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Mar. Pray sit down and tell me he that knows," amendedText="Mar. Pray tell me he that knows,"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' Be something seanter of your maiden presence |
+            '' Set your entreatments at a higher rate |
+            '' Than a command to parley; for Lord Hamlet, |
+            '' And with a larger tedder may he walk |
+            '' Than may be given you: in tew Ophelia, |
+            '' Do not believe his vows; for they Brokers, |
+            '' Not of that dye which their investments shew, |
+            '' But meer implorators of unholy fuits, |
+            '' Breathing like fanctified and pious bonds, |
+            '' The better to beguile:" 
+            amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText= "''and takes his towse, |'' “Keep wassel, and the swaggerong up spring reels," amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="And as he takes his draughts of Rhenish down," amendedText="And as he drinks his draughts of Rhenish down,"/>
+        
+        <substitution method="pen" type="replacement" copyText="I marry is it?" amendedText="I, marry, is it,?"/>		
+        
+        <substitution method="pen" type="deletion" copyText="
+            '' This heavy-headed revel East and West |
+            '' Makes us traduc’d and taxed of other Nations; |
+            '' The clepe us Drunkards, and with swinish phrase |
+            '' Soil our addition; and indeed it takes |
+            '' From our achievements, though performed at height, |
+            '' The pith and marrow of our attribute:
+            '' So oft it chances in particular men,
+            '' That for some vicious mole of nature in them,
+            '' As in their birth, wherein they are not guilty,"
+            amendedText=""/>
+  
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="right_margin"/>
+        
+        <mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/> 
+        
+        
+    </annotation>
+</transcription>

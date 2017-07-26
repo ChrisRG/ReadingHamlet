@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.010r.tif" pagination="19" signature="I.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (14)
+                        Horatio
+                        Marcellus
+                    </marginalia_text>
+                    <person name="Horatio"/>
+                    <person name="Marcellus"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text="Farewel, rememeber."> 
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                       Pinke
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (15)
+                       Ghost
+                       under the
+                       Prage
+                    </marginalia_text>
+                    <person name="Ghost"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="
+            '' Though lewdness court it in a shape of heaven, |
+            '' So but though to a radiant angle link’t, |
+            '' Will fort it self in a celestial bed, |
+            '' And prey on garbage. "amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="And curd, like eager droppings into milk," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="And a most instant Tetter barkt about | Most Lazar like, with vile and loathsome crust | All my smooth body." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Unuzled, disappointed, un aneald," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="O horrible, O horrible, most horrible," amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Ham. O all you host of heaven! O earth! what else? | And shall I couple hell? O fie!" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="But bear me strongly up; remember thee! | I thou poor Ghost, while memory holds a seat | In this distracted Globe: remeber thee!" amendedText="But bear me strongly up; remember thee!-- | I thou, poor Ghost, while memory holds a seat | In this distracted Globe; remember thee!--"/>		
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->        
+        
+    </annotation>
+</transcription>

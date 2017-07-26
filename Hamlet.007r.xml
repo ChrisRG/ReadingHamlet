@@ -7,13 +7,11 @@
     
     <page filename="Hamlet.007r.tif" pagination="13" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+       
         <!-- Substitutions -->
-        
-        <!-- Don't forget to add a space between the quotes at the beginning and the start of the text,
-        as well as a space after the end of the text and the vertical bar. -->
-        <substitution method="pen" type="deletion" copyText="'' Out of the shot and danger of desire:" amendedText=""/>
- 
+        <substitution method="pen" type="deletion" copyText="''“Out of the shot and danger of desire:" amendedText=""/>
+      
         <substitution method="pen" type="deletion" copyText="
             '' Virtue if self seapes not caluminious strokes |
             '' The canker galls the infant of the Spring |
@@ -21,12 +19,12 @@
             '' And in the morn and liquid dew of youth |
             '' Cantagious blastments are most imminent |
             '' Be wary then best safety lies in fear, |
-            '' Youth to it self rebells though none elfe near."
+            '' Youth to it self rebells though none elfe near. 
            amendedText=""/>
            
         <substitution method="pen" type="deletion" copyText="" amendedText="“And reaks not his own reed, "/>
         
-        <substitution method="pen" type="deletion" copyText="'' A double blessing is a double grace, | '' Occasion smiles upon a second leave," amendedText=""/>"/>
+        <substitution method="pen" type="deletion" copyText="''A double blessing is a double grace," |''Occasion smiles upon a second leave," amendedText=""/>"/>
         
         <substitution method="pen" type="deletion" copyText="
             '' There, my blessing with thee, |
@@ -48,12 +46,10 @@
             '' Are of the most select and generous, chief in that: |
             '' Neither a borrower nor a lender boy, |
             '' For love oft loses both it self and friend, |
-            '' And borrowing dulls the edge of husbandry."
+            '' And borrowing dulls the edge of husbandry. 
             amendedText=""/>
                 
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
-        
-        <!-- Looks like there's a Hatching in the right_margin -->
     </annotation>
 </transcription>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.010v.tif" pagination="20" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia anchor_text="Hora. My Lord, my lord."> 
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        w[i]thin
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia anchor_text="Mar. Illo, ho, my Lord.">
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        w[i]thin--?
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                       ? Enter Horachio and Marcellus
+                    </marginalia_text>
+                    <person name="Horachio"/>
+                    <person name="Marcellus"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Unmixt with baser matter; yes by heaven" amendedText="I could not this believe,"/>
+        
+        <substitution method="pen" type="insertion" copyText="O villian, villian, smiling villian!" amendedText="O villian, villian, smiling damn'd villian!"/>
+        
+        <substitution method="pen" type="replacement" copyText="My tables, meet it is I set down" amendedText="My tables, meet it is I should set it down"/>
+        
+        <substitution method="pen" type="replacement" copyText="So Uncle there you are: now to my word:" amendedText="So Uncle there you are: now to my word;"/>
+        
+        <substitution method="pen" type="replacement" copyText="Hillo, ho, ho boy, come and come." amendedText="Hillo, ho, ho boy, come boy come."/>
+        
+        <substitution method="pen" type="insertion" copyText="Ham. There's never a villian" amendedText="Ham. There's ne'er a villian"/>
+        
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+    </annotation>
+</transcription>
