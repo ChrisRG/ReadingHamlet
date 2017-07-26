@@ -7,7 +7,7 @@
     
     <page filename="Hamlet.022v.tif" pagination="44" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        
+         
         
         <!-- Substitutions -->
         <substitution method="pen" type="replacement" copyText="I could not believe this," amendedText="I could not this believe,"/>

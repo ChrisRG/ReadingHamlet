@@ -6,7 +6,7 @@
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
     <page filename="Hamlet.025r.tif" pagination="49" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
-    <annotation>
+    <annotation> 
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
             <language ident="EN">

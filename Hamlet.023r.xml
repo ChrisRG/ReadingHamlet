@@ -7,7 +7,7 @@
     
     <page filename="Hamlet.023r.tif" pagination="45" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin --> 
         <marginalia>
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
