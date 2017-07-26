@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.042v.tif" pagination="84" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+    
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="'' but in my terms of honour| I stand aloof, and will no reconcilement,| Till by some older Masters of known honour| I have a voice and president of peace| To my name ungor'd: but all that time" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="Serve me the floops of wine, upon th table;" amendedText="erve me the wine,;"/>
+        <substitution method="pen" type="replacement" copyText="And let the Kettle to the Trumpet speak," amendedText="now let the Kettle to the Trumpet speak,"/>
+       
+        
+    </annotation>
+</transcription>
+
+
+
