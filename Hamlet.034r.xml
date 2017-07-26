@@ -11,7 +11,6 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         Exit
-                  
                     </marginalia_text>
                     <person name=""/>
                 </position>
@@ -31,12 +30,22 @@
                 </position>
             </language>
         </marginalia>
+
+        <marginalia anchor_text="">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Exit gentleman
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
         
         <marginalia anchor_text="">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        
+                        Writ
                     </marginalia_text>
                 </position>
             </language>
@@ -47,6 +56,8 @@
         <substitution method="pen" type="deletion" copyText="Our Crown, our life and all that we call ours" amendedText=""/>  
         <substitution method="pen" type="deletion" copyText="Be you content to" amendedText=""/>
         <substitution method="pen" type="replacement" copyText="lend your patience to us" amendedText="lend but your patience to us"/>
+        
+        <!-- Scene division -->
         
     </annotation>
 </transcription>

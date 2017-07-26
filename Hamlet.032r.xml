@@ -5,7 +5,7 @@
     
     <page filename="Hamlet.032r.tif" pagination="63" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin --> 
         <marginalia>
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
@@ -32,8 +32,7 @@
         </language>
     </marginalia>
     
-    
-    
+        
     <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="
             '' Yet the unshaped use of it doth move | 

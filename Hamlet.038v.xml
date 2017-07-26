@@ -5,7 +5,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.038v.tif" pagination="76" signature="I.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.038v.tif" pagination="76" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia -->     <!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia >
@@ -39,14 +39,12 @@
                         Priest
                         Attendant
                         Corpse Supported
-                        
-                    </marginalia_text>
+                     </marginalia_text>
                     <person name="King"/>
                     <person name="Queen"/>
                     <person name="Laertes"/>
                     <person name="Priest"/>
                     <person name="Attendant"/>
-                    <person name="Corpse Supported"/>
                 </position>
             </language>
         </marginalia>

@@ -7,7 +7,7 @@
     
     <page filename="Hamlet.038r.tif" pagination="75" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        
+         
         
         <!-- Substitutions -->
         <substitution method="pen" type="insertion" copyText="where  be his quiddities now his quilietes, his case his tenures, and his tricks?" amendedText=" where  be his quiddities now ?his quilietes?  his case? his tenures, and his tricks?" /> 

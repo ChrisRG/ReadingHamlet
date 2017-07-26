@@ -7,7 +7,7 @@
     
     <page filename="Hamlet.039v.tif" pagination="78" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        
+         
         <!-- Substitutions -->
         <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
         <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
