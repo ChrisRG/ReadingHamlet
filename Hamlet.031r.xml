@@ -4,7 +4,7 @@
 
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
-    
+     
     <page filename="Hamlet.031r.tif" pagination="61" signature="IV.3-IV.4" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
       
