@@ -1,0 +1,49 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.037r.tif" pagination="73" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="intext" book_orientation="0">
+                    <marginalia_text>
+                        Long Trap open, Earth, sculls and bones in it.
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (1)
+                        2 Gravediggers
+                    </marginalia_text>
+                    <person name="Gravediggers"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (2)
+                        Hamlet
+                        Horatio
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                    <person name="Horatio"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        
+    </annotation>
+</transcription>

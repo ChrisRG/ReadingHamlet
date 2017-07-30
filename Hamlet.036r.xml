@@ -1,0 +1,48 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.036r.tif" pagination="71" signature="IV.7" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (18)
+                        Queen
+                    </marginalia_text>
+                    <person name="Queen"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <substitution method="pen" type="deletion" copyText="'' There lives within the very flame of love |
+            '' A kind of wick or snuff that will abate it, |
+            '' And nothing is at a like goodness still; |
+            '' For goodness growing to a pleurisie, |
+            '' Dies in his own too much, that we would do, |
+            '' We should do when we would: for this would changes, |
+            '' And hath abatements and delays as many |
+            '' As there are tongues, are hands, are accidents, |
+            '' And then this Should is like a spend-thrift sight, |
+            '' That hurts by easing:" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="but to the quick of th'ulcer" amendedText="but to the business"/>
+        
+        <substitution method="pen" type="deletion" copyText="Keep close within your chamber," amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="A sword unbated, and in a pace of practice" amendedText="A sword thats bated, and"/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Weigh what conveyance both of time and means, |
+            '' May fit us to our shape if this should fail, |
+            '' And that our drift look through our bad performance |
+            '' 'Twere better not assay'd. Therefore this project |
+            '' Should have a back or second, that might hold |
+            '' If this did blast in proof: ' soft! let me see, |
+            We'll make a solemn wager on your cunnings" amendedText=""/>
+        
+    </annotation>
+</transcription>

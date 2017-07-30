@@ -3,7 +3,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.034r.tif" pagination="67" signature="IV.5" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.034r.tif" pagination="67" signature="IV.5-IV.6" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
@@ -35,8 +35,9 @@
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        Exit gentleman
+                        Exit Gentleman
                     </marginalia_text>
+                    <person name="Gentleman"/>
                 </position>
             </language>
         </marginalia>
@@ -59,5 +60,20 @@
         
         <!-- Scene division -->
         
+        <substitution method="pen" type="replacement" copyText="Enter Horatio and others" amendedText="Enter Horatio and Gentleman"/>
+        <substitution method="pen" type="deletion" copyText="Say. There's a Letter for you Sir, it came from the Embassador that was bound for England, if your name be Horatio as I am let to know it is." amendedText="Say. There's a Letter for you Sir, if your name be Horatio as I am let to know it is."/>
+        
+        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin"/>
+        
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+ 
+
     </annotation>
 </transcription>

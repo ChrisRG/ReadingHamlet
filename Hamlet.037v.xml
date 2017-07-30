@@ -1,0 +1,38 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.037v.tif" pagination="74" signature="IV.6" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        In
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+            
+        
+        <!-- Substitutions -->
+        
+        <substitution method="pen" type="replacement" copyText="That skull had a tongue in it, and could sing once, how
+            the knave jowls it to the ground, as if 'twere Cains jaw-bone, that
+            did the first murther: this might be the pate of a Politician which
+            this ass now o're reaches, one that would circumvent Heaven,
+            might it not?" amendedText="That skull had a tongue in it, once, how
+            the knave jowls it to the ground, as if 'twere Cains jaw-bone, that
+            did the first murther! this might be the pate of a Politician
+            might it not?"/>
+        
+        <substitution method="pen" type="deletion" copyText="here's a fine revolution, and we had the trick to see't; did these bones cost 
+            no more the breed but to play at loggits with them?" amendedText="here's a fine revolution, did these bones cost no
+            more the breeding but to play at loggits with them?"/>
+        
+    
+    </annotation>
+</transcription>

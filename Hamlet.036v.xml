@@ -1,0 +1,39 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.036v.tif" pagination="72" signature="IV.6" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        
+        <substitution method="pen" type="replacement" copyText="If he by chance escape your venom'd tuck, |
+            Our purpose may hold there." amendedText="If he by chance escape your venom'd sword, | It shall be death."/>
+        
+        <substitution method="pen" type="deletion" copyText="That shews his hoary leaves in the glassie stream" amendedText=""/>
+              
+        <substitution method="pen" type="deletion" copyText="'' That liberal shepherds give a grosser name, | '' But our culcold maids do dead mens call them" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' her clothes spred wide, |
+            '' And Mermaid like a while they bore her up,
+            '' Which timem the chanted remnants of old lauds, |
+            As one incapable of her own distress, |
+            Or like a creature native and indued |
+            Unto that elements, but long it could not be |
+            Till that her garments heavy with their drink |
+            Pull'd the gentle maid from her melodious lay |
+            To muddy death." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Laer. Alas then is she drrown'd? | Qu. Drown'd, drown'd." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' when these are gone | '' The woman will be out." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Let's follow Gertard." amendedText=""/>
+
+
+        <symbol name="Hatching" place="right_margin"/>
+        
+
+        
+        
+    </annotation>
+</transcription>

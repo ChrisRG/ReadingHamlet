@@ -1,0 +1,67 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.034r.tif" pagination="68" signature="IV.6-IV.7" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                       writ
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (17)
+                        Messenger
+                        w[i]th Letters
+                        one writ
+                    </marginalia_text>
+                    <person name="Messenger"/>
+                </position>
+            </language>
+        </marginalia>
+        
+
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="As by your safety, greatness, wisdom, all things else. |
+            You mainly were stirr'd up." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="and for my self, |
+            My virtue or my plague, be it either, |
+            She is so precious to my life and soul, |
+            That as the Star moves not but in his Sphere, |
+            I could not but by her: the other motive |
+            Why to a publick count, I might not go, |
+            Is the great love" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="'' Convert his gyves to graces so that my arrows |
+            '' Too slightly timbered for so loved arms, |
+            '' Would have reverted to my bow again, |
+            '' But not where I have aim'd them." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="That we are made of stuff so flat and dull, |
+            That we can let our beards be shook with danger," amendedText=""/>
+
+        <symbol name="Hatching" place="left_margin"/>
+        
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+        <mark name="quotation_mark" place="left_margin"/>
+ 
+       
+    </annotation>
+</transcription>

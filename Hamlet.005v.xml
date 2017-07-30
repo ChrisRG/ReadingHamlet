@@ -1,0 +1,28 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.005v.tif" pagination="10" signature="I.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Added file -->
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="Would I had met my dearest foe in heaven" amendedText="Would I had met my direst foe in heaven"/>
+        <substitution method="pen" type="replacement" copyText="My father, methinks I see my father." amendedText="My father-methinks, I see my father!"/>
+        <substitution method="pen" type="replacement" copyText="Ham. In my minds eye Horatio." amendedText="In my minds eye, Horatio."/>
+        <substitution method="pen" type="replacement" copyText="Ham. Saw who?" amendedText="Ham. Saw, who?"/>
+        <substitution method="pen" type="replacement" copyText="Ham. The King my father!" amendedText="Ham. The King, my father!"/>
+        
+        <substitution method="pen" type="deletion" copyText="By their own opprest and fear surprized eyes" amendedText=""/>
+
+        <substitution method="pen" type="replacement" copyText="Within this truncheons length, whilst they distill'd" amendedText="Within my Rapier's length, whilst they distill'd"/>
+        
+        <substitution method="pen" type="replacement" copyText="They did impart in dreadful secresie," amendedText="impart they did, in dreadful secresie,"/> 
+        
+        <substitution method="pen" type="deletion" copyText="'' I knew your father, | '' These hands are not more like." amendedText=""/>  
+           
+        
+        
+    </annotation>
+</transcription>

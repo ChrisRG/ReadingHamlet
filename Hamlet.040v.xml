@@ -1,0 +1,74 @@
+<!DOCTYPE transcription SYSTEM "http://www.livesandletters.ac.uk/schema/aor_20141023.dtd">
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
+    
+    <page filename="Hamlet.034r.tif" pagination="68" signature="IV.6" reader="John Ward"/> <!-- Signature = act + scene -->
+    <annotation>
+        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="90">
+                    <marginalia_text>
+                        Hamlet prince of Denmark
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                </position>
+            </language>
+        </marginalia>
+        
+     
+        
+        
+        <!-- Substitutions -->
+        <substitution method="pen" type="deletion" copyText="Ham. Being thus be-netted round with villains, |
+            E're I could make a Prologue to my brains |
+            They had begun the Play: I sate me down, |
+            Devis'd a new Commission, wrote it fair: |
+            I once did hold it, as our Statists do, |
+            A baseness to write fair and labour'd much |
+            How to forget that learning; but Sir now |
+            It did me Yeomans service: wilt thou know |
+            Th' effect of what I wrote? |
+            Hor. I good my lord. |
+            Ham. An earnest conjuration from the king, |
+            As England was his faithful tributary, |
+            As love between them like the Palm might flourish, |
+            As peace should still her wheaten garland wear, |
+            '' And stand a Comma 'tween their amities, |
+            '' And many such-like, as Sir of great charge, |
+            That on the view of these contents, |
+            Without debatement further, more or less, |
+            He should the bearers put to sudden death, |
+            Not shriving-time allow'd. |
+            Hor. How was this seal'd? |
+            Ham. Why, even in that was heaven ordinant. |
+            I had my father's signet in my purse, |
+            Which was the model of that Danish Seal: |
+            Folded the writ up in the form of th' other, |
+            Subscrib'd it, gave th' impression, plac'd it safely, |
+            The changling never known, now the next day |
+            Was our Sea-fight; and what to this was sequent |
+            Thou know'st already. |
+            Hor. So Guildenstern and Rosencrantz go to't. |
+            Ham. They are not near my conscience, their defeat |
+            Does by their own insinuation grow; |
+            '' 'Tis dangerous when the baser nature comes |
+            '' Between the pass and fell incensed point. |
+            '' Of mighty opposites. |
+            Hor. Why, what a king is this! |
+            Ham. Does it not, think you, stand me now upon? |
+            He that hath kill'd my King, and whored my mother, |
+            Stept in between th' election and my hopes, |
+            Thrown out his angle for my proper life, |
+            And with such cozenage; is't not perfect conscience?" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="Enter a Courtier." amendedText="Enter Ostrick"/>
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ostr."/>
+        
+        <symbol name="Hatching" place="left_margin"/
+        
+        
+    </annotation>
+</transcription>
