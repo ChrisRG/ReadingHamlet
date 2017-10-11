@@ -10,34 +10,36 @@
         
         <!-- Substitutions -->
         <substitution method="pen" type="replacement" copyText="
-            '' For food and diet to some enterprise |
-            '' That hath a stomack in't, which is no other |
-            '' As it doth well appear unto our state, |
-            '' But to recover of us by strong hand |
-            '' and Terms compulsatory, those foresaid lands" amendedText="to recover those foresaid lands"/>
+            &quot; For food and diet to some enterprise |
+            &quot; That hath a stomack in't, which is no other |
+            &quot; As it doth well appear unto our state, |
+            &quot; But to recover of us by strong hand |
+            &quot; and Terms compulsatory, those foresaid lands" amendedText="to recover those foresaid lands"/>
         
-        <substitution method="pen" type="deletion" copyText="'' The source of this our watch, and the chief head | '' Of this post haste, and romage in the land." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; The source of this our watch, and the chief head | &quot; Of this post haste, and romage in the land." amendedText=""/>
         <substitution method="pen" type="deletion" copyText="
             Well may it sort that this portentous figure |
             Comes armed through our watch so like the King |
             That was and is the question of these wars. |
-            '' Hora. A mote it is to trouble the minds eye. |
-            '' In the most high and flourishing state of Rome, |
-            '' A little e'ere the mightiest Julius fell. |
-            '' The graves stood tenantless, and the sheeted dead |
-            '' Did squeak and gibber in the Roman streets, |
-            '' As Stars with trains of fire, and dews of blood, |
-            '' Disasters in the Sun, and the moist Star, |
-            '' Upon whose influence Neptunes Empire stands, |
-            '' Was sick almost to Doomsday with eclipse, |
-            '' And even the like precurse of fierce events, |
-            '' As harbingers preceding still the fates |
-            '' And Prologue to the Omen coming on, |
-            '' Have heaven and earth together demonstrated |
-            '' Unto our Climatures and Countrymen." amendedText=""/>
+            &quot; Hora. A mote it is to trouble the minds eye. |
+            &quot; In the most high and flourishing state of Rome, |
+            &quot; A little e're the mightiest Julius fell. |
+            &quot; The graves stood tenantless, and the sheeted dead |
+            &quot; Did squeak and gibber in the Roman streets, |
+            &quot; As Stars with trains of fire, and dews of blood, |
+            &quot; Disasters in the Sun, and the moist Star, |
+            &quot; Upon whose influence Neptunes Empire stands, |
+            &quot; Was sick almost to Doomsday with eclipse, |
+            &quot; And even the like precurse of fierce events, |
+            &quot; As harbingers preceding still the fates |
+            &quot; And Prologue to the Omen coming on, |
+            &quot; Have heaven and earth together demonstrated |
+            &quot; Unto our Climatures and Countrymen." amendedText=""/>
+        
+        <substitution method="pen" type="errata" copyText="your" amendedText="you"/>
        
            <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="left_margin"/> 
         
         <mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/>
         

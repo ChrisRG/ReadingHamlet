@@ -10,8 +10,8 @@
         <substitution method="pen" type="deletion" copyText="
             Therefore I have entreated him along, |
             With us to watch the minutes of this night, |
-            '' That if again this apparition come, |
-            '' He may approve our eyes and speak to it" amendedText=""/>
+            &quot; That if again this apparition come, |
+            &quot; He may approve our eyes and speak to it." amendedText=""/>
         
         <substitution method="pen" type="replacement" copyText="
             Bar. Sit down a while, |
@@ -19,9 +19,9 @@
             amendedText="Bar. Come, | let us once again assail your ears"/>
         <substitution method="pen" type="errata" copyText="too" amendedText="two"/>
         <substitution method="pen" type="deletion" copyText="
-            Well, let's down, |
+            Hora. Well, let's down, |
             And let us hear Barnardo speak of this."
-           amendedText="Well, | let us hear Barnardo speak of this."/>
+           amendedText="Hora. Well, | let us hear Barnardo speak of this."/>
         
         <substitution method="pen" type="replacement" copyText="
             Bar. In the same figure, like the King that's dead. |

@@ -23,14 +23,15 @@
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Ham. Indeed Sirs but this troubles me." amendedText="Indeed, Sirs, but this troubles me."/>
-        <substitution method="pen" type="replacement" copyText="Ham. Arm'd say you?" amendedText="Ham. Arm'd, say you?"/>
-        <substitution method="pen" type="replacement" copyText="Ham. Pale or red?" amendedText="Ham. Pale, or red?"/>
-        <substitution method="pen" type="replacement" copyText="Ham. I would I had been there." amendedText="Ham. I would, I had been there."/>
+        <substitution method="pen" type="insertion" copyText="Ham. Indeed Sirs but this troubles me." amendedText="Indeed, Sirs, but this troubles me."/>
+        <substitution method="pen" type="insertion" copyText="Ham. Arm'd say you?" amendedText="Ham. Arm'd, say you?"/>
+        <substitution method="pen" type="insertion" copyText="Ham. Pale or red?" amendedText="Ham. Pale, or red?"/>
+        <substitution method="pen" type="insertion" copyText="Ham. I would I had been there." amendedText="Ham. I would, I had been there."/>
         <substitution method="pen" type="replacement" copyText="Ham. Very like: staid it long?" amendedText="Ham. Very like; staid it long?"/>
         <substitution method="pen" type="replacement" copyText="Both. Longer, longer." amendedText="Both. Longer; longer."/>
-        <substitution method="pen" type="replacement" copyText="Ham. His beard was gristled?" amendedText="Ham. His beard was grisley?"/>
-        <substitution method="pen" type="replacement" copyText="Ham. I will watch to night, | Perchance 'twill walk again." amendedText="Ham. I will watch to nigh; | Perchance, 'twill walk again."/>
+        <substitution method="pen" type="replacement" copyText="Ham. His beard was gristled?" amendedText="Ham. His beard was grisly?"/>
+        <substitution method="pen" type="replacement" copyText="Ham. I will watch to night, | Perchance 'twill walk again." amendedText="Ham. I will watch to night; | Perchance, 'twill walk again."/>
+        <substitution method="pen" type="insertion" copyText="I'le speak to it though hell it self should gape" amendedText="I'le speak to it, though hell it self should gape"/>
         <substitution method="pen" type="replacement" copyText="Let it require your silence still," amendedText="Let it require your silence still:"/>
         <substitution method="pen" type="replacement" copyText="I will requite your loves: So far you well," amendedText="I will requite your loves: So fare you well."/>
         

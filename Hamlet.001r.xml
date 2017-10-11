@@ -14,8 +14,6 @@
             </language>
         </marginalia>
 
-<!-- Hello -->
-
         <marginalia>
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
@@ -50,6 +48,7 @@
                     <marginalia_text>
                         meet
                     </marginalia_text>
+                    <emphasis method="pen" type="straight" text="meet"/>
                 </position>
             </language>
         </marginalia>
