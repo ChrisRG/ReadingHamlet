@@ -11,23 +11,38 @@
         
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="powerfully and" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="''which rea-|
-                                                            son and sanctity could nor so happily be delivered of.'' I will |
-                                                            leave him and my daughter." amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="of you" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="not" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="except my life, except my life" amendedText=""/>
+        <substitution method="pen" type="insertion" copyText="for your self Sir shall grow old" amendedText="for you your self Sir shall grow old"/>
+        <substitution method="pen" type="deletion" copyText="Pol. Indeed that's out of the air; how pregnant sometimes his
+            replyes are ! a happiness that often madness hits on, &quot; which reason 
+            and sanctity could nor so happily be delivered of &quot; I will 
+            leave him and my daughter. My Lord I will take my leave of you." 
+            
+            amendedText="Pol. Indeed that's out of the air; how pregnant sometimes his
+            replyes are ! a happiness that often madness hits on, | My Lord I will take my leave."/>
+
+        <substitution method="pen" type="deletion" copyText="Ham. You cannot take from me any thing that I will not more
+            willingly part withal, except my life, except my life." 
+            
+            amendedText="Ham You cannot take from me any thing that I will more 
+            willingly part withal, except my life."/>
         
-        <substitution method="pen" type="deletion" copyText=" '' Ros. As the indifferent children of the earth. | 
-            '' Guil. Happy in that we are not ever happy on fortunes cap, |
-            '' We are not the very button. |
-            '' Ham. Not the soles of her shoe. |
-            '' Ros. Neither my Lord. |
-            '' Ham. Then you live about her wast, or in the middle of her favours. |
-            '' Guil. Faith her privates we. |
-            '' Ham. In the secret parts of fortune, oh most true, she is a stum- |
-            '' per." amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="''and sure dear friends my thanks are too dear a half peny:''" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. My excellent good friends, how dost though Guildenstern? |
+            Ah Rosencraus, good lads, how do you both? |
+            &quot; Ros. As the indifferent children of the earth. | 
+            &quot; Guil. Happy in that we are not ever happy on fortunes cap, |
+            &quot; We are not the very button. |
+            &quot; Ham. Not the soles of her shooe. |
+            &quot; Ros. Neither my Lord. |
+            &quot; Ham. Then you live about her wast, or in the middle of her favours. |
+            &quot; Guil. Faith her privates we. |
+            &quot; Ham. In the secret parts of fortune, oh most true, she is a strumpet. &quot; |
+            What news?" amendedText="Ham. My excellent good friend, how dost though Guildenstern? |
+            Ah Rosencraus, good lads, how do you both? Well, | What news?"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. Then is Dooms-day near: sure your news is not true." amendedText="Ham. Then is Dooms-day near: but your news is not true."/>
+        
+        <substitution method="pen" type="deletion" copyText="&quot; and sure dear friends my thanks are too dear a half peny: &quot;" amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 

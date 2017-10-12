@@ -24,7 +24,7 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         (5)
-                        Rosencrans
+                        Rosencraus
                         Guildenstern
                     </marginalia_text>
                     <person name="Rosencrans"/>
@@ -34,7 +34,14 @@
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="Oh give me leave" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Oh give me leave." amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="I Sir, to be honest as this world goes" amendedText="I, Sir; to be honest as this world goes,"/>
+        
+        <substitution method="pen" type="insertion" copyText="kissing carrion. Have you a daughter?" amendedText="kissing carrior.--Have you a daughter?"/>
+        
+        <substitution method="pen" type="replacement" copyText="But as your daughter may conceive, friend look to't" amendedText="But not as your daughter may conceive. friend, look to't."/>
+        
         <substitution method="pen" type="deletion" copyText="How say you by that?" amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->

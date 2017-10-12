@@ -23,20 +23,23 @@
 </marginalia>
 
 <!-- Substitutions -->
-<substitution method="pen" type="deletion" copyText="' All given to mine ear." amendedText=""/>
+<substitution method="pen" type="deletion" copyText="&quot; All given to mine ear." amendedText=""/>
         <substitution method="pen" type="deletion" copyText="think" amendedText=""/>
 
-    <substitution method="pen" type="deletion" copyText="'' When I had seen this hot love on the wing, |
-    '' As I perceiv'd it (I must tell you that) |
-    '' Before my daughter told me; what might you" amendedText=""/>
+<substitution method="pen" type="deletion" copyText="
+    &quot; When I had seen this hot love on the wing, |
+    &quot; As I perceiv'd it (I must tell you that) |
+    &quot; Before my daughter told me; what might you" amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="plaid the Dusk, or Table book, |
-                                                                '' Or given my heart a winking, mute and dumb, |
-                                                                or" amendedText=""/>
+<substitution method="pen" type="deletion" copyText="
+    If I had plaid the Dusk, or Table book, |
+    &quot; Or given my heart a winking, mute and dumb, |
+    Or lookt upon this love with idle sight," amendedText="If I had | lookt upon this love with idle sight,"/>
         
-        <substitution method="pen" type="deletion" copyText="then into a fast, |
-                                                               '' Thence to a watch, then into a weakness, |
-                                                               '' Thence to a lightness," amendedText=""/>
+<substitution method="pen" type="deletion" copyText="
+    Fell into a sadness, then into a fast, |
+    &quot; Thence to a watch, then into a weakness, |
+    Thence to a lightness, and by this declension" amendedText="Fell into a sadness | and by this declension"/>
    
         
         

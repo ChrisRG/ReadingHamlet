@@ -8,24 +8,57 @@
     <page filename="Hamlet.013r.tif" pagination="25" signature="II.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (3)
+                        Polonius 
+                        a Letter w[ith]
+                    </marginalia_text>
+                    <person name="Polonius"/>
+                </position>
+            </language>
+        </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="to call it; |
-                                                                Sith not th'exterior, nor the inward man |
-                                                                Resembles that it was:" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Whose violent property foregoes it self, |
+            &quot; And leads the will to desperate undertakings, |
+            &quot; As oft as any passion under heaven |
+            &quot; That does afflict our natures: I am sorry;" amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="that thus hath put him |
-                                                                so much from the understanding of himself" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="That being of so young days brought up with him, |
-                                                                '' And sith so neighboured to his youth and behaviour," amendedText="Mar. Pray tell me he that knows,"/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; I am sorry that with better head and judgment |
+            &quot; I had not coated him; I fear'd he did but trifle, |
+            &quot; And meant to wrack thee, but beshrew my jealousie; |
+            &quot; By heaven it is as proper to our age |
+            &quot; To cast beyond ourselves in our opinions, |
+            &quot; As it is common for the younger sort |
+            &quot; To lack discretion: &quot; Come, go with me to the King." amendedText="Come, go with me to the King."/>
         
-        <substitution method="pen" type="replacement" copyText="That you vouchsafe your rest here in our Court Some little time," amendedText="That you vouchsafe your pray here in our Court Some little time,"/>
+        <!-- Scene change: II.1 -> II.2 -->
         
-        <substitution method="pen" type="replacement" copyText="To draw him on to pleasures, and to gather | 
-                                                                    So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
+        <substitution method="pen" type="deletion" copyText="
+            Of Hamlet's transformation, so call it; |
+            Sith not th'exterior, nor the inward man |
+            Resembles that it was: what it should be" 
+            
+            amendedText="Of Hamlet's transformation, |
+            what it should be"/>
         
-	
-           
+        <substitution method="pen" type="deletion" copyText="
+            More than his fathers death, that thus hath put him |
+            So much from the understanding of himself" amendedText="More than his fathers death"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            That being of so young days brought up with him, |
+            &quot; And sith so neighboured to his youth and behaviour, |
+            That you vouchsafe your rest here in our Court" amendedText="That you vouchsafe your stay here in our Court"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            To draw him on to pleasures, and to gather |
+            So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 
