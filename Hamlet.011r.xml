@@ -5,34 +5,67 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.011r.tif" pagination="21" signature="I.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.011r.tif" pagination="21" signature="I.5" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
- 
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Ring
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="Yes faith heartily." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="'' So frown'd he once, when in angry Parle | '' He smote the sleaded Pollax on the ice | 'Tis strange." amendedText=""/>
-        
         <substitution method="pen" type="insertion" copyText="And much offense too: touching this vision here," amendedText="And much offense too: touching this vision here,--"/>
         
-        <substitution method="pen" type="replacement" copyText="For your desire to know what is between us | O're master it as you may: and now good friends," amendedText="For your desire to know what is between us, | O're master it as you may: and now good, friends,"/>
+        <substitution method="pen" type="replacement" copyText="
+            For your desire to know what is between us | 
+            O're-master't as you may: and now good friends," 
+            
+            amendedText="For your desire to know what is between us, | 
+            O're-master it as you may: and now good, friends,"/>
         
-        <substitution method="pen" type="replacement" copyText="Give me one poor request" amendedText="Grant me one more request."/>
+        <substitution method="pen" type="replacement" copyText="Give me one poor request." amendedText="Grant me one more request."/>
         
-        <substitution method="pen" type="deletion" copyText="'' Mar. We have sworn my Lord already. | Ham. Indeed upon my sword, indeed." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Mar. We have sworn my Lord already. | 
+            &quot; Ham. Indeed upon my sword, indeed." amendedText=""/>
         
         <substitution method="pen" type="insertion" copyText="Consent to swear." amendedText="Consent to swear?"/>		
         
-        <substitution method="pen" type="replacement" copyText="Ham. Hic and ubique, then we'll shift our ground:" amendedText="Ham. Nay then we'll shift our ground:"/>
+        <substitution method="pen" type="replacement" copyText="Ham. Hic and ubique, then we'll shift our ground: | Come hither Gentlemen" amendedText="Ham. Nay, then we'll shift our ground: | Come hither hither Gentlemen"/>
         
-        <substitution method="pen" type="insertion" copyText="Come hither Gentlemen" amendedText="Come hither hither Gentlemen"/>
+        <substitution method="pen" type="deletion" copyText="Ghost. Swear by his sword." amendedText="Swear."/>
         
-        <substitution method="pen" type="deletion" copyText="Ghost. Swear by his sword." amendedText="Swear"/>
+        <substitution method="pen" type="replacement" copyText="A worthy Pioner, once more remove good friends." amendedText="A worth Pioneer! one more remove, good friends."/>
+       
+        <substitution method="pen" type="replacement" copyText="
+            There are more things in heaven and earth Horatio |
+            Than are dream't of in your Philosophy: but come, |
+            Here as before; never so help you mercy,"
+            
+            amendedText="
+            There are more things in heaven and earth, Horatio, |
+            Than are dream't of in your Philosophy: but come, |
+            Here as before; never, (so help you mercy!)"/>
         
-        <substitution method="pen" type="insertion" copyText="Here as before: never so help you mercy. | How strange or odd so e're I bear my self, | As I perchance hereafter shall think meet, | To put an antick disposition on; | That you at such times seeing me, never shall" amendedText="Here as before; never (so help you mercy!) | (How strange or odd so o're I bear my self, | (As I perchance hereafter shall think meet, | To put an antick disposition on;) | That you at such times seeing me, never shall, "/>
+        <substitution method="pen" type="replacement" copyText="
+            As I perchance hereafter shall think meet, | 
+            To put an antick disposition on, |
+            That you at such times seeing me, never shall" 
+            
+            amendedText="
+            (As I perchance hereafter shall think meet, |
+            To put an antick disposition on;) |
+            That you at such times seeing me, never shall"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
+        <symbol name="Hatching" place="right_margin"/>
     </annotation>
 </transcription>

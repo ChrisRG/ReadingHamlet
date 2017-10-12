@@ -7,46 +7,57 @@
     
     <page filename="Hamlet.006v.tif" pagination="12" signature="I.3" reader="John Ward"/> <!-- -->
     <annotation>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (9)
+                        Polonius
+                    </marginalia_text>
+                    <person name="Polonius"/>
+                </position>
+            </language>
+        </marginalia>
+        
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="And filter, as the winds gives benefit" amendedText="And filter, as the winds permit,"/>
+        <substitution method="pen" type="replacement" copyText="And filter, as the winds give benefit" amendedText="And filter, as the winds permit,"/>
         
-        <substitution method="pen" type="deletion" copyText="And convey in assistant, ,, do not sleep," amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="But" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; And convey in assistant, ,, do not sleep, | But" amendedText=""/>
         
         <substitution method="pen" type="deletion" copyText="and suppliance" amendedText=""/>
         
         <substitution method="pen" type="deletion" copyText="
-            ''For nature cressant does not grow alone, |
-            ''In thews and bulks, but as the Temple waxes, |
-            ''The inward service of the mind and soul |
-            ''Grows wide withal: perhaps he loves you now, |
-            ''And now no soil nor cautel doth besmirch |
-            ''The virtue of his will; but you must fear |
-            ''His greatest weigh'd his will is not his own "/
+            &quot; For nature cressant does not grow alone, |
+            &quot; In thews and bulks, but as this Temple waxes, |
+            &quot; The inward service of the mind and soul |
+            &quot; Grows wide withal: perhaps he loves you now, |
+            &quot; And now no soil nor cautel doth besmerch |
+            &quot; The virtue of his will; but you must fear |
+            &quot; His greatest weigh'd, his will is not his own "
             amendedText=""/>
         
             
-            <substitution method="pen" type="deletion" copyText="
-           '' And therefore must his choice be circumscribe’d |
-           '' Unto the voice and yielding of that body |
-           '' Whereof he is the head, then if he says he loves you, |
-           '' It fits you wisdom so far to believe it, |
-           '' As he in his particular act and place |
-           '' May give his saying deed; which is no further |
-           '' Than the main voice of Denmark goes withal, "/
+        <substitution method="pen" type="deletion" copyText="
+           &quot; And therefore must his choice be circumscrib’d |
+           &quot; Unto the voice and yielding of that body |
+           &quot; Whereof he is the head, then if he says he loves you, |
+           &quot; It fits you wisdom so far to believe it, |
+           &quot; As he in his particular act and place |
+           &quot; May give his saying deed; which is no further |
+           &quot; Than the main voice of Denmark goes withal, "
            amendedText=""/>
         
-        <!-- Looks like there's a replacement with "keen to him" -->
-           
-            <substitution method="pen" type="deletion" copyText="''Or loose your heart, or yoyr chfse treasure open | ''To his unmastered importunity." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="If with your credulous ear you hear his songe," amendedText="If with your credulous ear you hearken to him."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Or loose your heart, or your chaste treasure open | 
+            &quot; To his unmastred importunity." amendedText=""/>
                 
-            <substitution method="pen" type="deletion" copyText="''To his unmastered importunity" amendedText=""/>
-            
-            <substitution method="pen" type="deletion" copyText="And keep you in the rear of your affection," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; And keep you in the rear of your affection," amendedText=""/>
                 
-            <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-            <symbol name="Hatching" place="left_margin"/> 
+        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/> 
             
     </annotation>
 </transcription>

@@ -5,7 +5,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.010r.tif" pagination="19" signature="I.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.010r.tif" pagination="19" signature="I.5" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
@@ -24,9 +24,9 @@
         
         <marginalia anchor_text="Farewel, rememeber."> 
             <language ident="EN">
-                <position place="left_margin" book_orientation="0">
+                <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                       Pinke
+                       Sinks
                     </marginalia_text>
                 </position>
             </language>
@@ -39,7 +39,7 @@
                         (15)
                        Ghost
                        under the
-                       Prage
+                       stage
                     </marginalia_text>
                     <person name="Ghost"/>
                 </position>
@@ -48,24 +48,34 @@
         
         <!-- Substitutions -->
         <substitution method="pen" type="deletion" copyText="
-            '' Though lewdness court it in a shape of heaven, |
-            '' So but though to a radiant angle link’t, |
-            '' Will fort it self in a celestial bed, |
-            '' And prey on garbage. "amendedText=""/>
+            &quot; Though lewdness court it in a shape of heaven, |
+            &quot; So but though to a radiant angle link’t, |
+            &quot; Will sort it self in a celestial bed, |
+            &quot; And prey on garbage." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="And curd, like eager droppings into milk," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; And curd, like eager droppings into milk," amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="And a most instant Tetter barkt about | Most Lazar like, with vile and loathsome crust | All my smooth body." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            And a most instant Tetter barkt about | 
+            Most Lazar like, with vile and loathsome crust | 
+            All my smooth body." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="Unuzled, disappointed, un aneald," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; Unnuzled, disappointed, un aneald," amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="O horrible, O horrible, most horrible," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; O horrible, O horrible, most horrible," amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="'' Ham. O all you host of heaven! O earth! what else? | And shall I couple hell? O fie!" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Ham. O all you host of heaven! O earth! what else? | 
+            &quot; And shall I couple hell? O fie! &quot; hold my heart," amendedText="hold my heart,"/>
         
-        <substitution method="pen" type="replacement" copyText="But bear me strongly up; remember thee! | I thou poor Ghost, while memory holds a seat | In this distracted Globe: remeber thee!" amendedText="But bear me strongly up; remember thee!-- | I thou, poor Ghost, while memory holds a seat | In this distracted Globe; remember thee!--"/>		
-        
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->        
+        <substitution method="pen" type="replacement" copyText="
+            But bear me strongly up; remember thee! | 
+            I thou poor Ghost, whiles memory holds a seat | 
+            In this distracted Globe: remember thee!" 
+            
+            amendedText="But bear me strongly up; remember thee!-- 
+            | I thou, poor Ghost, whilest memory holds a seat | 
+            In this distracted Globe; remember thee!--"/>		
         
     </annotation>
 </transcription>

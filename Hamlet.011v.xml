@@ -8,39 +8,65 @@
     <page filename="Hamlet.011v.tif" pagination="22" signature="I.5-II.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         
-        <substitution method="pen" type="replacement" copyText="As, well, well, we know, or we could and if we would, | Or if we lift to speak, or there be, or if they might, | Or such ambiguous giving out, to noted" amendedText="As, well,- well,- we know,- or we could and if we would,-- | Or if we might,-- | (Or such ambiguous giving out,) to denote"/>
+        <substitution method="pen" type="replacement" copyText="
+            As, well, well, we know, or we could and if we would, | 
+            Or if we lift to speak, or there be, or if they might, | 
+            Or such ambiguous giving out, to noted |
+            That you know ought of me, this you must swear,
+            &quot; So grace and mercy at your most need help you." 
+            
+            amendedText="
+            As, well,-well,-we know,-or we could and if we would,-- | 
+            Or if we might,-- | 
+            (Or such ambiguous giving out,) denote |
+            That you know ought of me; this you must swear,"/>
         
-        <substitution method="pen" type="deletion" copyText="'' So grace and mercy at your most need help you." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Rest, rest, perturbed Spirit. So Gentlemen | 
+            With all my love I do commend me to you," 
+            
+            amendedText="Ham. Rest, rest, perturbed Spirit. So Gentlemen, | 
+            With all my love I do commend me to you;"/>
         
-        <substitution method="pen" type="insertion" copyText="Ham. Reft, reft, perturbed Spirit. So Gentlemen | With all my love I do commned me to you." amendedText="Ham. Reft, reft, perturbed Spirit. So Gentlemen, | With all my love I do commned me to you;"/>
+        <substitution method="pen" type="replacement" copyText="
+            May do t'express his love and friendship to you | 
+            Shall never fail, let us go in together | 
+            And still your fingers on your lips, I pray, | 
+            The time is out of joynt, O cursed spight |
+            That ever I was born to set it right.
+            Nay come, let's go together." 
+           
+           amendedText="May do t'express his love and friendship to you, | 
+            Shall never fail, let us go in together, | 
+            And still your fingers on your lips, I pray; | 
+            The time is out of joynt; O cursed spight! |
+            That ever I was born to set it right!"/>
         
-        <substitution method="pen" type="insertion" copyText="May do t'express his love and friendship to you | Shall never fail, let us go in together | And still your fingers on your lips, I pray |  The time is out of joynt, O cursed spight | That ever I was born to set it right" amendedText="May do t'express his love and friendship to you, | Shall never fail, let us go in together, | And still your fingers on your lips, I pray; |  The time is out of joynt; O cursed spight! | That ever I was born to set it right!"/>
         
-        <substitution method="pen" type="deletion" copyText="Nay come, let's go together" amendedText=""/>
-        
-        
-        <!-- Scene division -->
+        <!-- Act change: I.5 -> II.1 -->
 
         <substitution method="pen" type="deletion" copyText="
-           '' Pol. Give him this money, and these two notes Reynoldo. |
-           '' Rey. I will my Lord. |
-           '' Pol. You shall do marvellous wisely, good Reynoldo, |
-           '' Before you visit him to make inquiry |
-           '' Of his behaviour |
-           '' Rey. My Lord I did intend it. |
-           '' Pol. Marry, well said, very well said, look your Sir, |
-           '' Enquire me first what Danskers are in Paris, |
-           '' And how, and who, what means and where they keep, |
-           '' What company, at what expence: and finding |
-           '' By this encompassment and drift of question, |
-           '' That they do know my son: come you more near |
-           '' Then your particular demands will touch it, |
-           '' Take you as 'twere some distant knowledge of him, |
-           '' As thus, I know his father, and his friends, |
-           '' And in part him: Do you mark this Reynoldo? |
-           '' Rey. I very well my Lord. |
-           '' Pol. And in part him, but you may say not well, |
-           '' But if it be he I mean, he’s very wild, |
-           '' Addicted so and so, and there put on him" amendedText=""/>
+            Enter Polonius with his Man.
+           &quot; Pol. Give him this money, and these two notes Reynoldo. |
+           &quot; Rey. I will my Lord. |
+           &quot; Pol. You shall do marvellous wisely, good Reynoldo, |
+           &quot; Before you visit him to make inquiry |
+           &quot; Of his behaviour |
+           &quot; Rey. My Lord I did intend it. |
+           &quot; Pol. Marry well said, very well said, look your Sir, |
+           &quot; Enquire me first what Danskers are in Paris, |
+           &quot; And how, and who, what means and where they keep, |
+           &quot; What company, at what expence: and finding |
+           &quot; By this encompassment and drift of question, |
+           &quot; That they do know my son: come you more near |
+           &quot; Then your particular demands will touch it, |
+           &quot; Take you as 'twere some distant knowledge of him, |
+           &quot; As thus, I know his father, and his friends, |
+           &quot; And in part him: Do you mark this Reynoldo? |
+           &quot; Rey. I very well my Lord. |
+           &quot; Pol. And in part him, but you may say not well, |
+           &quot; But if it be he I mean he’s very wild, |
+           &quot; Addicted so and so, and there put on him" amendedText=""/>
+        
     </annotation>
 </transcription>

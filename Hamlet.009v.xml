@@ -3,22 +3,25 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.009v.tif" pagination="18" signature="I.4" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.009v.tif" pagination="18" signature="I.5" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        <!-- Added file -->
-        
-   
+
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Ham. Murder." amendedText="Murder?"/>
-        <substitution method="pen" type="replacement" copyText="Ham. Haste me to know't  that I with wings as swift" amendedText="Ham. Haste me to know it, that I, with wings as swift"/>
+        <substitution method="pen" type="replacement" copyText="Ham. Murder." amendedText="Ham. Murder?"/>
+        <substitution method="pen" type="replacement" copyText="Ham. Haste me to know't that I with wings as swift" amendedText="Ham. Haste me to know it, that I, with wings as swift"/>
        
-        <substitution method="pen" type="deletion" copyText="'' The duller should'st thou be than the fat weed | '' That roots it self in case on Lethe's wharf, | '' Would'st thou not sir in this: " amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; The duller should'st thou be than the fat weed | 
+            &quot; That roots it self in ease on Lethe's wharf, | 
+            &quot; Would'st thou not sir in this: ,, now Hamlet hear, " amendedText="now Hamlet hear,"/>
         
         <substitution method="pen" type="replacement" copyText="Ham. O my Prophetick soul, my Uncle?" amendedText="Ham. O, my Prophetick soul! my Uncle?"/>
         
-        <substitution method="pen" type="deletion" copyText="'' With witchcraft of his wits, with his trait'rous gifts, | '' O wicked wits, and gifts that have the power | '' So to seduce!" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; With witchcraft of his wits, with his trait'rous gifts, | 
+            &quot; O wicked wits, and gifts that have the power | 
+            &quot; So to seduce! ,, won to his shameful lust" amendedText=",, wont to his shameful lust"/>
         
-        <substitution method="pen" type="deletion" copyText="'' but vertue, as it never will be mov'd" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="To those of mine &quot; but vertue, as it never will be mov'd" amendedText="To those of mine"/>
         
     </annotation>
 </transcription>

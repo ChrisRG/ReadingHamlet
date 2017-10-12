@@ -5,7 +5,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.009r.tif" pagination="17" signature="I.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.009r.tif" pagination="17" signature="I.4-I.5" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
@@ -25,19 +25,44 @@
         <!-- Substitutions -->
         <substitution method="pen" type="insertion" copyText="It waves me forth again, I'll follow it." amendedText="It waves me forth again,--I'll follow it.--"/>
         
-        <substitution method="pen" type="deletion" copyText="'' That bettels o're his base into the Sea," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; That bettels o're his base into the Sea," amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="Which might deprive your sovereignty of reason, " amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="&quot; Which might deprive your sovereignty of reason," amendedText=""/>
         
         <substitution method="pen" type="deletion" copyText="
-            '' To what issue will this come? |
-            '' Something is rotten in the state of Denmark |
-            '' Heaven will discover it |
-            '' Nay let’s follow him" amendedText=""/>
-            
-        <substitution method="pen" type="replacement" copyText="Alas poor Ghost." amendedText="Alas, poor Ghost."/>
+            And draw you into madness? &quot; think of it, |
+            &quot; The very place puts toys of desperation |
+            &quot; Without more motive, into every brain, |
+            &quot; That looks so many fadoms to the Sea, |
+            &quot; And hears it roar beneath.
+            " amendedText="And draw you into madness?"/>
         
-        <substitution method="pen" type="replacement" copyText="Still I am call'd; unhand me Gentlemen, | I'll make a Ghost of home that letts me: | I fay away: Go on I'll follow thee." amendedText="Still am I call'd: unhand me Gentlemen,-- | I'll make a Ghost of him that letts me:-- | I say, away:-- Go on--I'll follow thee.--"/>
+        <substitution method="pen" type="insertion" copyText="
+            Ham. It waves my still, |
+            &quot; Go on, I'll follow thee."
+            
+            amendedText="
+            Ham. It waves me still: |
+            &quot; Go on, I'll follow thee.--"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Still I am call'd: unhand me Gentlemen, |
+            I'll make a Ghost of him that letts me: |
+            I say away: Go on I'll follow thee."
+            
+            amendedText="
+            Still am I call'd: unhand me, Gentlemen,-- |
+            By heav'n, I'll make a Ghost of him that letts me:-- |
+            I say, away-Go on-I'll follow thee.--"/>
+        <substitution method="pen" type="deletion" copyText="
+            Hora. To what issue will this come? |
+            Mar. Something is rotten in the state of Denmark. |
+            Hora. Heaven will discover it |
+            &quot; Mar. Nay let’s follow him." amendedText=""/>
+        
+        <!-- Scene change: I.4 to I.5 -->
+            
+        <substitution method="pen" type="replacement" copyText="Ham. Alas poor Ghost." amendedText="Alas, poor Ghost!"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/>
