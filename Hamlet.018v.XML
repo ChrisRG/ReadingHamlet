@@ -10,43 +10,75 @@
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="and that for passion," amendedText="and that cause for passion,"/>
-        <substitution method="pen" type="deletion" copyText="''and cleave the gerenal ear with horrid speech," amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="Make mad the guilty and appeal the free;" amendedText="Make the mad guilty, and appiale the free,"/>
-        <substitution method="pen" type="deletion" copyText="yet I,|
-                                                             '' A dull and muddy metled raskal, peak |
-                                                             '' Like John a dreams, unpregrant of my cause, |
-                                                             '' And can say nothing, no not for a King, |
-                                                             '' Upon whose property and most dear life |
-                                                             '' A damn'd defear was made: am I a coward. |
-                                                             '' Who calls me villain, breaks my pate across, |
-                                                             '' Plucks off my bear, and blows it in my face, |
-                                                             '' Twekes me by the'nose gives me the lyei'th throat |
-                                                             '' As deep as to the lungs? who does me this? |
-                                                             '' Hah? s'wounds I should take it, for it cannot be" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="To make oppression bitter or e're this |
-                                                                I should have fatted all the region Kites |
-                                                                With slaves ofsal:" 
-                                                                amendedText="To make oppression bitter: or, e're this, |
-                                                                I should have fatted all the region Kites |
-                                                                With slaves ofsal:"/>
-        <substitution method="pen" type="deletion" copyText="''bloody, bawdy villian, |
-                                                             '' Remorsless, treacherous lecherous, kindless villian. |
-                                                             '' Why what an ass am I? this most brave, |
-                                                             '' That I the son of a dear father murthered, |
-                                                             '' Promted to my revenge by heaven and hell, |
-                                                             '' Must like a whore unpack my heart with words, |
-                                                             '' And fall a cursing like a very drab, stallion, fie upon't. foh |
-                                                             '' About my brains,'' hum" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="if he do blench | I know my course." 
-            amendedText="if he look pale, | I know my course."/>
-        <substitution method="pen" type="replacement" copyText="and the Devil hath power" amendedText="and the Devil may have power"/>
-        
-        <substitution method="pen" type="deletion" copyText="''yea and perhaps |
-                                                             '' Out of my weakness and my melancholly,
-                                                             '' As he is very potent with such spirits,
-                                                             '' Abuses me to damn me:" 
-            amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Had he the motive, and that for passion |
+            That I have? he would &quot; drown the stage with tears, |
+            &quot; And cleave the general ear with horrid speech, |
+            Make mad the guilty and appeal the free, |
+            &quot; Confound the ignorant, and amaze indeed, |
+            &quot; The very faculties of eyes and ears, yet I, |
+            &quot; A dull and muddy metled raskal, peak |
+            &quot; Like John a dreams, unpregrant of my cause, |
+            &quot; And can say nothing, no not for a King, |
+            &quot; Upon whose property and most dear life |
+            &quot; A damn'd defeat was made: am I a coward? |
+            &quot; Who calls me villain, breaks my pate across, |
+            &quot; Plucks off my bear, and blows it in my face, |
+            &quot; Twekes me by th' nose gives me the lye i'th throat |
+            &quot; As deep as to the lungs? who does me this? |
+            &quot; Hah? s'wounds I should take it, for it cannot be |
+            But I am pigeon liver'd, and lack gall |
+            To make oppression bitter or e're this |
+            I should have fatted all the region Kites |
+            With this slaves offal: &quot; bloody, bawdy villain, |
+            &quot; Remorsless, treacherous lecherous, kindless villian. |
+            &quot; Why what an ass am I? this most brave, |
+            &quot; That I the son of a dear father murthered, |
+            &quot; Prompted to my revenge by heaven and hell, |
+            &quot; Must like a whore unpack my heart with words, |
+            &quot; And fall a cursing like a very drab, stallion, fie upon't. foh |
+            &quot; About my brains, &quot; hum, I have heard |
+            That guilty creatures sitting at a Play |
+            Have by the very cunning of the Scene |
+            Been strook so to the soul, that presently |
+            They have proclaim'd their malefactions: |
+            For murther though it have no tongue will speak |
+            &quot; With most miraculous organ. &quot; I'll have these Players |
+            Play something like the murther of my father |
+            Before mine Uncle: I'll observe his looks, |
+            &quot; I'll tent him to the quick, if he do blench |
+            &quot; I know my course. &quot; The spirit that I have seen |
+            May be a Devil, and the Devil hath power |
+            T assume a pleasing shape, &quot; yea and perhaps |
+            &quot; Out of my weakness and my melancholly, |
+            &quot; As he is very potent with such spirits, |
+            &quot; Abuses me to damn me: &quot; I'll have grounds |
+            More relative than this, the Play's the thing |
+            Wherein I'll catch the conscience of the King." 
+          
+            amendedText="Had he the motive, and that cause for passion, |
+            That I have? he would &quot; drown the stage with tears, |
+            Make mad the guilty, and appall the free; |
+            &quot; Confound the ignorant, and amaze, indeed, |
+            &quot; The very faculties of eyes and ears, |
+            But I am pigeon liver'd, and lack gall |
+            To make oppression bitter; or, e're this, |
+            I should have fatted all the region Kites |
+            With this slaves offal: I have heard, |
+            That guilty creatures, sitting at a Play, |
+            Have by the very cunning of the Scene |
+            Been strook so to the soul, that presently |
+            They have proclaim'd their malefactions: |
+            For murther, though it have no tongue, will speak |
+            &quot; With most miraculous organ. &quot; I'll have these Players |
+            Play something like the murther of my father, |
+            Before mine Uncle: I'll observe his looks; |
+            &quot; I'll tent him to the quick; if he look pale, |
+            &quot; I know my course. &quot; The spirit that I have seen |
+            May be a Devil, and the Devil may have power |
+            T assume a pleasing shape. I will have grounds |
+            More relative than this: the Play's the thing, |
+            Wherein I'll catch the conscience of the King."/>
         
         
     </annotation>

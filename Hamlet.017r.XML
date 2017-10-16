@@ -9,89 +9,104 @@
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
-        <marginalia>
+        <marginalia anchor_text="french Faulkeners">
             <language ident="EN">
                 <position place="left_margin" book_orientation="0">
                     <marginalia_text>
-                        =ly
+                        =ly <!-- Possible different hand -->
                     </marginalia_text>
                 </position>
             </language>
         </marginalia>
+        
+        <marginalia anchor_text="&quot; Old grandsire Priam seeks; so proceed you.">
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        In
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia anchor_text="&quot; Old grandsire Priam seeks; so proceed you.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        In
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="Why, as by lot, God wot, and then you know, it came to |
-                                                             ''pass, as most like it was:" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="for look whore my abridgement comes." 
-                                                        amendedText="for, look, whore, my abridgement comes."/>
-        <substitution method="pen" type="deletion" copyText="I am glad to fee |
-                                                                thee well, welcome good friends" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="oh old friend! why thy face |
-                                                                is valanc'd since I saw thee last come'st thou to beard me in Den- |
-                                                                mark? what my young Lady and Mistriss! my Lady, your Ladiship |
-                                                                is grown nearer to heaven when I saw you last by the altitude of a |
-                                                                Chopine," 
-                                                                amendedText="oh my old friend! thy face|
-                                                                is valanc'd since I saw thee last: come'st thou to beard me in Den- |
-                                                                mark? what my young Lady and Mistriss? marry, your Ladiship |
-                                                                is grown nearer to heaven when I saw you last by the altitude of a |
-                                                                Chiopine,"/>
-        <substitution method="pen" type="deletion" copyText="masters you are all welcome," amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="we'll e'ne to'e |
-                                                                like friendlly Faulkners," 
-                                                                amendedText="we'll e'ne to'e |
-                                                                            like french Faulkners,"/>
-        <substitution method="pen" type="replacement" copyText="come a passionate |
-                                                                peech" amendedText="come a passionate |
-                                                                                    Speech"/>
-        <substitution method="pen" type="replacement" copyText="Hark you Guildenstern, and you too, aat each ear a hearer," 
-            amendedText="Hark you Guildenstern, and Rosencrans,"/>
-        <substitution method="pen" type="replacement" copyText="but it was never act- |
-                                                                ed or if it was, not above once, for the Play I remember pleased |
-                                                                not the milllion, 'twas a caviary to the general," 
-                                                                amendedText="but it was never act- |
-                                                                ed: or if it was, not above once; for the Play, I remember, pleased |
-                                                                not the milllion, 'twas caviar to the general;"/>
+        <substitution method="pen" type="replacement" copyText="&quot; Ham. Why, as by lot, God wot, and then you know, it came to
+            &quot; pass, as most like it was: &quot; the first row of the Rubrick will
+            shew you more, for look whore my abridgement comes." 
+                                                             
+            amendedText="Ham. the first row of Rubrick will
+            shew you more, for, look, whore my abridgement comes."/>
         
-        <substitution method="pen" type="replacement" copyText="that great baby you see is not yet out of his swadling clouts." 
-            amendedText="that great baby you see yonder is not yet out of his swadling clouts."/>
-       <substitution method="pen" type="deletion" copyText="'but it was as I re- |
-                                                              '' ceived it and others, whole judgements in such matters cried in |
-                                                              '' the top of mine, and excellent Play, well digested in the Scenes, set |
-                                                              '' down with a s much mesty as cunning. I remember one said |
-                                                              '' there were no fallets in te lines to make the matters savoury, not |
-                                                              '' no matter in the phrase that might indite the author of affection, |
-                                                              '' but call'd it an honest method, as wholesome as sweet, and by very |
-                                                              '' much more handsome that fine;" amendedText=""/>
-        
-        
-        <substitution method="pen" type="replacement" copyText="one speech in't I chiefly loved; |
-                                                                twas Aeneas talk to Dido, and thereabout of it especially, when he |
-                                                                speaks of Priams slaughter, if it live in your memory begin at this |
-                                                                line, let me see, let me see, the rugged Pyrrhus like th'Hircanian Beas- |
-                                                                not it begins with Pyrrhus. The rugged Pyrrhus, he whose sa- |
-                                                                b;e arms, |
-                                                                Black as his purpose did the night resemble," 
-                                                                amendedText="
-                                                                one speech init I chiefly loved; |
-                                                                twas Aeneas tale to Dido; and thereabout of it especially, where he |
-                                                                speaks of Priams slaughter, if it live in your memory, begin at this |
-                                                                line, let me see, let me see,-- the rugged Pyrrhus like th'Hircanian Beast-- |
-                                                                that's not it yet begins with Pyrrhus -- The rugged Pyrrhus, he whose sa- |
-                                                                b;e arms, |
-                                                                Black as his purpose did the night resemble,--"/>
-        <substitution method="pen" type="deletion" copyText="''When he lay couched in the' ominous horse, |
-                                                             '' Hath now his dread and black complexion smear'd |
-                                                             '' With Heraldry more dismal head to foot: |
-                                                             '' Now is he total Gules, horridly trickt |
-                                                             '' With blood of fathers, mothers, daughters, sons, |
-                                                             '' Bak'd and embasred with parching streets, |
-                                                             '' That lend a tyrannous and a damned light |
-                                                             '' To their Lords murder, roasted in wrath and fire, |
-                                                             '' And thus o re-ciseed with coagulate gore, |
-                                                             '' With eyes like Carbuncles, the hellish Pyrrus |
-                                                             '' Old grandfire Priam seeks; so proceed you." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Ham. You are welcome masters, welcome all, &quot; I am glad to see
+            &quot; thee well, welcome good friends; quot; oh old friend ! why thy face
+            is valanc'd since I saw thee last, come'st thou to beard me in
+            Denmark? what my young Lady and Mistriss! my Lady, your Ladiship
+            is nearer to heaven than when I saw you last by the altitude of a
+            Chopine, I wish your voice, like a piece of uncurrant gold, but not
+            crackt within the ring: masters you are all welcome, we'll e'en to't
+            like friendly Faulkeners, fly at any thing we see, we'll have a speech
+            strait, come give us a taste of your quality, come a passionate
+            peech."
             
+            amendedText="Ham. You are welcome masters, welcome all; oh my old friend ! thy face
+            is valanc'd since I saw thee last: come'st thou to beard me in
+            Denmark? what! my young Lady and Mistriss? marry, your Ladiship
+            is grown nearer to heaven than when I saw you last by the altitude of a
+            Chiopine, I wish your voice, like a piece of uncurrant gold, but not
+            crackt within the ring -- come, we'll e'en to't
+            like french Faulkeners, fly at any thing we see; we'll have a speech
+            strait. come give us a taste of your quality, come a passionate
+            speech."/>
+        
+       <substitution method="pen" type="replacement" copyText="Ham. I heard thee speak me a speech once, but it was never
+           acted, or if it was, not above once, for the Play I remember pleased 
+           not the million, 'twas a caviary to the general, &quot; but it was as I
+           &quot; received it and others, whole judgements in such matters cried in
+           &quot; the top of mine, and excellent Play, well digested in the Scenes, set
+           &quot; down with as much modesty as cunning. I remember one said
+           &quot; there were no sallets in the lines to make the matter savoury, nor
+           &quot; no matter in the phrase that might indite the author of affection,
+           &quot; but call'd it an honest method, as wholesome as sweet, and by very
+           &quot; much more handsome that fine; &quot; one speech in 't I chiefly loved,
+           'twas Aeneas talk to Dido, and thereabout of it especially when he
+           speaks of Priams daughter, if it live in your memory begin at this
+           line, let me see, let me see, the rugged Pyrrhus, like th'Hircanian Beast,
+           'tis not it begins with Pyrrhus. The rugged Pyrrhus, he whose sable arms," 
+           
+           amendedText="Ham. I heard thee speak me a speech once, but it was never
+           acted: or if it was, not above once; for the Play I remember, pleased 
+           not the million, 'twas caviar to the general; one speech in it I chiefly loved;
+           'twas Aeneas tale to Dido; and thereabout of it especially, where he
+           speaks of Priams daughter. if it live in your memory, begin at this
+           line, let me see, let me see - the rugged Pyrrhus, like th'Hircanian Beast - best, best, no,
+           thats not it yet it begins with Pyrrhus. The rugged Pyrrhus, he whose sable arms,"/>
+        
+        
+        <substitution method="pen" type="replacement" copyText="
+            Black as his purpose did the night resemble,
+            &quot; When he lay couched in th' ominous horse, |
+            &quot; Hath now his dread and black complexion smear'd |
+            &quot; With Heraldry more dismal head to foot: |
+            &quot; Now is he total Gules, horridly trickt |
+            &quot; With blood of fathers, mothers, daughters, sons, |
+            &quot; Bak'd and embasted with parching streets, |
+            &quot; That lend a tyrannous and a damned light |
+            &quot; To their Lords murder, roasted in wrath and fire, |
+            &quot; And thus o're-cised with coagulate gore, |
+            &quot; With eyes like Carbuncles, the hellish Pyrrus |
+            &quot; Old grandfire Priam seeks; so proceed you." 
             
+            amendedText="Black as his purpose did the night resemble;--"/>
+                        
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 
         

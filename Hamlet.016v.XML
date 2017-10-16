@@ -10,11 +10,12 @@
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                         (7)
                         Players
                     </marginalia_text>
+                    <person name="Players"/>
                 </position>
             </language>
         </marginalia>
@@ -24,52 +25,73 @@
                     <marginalia_text>
                         Pol: If you call me, Jeptha, my Lord, I |
                         have a daughter that I love passing well |
-                        Ham. Nay, that follows not.
+                        Ham. Nay, that follows not. [Deleted]
                     </marginalia_text>
                 </position>
             </language>
         </marginalia>
+        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="Ros. I think their inhibition comes by the means of the late in- |
-                                                             novation" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="very" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Ros. I think their inhibition comes by the means of the late innovation." amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="the same estimation they did when I was in the City?" amendedText="the same estimation they did, when I was in the City?"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. It is not very strange, for my Uncle is King of Denmark,
+            and those that would make mouths at him while my father, lived,
+            give twenty, forty, fifty, a hundred duckets a piece for his picture
+            in little"
+            
+            amendedText="Ham. It is not very strange; for my Uncle is King of Denmark;
+            and those that would make mouths at him while my father, lived, now [deleted]
+            give twenty, forty, fifty, nay a hundred duckets a piece for his picture
+            in little"/>
+
         <substitution method="pen" type="deletion" copyText="[A Flourish" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="and those that would make mouths at him while my father, lived, |
-                                                                give twenty, forty, fiftay, a hundred duckets a piece for his picture |
-                                                                in little:" 
-                                                      amendedText="and those that would make mouths at him while my father, lived, |
-                                                                             give twenty, forty, fiftay, nay a hundred duckets a piece for his picture |
-                                                                             in little:"/>
-        <substitution method="pen" type="deletion" copyText="come then," amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="let me comply with you in this garb, ''Left my extent to the Play- |
-                                                             ''ers, which I tell you must shew farily outwards, should more ap- |
-                                                             ''pear like entertainment than yours; you are welocome:" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="Hark you Guildenstern, and you too, aat each ear a hearer," 
-                                                        amendedText="Hark you Guildenstern, and Rosencrans,"/>
-        <substitution method="pen" type="deletion" copyText="as" amendedText=""/>
+
+        <substitution method="pen" type="replacement" copyText="Ham. Gentlemen you are welcome to Elsenour, your hands:
+            come then, th'appurtenance of welcome is fashion and ceremony,
+            let me comply with you in this garb, &quot; left my extent to the Players
+            &quot; which I tell you must shew fairly outwards, should more
+            &quot; appear like entertainment than yours; you are welocome:" 
+            
+            amendedText="Ham. Gentlemen you are welcome to Elsenour; your hands:
+            the appurtenance of welcome is fashion and ceremony,"/>
         
-        <substitution method="pen" type="replacement" copyText="that great baby you see is not yet out of his swadling clouts." 
-                                                         amendedText="that great baby you see yonder is not yet out of his swadling clouts."/>
+        <substitution method="pen" type="replacement" copyText="Ham. I am but mad North-North-west, when the wind is
+            Southerly I know a hawk from a hand saw." amendedText="Ham. I am but mad North, North-west, when the wind is
+            Southerly, I know a hawk from a Hernsaw."/>
         
-        <substitution method="pen" type="replacement" copyText="I will prophesie that he comes to tell me of the Players, |
-                                                                mark it: You say right Sir, Monday morning 'twas then indeed." 
-                                                                amendedText="I will prophesie that he comes to tell me of the Players, |
-                                                                mark it -- YOu say right, Sir; for on Monday morning 'twas then, indeed."/>
-        <substitution method="pen" type="replacement" copyText="My Lord I have news to tell you:" 
-                                                                amendedText="My Lord, I have news to tell you:"/>
-        <substitution method="pen" type="replacement" copyText="Actor in Rome." 
-                                                                amendedText="Actor in Rome.--"/>
-        <substitution method="pen" type="replacement" copyText="Buz, buz" 
-                                                                amendedText="Buz,--"/>
-        <substitution method="pen" type="replacement" copyText="Upon mine honour." 
-                                                                amendedText="Upon mine honour.--"/>
-        <substitution method="pen" type="replacement" copyText="Then came each actor in his Ass" 
-                                                                amendedText="Then came each actor in his Ass--"/>
-        <substitution method="pen" type="replacement" copyText="O feptha Judge of Israel what a treasure hadst thou" 
-                                                                amendedText="O feptha Judge of Israel what a treasure hadst thou!"/>
-        <substitution method="pen" type="deletion" copyText="Pol: If you call me, Jeptha, my Lord, I |
-                                                             have a daughter that I love passing well|
-                                                             Ham. Nay, that follows not." amendedText=""/>
+        <substitution method="pen" type="insertion" copyText="Pol. Well be with you Gentlemen." amendedText="We'll be with you Gentlemen."/>
+
+        <substitution method="pen" type="replacement" copyText="Hark you Guildenstern, and you too, at each ear a hearer,
+            that great baby as you see is not yet out of his swadling clouts." 
+            amendedText="Hark you Guildenstern, and Rosencraus,
+            that great baby you see yonder is not yet out of his swadling clouts."/> 
+        
+        <substitution method="pen" type="replacement" copyText="Ham. I will prophesie that he comes to tell me of the Players, 
+            mark it: You say right Sir, Monday morning 'twas then indeed." 
+            amendedText="Ham. I will prophesie that he comes to tell me of the Players,
+            mark it -- YOu say right, Sir; for on Monday morning 'twas then, indeed."/>
+        
+        <substitution method="pen" type="replacement" copyText="My Lord I have news to tell you: when Rossius was an
+            Actor in Rome." 
+            amendedText="My Lord, I have news to tell you: when Rossius was an
+            Actor in Rome. --"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. Buz, buz." 
+            amendedText="Ham. Buz,--"/>
+        
+        <substitution method="pen" type="replacement" copyText="Pol. Upon mine honour." 
+            amendedText="Pol. Upon mine honour.--"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. Then came each Actor on his Ass." 
+            amendedText="Ham. Then came each actor on his Ass--"/>
+        
+        <substitution method="pen" type="replacement" copyText="Ham. O Jeptha Judge of Israel what a treasure hadst thou." 
+            amendedText="Ham. O jeptha Judge of Israel what a treasure hadst thou!"/>
+        
+        <substitution method="pen" type="deletion" copyText="Ham. Why one fair daughter and no more," amendedText="Ham. Why, one fair daughter and no more,"/>
+        
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="left_margin"/> 
         <symbol name="Hatching" place="right_margin"/> 
