@@ -9,48 +9,49 @@
     <annotation>
         
         
-        <substitution method="pen" type="deletion" copyText=" And I doubt the hatch and the disclose |
+        <substitution method="pen" type="deletion" copyText="
+            And I doubt the hatch and the disclose |
             Will be some danger, which to prevent |
             I have in quick determination |
-            Thus set down: |
+            Thus set down: he shall with speed to England, |
             For the demand of out neglected tribute. |
             Haply the Seas and Countries different, |
-            With variable objects Shall expel |
-            This Something Setled  matterin his heart, |
-            Whereon his brains Still beating, |
-            Puts him thus from fashion of himself | '" amendedText=""/>        
+            With variable objects shall expel |
+            This something setled matter in his heart, |
+            Whereon his brains still beating, |
+            Puts him thus from fashion of himself." amendedText="he shall with speed to England,"/>        
         
     
+        <substitution method="pen" type="deletion" copyText=" 
+            But yet I do believe the origen and commencement of it | 
+            Sprung from neglected love: how now Ophelia? |
+            You need not tell us what Lord Hamlet said, |
+            We heard it all: my Lord do as you please," amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText=" But yet I do believethe origen and commencement of it | 
-            Sprung from neglected love: hoe now Ophelia? |
-            You need not tell us what Lord Hamletsaid, |
-            We heard it all: my Lord do as you please'" amendedText=""/>
         
+        <!-- Scene change: III.1 -> III.2 -->
         
-        <!-- Scene division -->
+        <substitution method="pen" type="replacement" copyText="Enter Hamlet and three of the Players." amendedText="Enter Hamlet meeting Pol &amp;c."/>
         
         <substitution method="pen" type="deletion" copyText="
-            '' Speak the speech I pray you, as I pronounc'd it to you | 
-            '' Smoothly from the tongue; but if you mouth it, as many of our |
-            '' Players do, I had as lieve the Town-crier spoke my lines: nor do |
-            '' not saw the air too much with your hand thus, but use all gently; |
-            '' for in the very torrent tempest, and as I may say, whirlwind of |
-            your passion you must acquire and beget a temperance that may |
-            give it smoothness: O it offends me to the soul to hear a robusti- | 
-            '' ous Periwig-gated fellow tear a passion to very rags, to split the | 
-            ears of the ground-lings, who for the most part are capable of | 
-            '' nothing but inexplicable dumb shews and noise: I would have | 
-            '' such a fellow whipt for ore- doing Termagant, it out-Herods Herod, 
-            '' pray you, avoid it. | 
-            '' Pla. I warrant your honour. | 
-            '' Ham. Be not too tame neither, but let your own discretion be | 
-            your tutor; sute the action to the word, the word to the action, | 
-            '' with this special observance, that you o'er-step not the modesty of |
-            '' Nature: for anything so o're-done is from the purpose of Play- 
-            '' ing, whose end both at the first, and now, was and is, to hold, as 'twere" amendedText=""/>
-        
-        <substitution method="pen" type="replacement" copyText="Enter Hamlet and three of the Players" amendedText="Enter Hamlet meeting Pol. &amp;C"/>
+            &quot; Ham. Speak the speech I pray you as I pronounc'd it to you
+            &quot; smoothly from the tongue; but if you mouth it, as many of our
+            &quot; Players do, I had as lieve the Town-crier spoke my lines: nor do
+            &quot; not saw the air too much with your hand, thus, but use all gently;
+            &quot; for in the very torrent tempest, and, as I may say, whirlwind of
+            &quot; your passion you must acquire and beget a temperance that may
+            &quot; give it smoothness: O it offends me to the soul to hear a robustious 
+            &quot; Periwig-pated fellow tear a passion to very rags, to split the
+            &quot; ears of the ground-lings, who for the most part are capable o 
+            &quot; nothing but inexplicable dumb shews and noise: I would have 
+            &quot; such a fellow whipt for ore-doing Termagant, it out-Herods Herod, 
+            &quot; pray you, avoid it.
+            &quot; Pla. I warrant your honour. 
+            &quot; Ham. Be not too tame neither, but let your own discretion be 
+            &quot; your tutor; sute the action to the word, the word to the action, 
+            &quot; with this special observance, that you o'er-step not the modesty of
+            &quot; Nature: for any thing so o're-done is from the purpose of Playing, 
+            &quot; whose end both at first, and now, was, and is, to hold, as 'twere" amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 

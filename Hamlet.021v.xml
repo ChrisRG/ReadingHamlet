@@ -9,11 +9,9 @@
     <annotation>
         <!-- Marginalia -->     <!-- Positions available: head, intext, tail, left_margin, right_margin -->
 
-      
-        
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                         (6)
                         King
@@ -41,38 +39,70 @@
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="
-            '' the mirror up to nature; to show virtue her own feature, |
-            '' scorn her own image, and the very age and body of | 
-            '' the time his form and pressure. Now this overdone, |
-            '' or com`e tardy off, though it make the unskillful |
-            '' laugh, cannot but make the judicious grieve; the |
-            '' censure of the which one must in your allowance |
-            '' o'erweigh a whole theatre of others. O, there be |
-            '' players that I have seen play, and heard others |
-            '' praise, and that highly, not to speak it profanely, |
-            '' that, neither having the accent of Christians nor |
-            '' the gait of Christian, pagan, nor man, have so |
-            '' strutted and bellowed that I have thought some of |
-            '' nature's journeymen had made men and not made them |
-            '' well, they imitated humanity so abominably. 
-            " amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            &quot; the mirror up to nature; to show virtue her own feature, scorn her own
+            &quot; image, and the very age and body of the time his form and pressure:
+            &quot; now this over-done, or come tardy of, though it makes the
+            &quot; unskilful laugh, cannot but make the judicious grieve; the censure
+            &quot; of which one must in your allowance o'erweigh a whole Theatre 
+            &quot; of others. O there be Players that I have seen play, and heard
+            &quot; others praise, and that highly, not to speak it profanely, that
+            &quot; neither having the accent of Christians, nor the gait of Christian, 
+            &quot; Pagan, nor man, have so strutted and bellowed, that I have thought 
+            &quot; some of Natures journey-men had made men, and not made them
+            &quot; well, they imitated humanity so abominably. 
+            &quot; Play. I hope we have reformed that indifferently with us.
+            &quot; Ham. O reform it altogether, and let those that play your
+            &quot; Clowns speak no more than is set down for them, for there be of
+            &quot; them that will themselves laugh, to set on some quantity of barren
+            &quot; spectators to laugh too, though in the mean time some necessary
+            &quot; question of the Play be then to be considered: that's villanous,
+            &quot; and shews a most pitiful ambition in the Fool that uses it: go,
+            &quot; make you ready, &quot; How now my Lord? will the King hear this
+            piece of work?
+            " amendedText="Ha: - How now, my Lord? wil the King hear this
+            piece of work?"/>
         
-        <substitution method="pen" type="deletion" copyText="
-            '' A man that fortune's buffets and rewards |
-            '' Hast ta'en with equal thanks: and blest are those |
-            '' Whose blood and judgment are so well commingled, |
-            '' That they are not a pipe for fortune's finger 
-            " amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="Enter Polonius, Guildenstern, and Rosencraus" amendedText="Polonius, Guildenstern, and Rosencraus"/>
         
+        <substitution method="pen" type="replacement" copyText="Ros. I my Lord." amendedText="Both. We will my Lord."/>
         
+        <substitution method="pen" type="insertion" copyText="[Exeunt those two." amendedText="[Exeunt those two. &amp; Polonius."/>
         
-        <substitution method="pen" type="insertion" copyText="From what advancement do I hope from thee" amendedText="From what advancement do I hope from thee ?"/>        
-        <substitution method="pen" type="insertion" copyText="Nay,  do not think I flatter" amendedText="Nay,  do not think I flatter :"/>
-        <substitution method="pen" type="insertion" copyText="As one in suffering all that suffers nothing " amendedText="As one , in suffering all, that suffers nothing."/>
-
+        <substitution method="pen" type="replacement" copyText="Ham. hat ho, Horatio?" amendedText="Ham. What, ho, Horatio!"/>
         
+        <substitution method="pen" type="insertion" copyText="Ham, Horatio, thou are e'en as just a man 
+            As e're my conversation met withal." amendedText="Ham, Horatio, thou are e'en as just a man,
+            As e're my conversation met withal."/>
         
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Nay, do not think I flatter, |
+            For what advancement may I hope from thee |
+            That hast no revenue but thy good spirits |
+            To feed and cloath thee? why should the poor be flattered? |
+            &quot; No, let the candid tongue lick absurd pomp, |
+            &quot; And crook the pregnant hinges of the knee |
+            &quot; Where thrift may follow fawning, doest thou hear? |
+            Since my dear soul was Mistress of her choice, |
+            And could of men distinguish her election, |
+            Sh'ath seal'd thee for her self: for thou hast been |
+            As one in suffering all that suffers nothing;
+            &quot; A man that fortunes buffets and rewards |
+            &quot; Hast ta'n with equal thanks: and blest are those |
+            &quot; Whose blood and judgment are so well commedled, |
+            &quot; That they are not a pipe for fortunes finger, 
+            " 
+            
+            amendedText="
+            Ham. Nay, do not think I flatter: |
+            For what advancement may I hope from thee? |
+            why should the poor be flattered? |
+            Since my dear soul was Mistress of her choice, |
+            And could of men distinguish, her election, |
+            Hath seal'd thee for her self: for thou hast been |
+            As one, in suffering all, that suffers nothing:
+            "/>
+            
         
         <!-- Symbols and marks -->    <!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 

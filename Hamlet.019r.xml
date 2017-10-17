@@ -18,7 +18,7 @@
                             Ophelia
                             Rosencraus
                             Guildenstern
-                           Attendants
+                            Attendants
                         </marginalia_text>
                     <person name="King"/>
                     <person name="Queen"/>
@@ -43,12 +43,24 @@
             </language>            
         </marginalia>
         
-        <substitution method="pen" type="insertion" copyText="Get from him why he puts on this confusion " amendedText=" Get from him why he puts on this confusion ?"/>
-        <substitution method="pen" type="deletion" copyText="'' Grating so harshly all his days of quiet" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="With turbulent and dangerous lunacy?" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText=" Nor do we find him forward to be founded; | But with a crafty madness keeps aloof. | '' When we would bring  him to some confession | '' Of his true estate " amendedText=""/>
-        <substitution method="pen" type="deletion" copyText=" To hear and see the matter" amendedText=" To hear the matter "/>
-        <substitution method="pen" type="deletion" copyText="Sweet Gertrard leave us two" amendedText=" Sweet Gertrard leave us"/>
+        <substitution method="pen" type="insertion" copyText="Get from him why he puts on this confusion," amendedText="Get from him why he puts on this confusion?"/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Grating so harshly all his days of quiet
+            &quot; With turbulent and dangerous lunacy?"
+            
+            amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            Guil. Nor do we find him forward to be founded; | 
+            But with a crafty madness keeps aloof. | 
+            &quot; When we would bring him to some confession | 
+            &quot; Of his true estate." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Ros. Unapt to question; but of our demands |
+            Most free in his reply." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="To hear and see the matter" amendedText="To hear the matter "/>
+        <substitution method="pen" type="deletion" copyText="King. Sweet Gertrard leave us two," amendedText="King. Sweet Gertrard leave us,"/>
     
     </annotation>
 </transcription>

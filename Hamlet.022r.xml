@@ -8,16 +8,13 @@
     <page filename="Hamlet.022r.tif" pagination="43" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene --> 
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <marginalia>
+        
+        <marginalia anchor_text="Enter Trumpets and Kettle Drums, King, Queen, Polonius, Ophelia">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        (8)
-                        player King 
-                        and Queen 
+                        Discover'd
                     </marginalia_text>
-                    <person name="Player King"/>
-                    <person name="Player Queen"/>
                 </position>
             </language>
         </marginalia>
@@ -37,11 +34,16 @@
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                     Discover'd
+                        (8)
+                        Player King 
+                        and Queen 
                     </marginalia_text>
+                    <person name="Player King"/>
+                    <person name="Player Queen"/>
                 </position>
-              </language>
+            </language>
         </marginalia>
+        
         
         <!-- Substitutions -->
         <substitution method="pen" type="insertion" copyText="give me that man" amendedText="give me that man,"/>
