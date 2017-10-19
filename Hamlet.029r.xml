@@ -5,9 +5,12 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
      
-    <page filename="Hamlet.029r.tif" pagination="57" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.029r.tif" pagination="57" signature="III.4-IV.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <!-- Act and scene change: III.4-IV.1 -->
+        
         <marginalia>
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
@@ -16,12 +19,12 @@
                         King
                         Queen
                         Rosencraus
-                        Guildernstern          
+                        Guildenstern          
                     </marginalia_text>
                     <person name="King"/>
                     <person name="Queen"/>
                     <person name="Rosencraus"/>
-                    <person name="Guildernstern"/>
+                    <person name="Guildenstern"/>
                 </position>
             </language>
         </marginalia>
@@ -31,27 +34,73 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         (2)
-                        Guildernstern
+                        Guildenstern
                     </marginalia_text>
+                    <person name="Guildenstern"/>
                 </position>
             </language>
         </marginalia>
        
-       
-        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText=" these profound heaves:
-            " amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            But mad in craft; &quot; 'twere good you let him know |
+            &quot; For who that's but Queen, fair, sober, wise, |
+            &quot; Would from a paddock, from a Bat, a Gib, |
+            &quot; Such dear concernings hide? who would do so? |
+            &quot; No, in despight of sense and secresie |
+            &quot; Unpeg the basket on the houses top, |
+            &quot; Let the birds flie, and like the famous Ape, |
+            &quot; To try conclusions, in the basket creep, |
+            &quot; And break your own neck down." 
+            
+            amendedText="But mad in craft."/>
         
+        <substitution method="pen" type="replacement" copyText="
+            &quot; Ham. There's letters seal'd, and my two School-fellows, |
+            &quot; Whom I will trust as I will Adders fang'd, |
+            &quot; They bear the mandate; they must sweep my way, |
+            &quot; And marshal me to knavery; let it work, |
+            &quot; For 'tis the sport to have the Engineer |
+            &quot; Hoist with his own petar, and 't shall go hard |
+            &quot; But I will delve one yard below their Mines, |
+            &quot; And blow them at the Moon: O 'tis most sweet |
+            &quot; When in one line two crafts directly meet. |
+            This man shall set me packing, |
+            I’ll lug the guts into the neighbor room, |
+            Mother good night indeed, this Counseller |
+            Is now most still, most secret, and most grave, |
+            Who was in's life a most foolish prating knave. |
+            Come Sir, to draw toward an end with you. |
+            Good night mother."
+            
+            amendedText="
+            Ham. This man shall set me packing,-- |
+            I’ll lug the guts into the neighbor room; |
+            Mother good night-indeed. this Counseller |
+            Is now most still, most secret, and most grave, |
+            Who was in life a foolish prating knave. |
+            Come, Sir, to draw toward an end with you. |
+            Good night mother."/>
         
-        <substitution method="pen" type="deletion" copyText="You must translate: 'tis fit we understand them.
-            " amendedText=""/>
+        <substitution method="pen" type="insertion" copyText="
+            King. There's matter in these sighs, these profound heaves, |
+            You must translate, 'tis fit we understand them: |
+            Where is your son?" 
+            
+            amendedText="
+            King. There's matter in these sighs,these profound heaves, |
+            You must translate, 'tis fit we understand them [expound'd on; deleted] |
+            Where is your son?"/>
         
-        <substitution method="pen" type="deletion" copyText="Where is your son?
-            " amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            King. There's matter in these sighs, these profound heaves, |
+            You must translate, 'tis fit we understand them: |
+            Where is your son?" 
+            
+            amendedText="King. There's matter in these sighs, |
+            Where is your son?"/>
         
-        
-
+        <substitution method="pen" type="replacement" copyText="King. What Gertrard, how does Hamlet?" amendedText="King. What Gertrud? how does Hamlet?"/>
         
     </annotation>
 </transcription>

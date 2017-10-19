@@ -14,12 +14,11 @@
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        dies
+                        Dies
                     </marginalia_text>
                 </position>
             </language>
         </marginalia>
-        
         
         <marginalia>
             <language ident="EN">
@@ -28,7 +27,7 @@
                         (20)
                         Ghost
                         Ready at 
-                        Long trap
+                        long trap
                     </marginalia_text>
                     <person name="Ghost"/>
                 </position>
@@ -37,30 +36,83 @@
 
   
         <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="How, now, a Rat? dead for a ducket, dead." amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="Ham. How now, a Rat dead for a Ducket, dead." amendedText="Ham. How, how, a Rat? dead for a Ducket, dead."/>
         
-        <substitution method="pen" type="replacement" copyText="I Lady,it was my word." amendedText="I lady, 'twas my word."/>
-        <substitution method="pen" type="replacement" copyText="I took thee for thy better take thy fortune," amendedText="I took thee for thy betters, take thy fortune;"/>
-        <substitution method="pen" type="replacement" copyText="Thou findest to be too busie is some danger" amendedText="Thou find'st, to be too busie, is some danger"/>
+        <substitution method="pen" type="replacement" copyText="Ham. Nay I know not, is it the King?" amendedText="Ham. Nay I know not: is it the King?"/>
         
-        <substitution method="pen" type="insertion" copyText="And let me wring your heart; for so I shall," amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. A bloody deed, almost as bad good mother |
+            As kill a King, and marry with his brother." amendedText="
+            Ham. A bloody deed; almost as bad, good mother, |
+            As kill a King, and marry with his brother."/>
         
-        <substitution method="pen" type="deletion" copyText="'' If damned custom have not braz'd it so,| '' That it be proof and bulwark against sense," amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. I Lady, it was my word. |
+            Thou wretched, rash, intruding fool, farewel, |
+            I took thee for thy better, take thy fortune, |
+            Thou findest to be too busy is some danger. |
+            Leave wringing of your hands, peace, sit you down, |
+            And let me wring your heart, for so I shall |
+            If it be made of penetrable stuff, |
+            &quot; If damned custom have not braz'd it so |
+            &quot; That it be proof and bulwark against sense." 
+            
+            amendedText="
+            Ham. I Lady, it was my word. |
+            Thou wretched, rash, intruding fool, farewel, |
+            I took thee for thy betters, take thy fortune; |
+            Thou find'st to be too busy, is some danger. |
+            Leave wringing of your hands; peace, sit you down, |
+            And let me wring your heart; for so I shall, |
+            If it be made of penetrable stuff."/>
         
-        <substitution method="pen" type="deletion" copyText="''heavens face does glow| 
-            ''Yea this solidity and compound mass|
-            ''With heated visage as against the doom|
-            ''Is thought-sick at the act." amendedText=""/>		
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Such an act |
+            That blurs the grace and blush of modesty, |
+            Calls vertue hypocrite, takes off the Rose |
+            From the fair forehead of an innocent love, |
+            And sets a blister there, makes marriage vows |
+            As false as Dicers oaths: oh such a deed |
+            As from the body of contraction plucks |
+            The very soul, and sweet Religion makes |
+            A rapsody of words, &quot; heavens face does glow |
+            &quot; Yea this solidity and compound mass |
+            &quot; With heated visage as against the doom, |
+            &quot; Is thought-sick at the act. |
+            Ah me that act."
+            
+            amendedText="
+            Ham. Such an act, |
+            That blurs the grace and blush of modesty; |
+            Calls vertue hypocrite; takes off the Rose |
+            From the fair forehead of an innocent love, |
+            And sets a blister there; makes marriage vows |
+            As false as Dicers oaths: oh such a deed |
+            As from the body of contraction plucks |
+            The very soul, and sweet Religion makes |
+            A rapsody of words, |
+            Ah me that act."/>
         
-        <substitution method="pen" type="replacement" copyText="and eye like Mars to threaten and command;" amendedText="an eye, like Mars, to threaten on command;"/>
-        
-        <substitution method="pen" type="deletion" copyText="''A station like the Herald Mercury| ''New lighted on a heaven kissing hill," amendedText=""/>
-        
-        <substitution method="pen" type="insertion" copyText="A combination, and a form indeed,"
-            amendedText=""/>
-        
-       
-        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. That roars so loud, and thunders in the Index: |
+            Look here upon this picture, and on this, |
+            The counterfeit presentment of two brothers: |
+            See what a grace was seated on this brow, |
+            Hiperions curls, the front of Jove himself, |
+            An eye like Mars to threaten and command, |
+            &quot; A station like the Herald Mercury |
+            &quot; New lighted on a heaven-kissing hill, |
+            A combination and form indeed |
+            Where every god did seem to set his seal,"
+            
+            amendedText="
+            Ham. Look here upon this picture, and on this, |
+            The counterfeit presentment of two brothers. |
+            See, what a grace was seated on this brow; |
+            Hiperions curls; the front of Jove himself; |
+            An eye, like Mars to threaten on command; |
+            A combination, and a form indeed, |
+            Where every god did seem to set his seal,"/>
         
     </annotation>
 </transcription>

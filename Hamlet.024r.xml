@@ -8,12 +8,13 @@
     <page filename="Hamlet.024r.tif" pagination="47" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation> 
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <marginalia>
+        <marginalia anchor_text="Ham. Ah ha, come some musick, come the Recorders">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         Exit Horatio
                     </marginalia_text>
+                    <person name="Horatio"/>
                 </position>
             </language>
         </marginalia>
@@ -23,43 +24,81 @@
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                        11
+                       Horatio
                        w[i]th Flute
                     </marginalia_text>
+                    <person name="Horatio"/>
                 </position>
             </language>
         </marginalia>
         
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="'' Ophel. You are keen, my lord, you are keen.
-            Ham. It would cost you a groaning to take off mine edge.
-            Ophel. Still better and worse.
-            '' Ham. So you must take your husbands.”" amendedText=""/>
+        <substitution method="pen" type="insertion" copyText="If I could see the puppits dallying." amendedText="If I could see the puppits dallying. Come."/>
+        <substitution method="pen" type="replacement" copyText="
+            &quot; Ophel. You are keen, my lord, you are keen. |
+            Ham. It would cost you a groaning to take off mine edge. |
+            Ophel. Still worse and worse. |
+            &quot; Ham. So you mistake your husbands. &quot; Begin murtherer,
+            &quot; leave thy damnable faces and begin. come, the croaking Raven
+            &quot; doth bellow for revenge." amendedText="Begin murtherer,
+            &quot; leave thy damnable faces, and begin, come, the croaking Raven
+            &quot; doth bellow for revenge."/>
         
-        <substitution method="pen" type="deletion" copyText="'' Would not this sir, and a forest of |
-            '' feathers, if the rest of my fortunes turn Turk with me, with two pro- |
-            '' vincial Roses on my raz’d shooes, get me a fellowship in a City of |
-            '' Players? 
-            '' Hora. Half a share.
-            '' Ham. A whole one, I. |
-            '' For thou dost know O Damon dear |
-            '' This Realm dismantled was |
-            '' Of Jove himself. And now reigns here |
-            '' A very, very—pajock. |
+        <substitution method="pen" type="replacement" copyText="
+            Ham. He poisons him i'th Garden for his estate, his name's
+            Gonzago, the story is extant, and written in very choice Italian: you
+            shall see anon how the murtherer gets the love of Gonzago's Wife." 
+            
+            amendedText="
+            Ham. He poisons him i'th'Garden for his estate, his name's
+            Gonzago; the story is extant, and writ in choice Italian: you
+            shall see anon how the murtherer gets the love of Gonzago's Wife."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Queen. How fares my Lord?" amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. Give my some light, away." amendedText="King. Give me some lights, away."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            The Hart ungalled go play, |
+            For some must watch whilst some must sleep, |
+            Thus runs the world away." 
+            
+            amendedText="
+            The Hart ungalled play: |
+            For some must watch, whilst some must sleep: |
+            So runs the world away."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Would not this fir, and a forest of
+            &quot; feathers, if the rest of my fortunes turn Turk with me, with
+            &quot; provincial Roses on my raz’d shooes, get me a fellowship in a City of |
+            &quot; Players? |
+            &quot; Hora. Half a share.
+            &quot; Ham. A whole one, I |
+            &quot; For thou dost know O Damon dear |
+            &quot; This Realm dismantled was |
+            &quot; Of Jove himself, and now reigns here |
+            &quot; A very very Paicock. |
             Hora. You might have rim’d.
             Ham." amendedText=""/>
-        <substitution method="pen" type="deletion" copyText=" How fares my lord?
-            " amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="and written in very choice Italian: you shall see anon how the murtherer gets the love of Gonzago’s Wife.
-            " amendedText="and writt in choice Italian: you shall see anon how the murtherer gets the love of Gonzago's 
-            Wife."/>
         
-        <substitution method="pen" type="replacement" copyText="Thus runs the world away." amendedText="So runs the world away."/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. O good Horatio, I'll take the Ghosts word for a thousand
+            poundr. Didst perceive?" 
+            
+            amendedText="
+            Ham. O, good Horatio, I'll take the Ghosts word for a thousand
+            pounds. Didst perceive?"/>
         
-        <substitution method="pen" type="deletion" copyText="Ah ha, come, some musick: come the Recorders" amendedText="come, some musick: come the Recorders"/>
-        
-        
-        
+        <substitution method="pen" type="deletion" copyText="
+            Ham. Ah ha, come some musick, come the Recorders,
+            &quot; For if the King likes not the Comedy,
+            &quot; Why then belike he likes it not perdie.
+            &quot; Come, some musick." amendedText="
+            Ham. come, some musick: come the Recorders,"/>
         
     </annotation>
 </transcription>

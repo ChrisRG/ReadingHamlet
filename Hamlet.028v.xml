@@ -10,81 +10,89 @@
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>   
-                        King
+                        Ring
                     </marginalia_text>
-                    <person name="King"/>
                 </position>
             </language>
         </marginalia>      
-        <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="That not your trespass but my madness speaks |
-            It will but skin and film the ulcerous place |
-            While rank corruption mining all within |
-            Infects unseen: confess your self to heaven|
-            Repent what's past, avoid what is to come" amendedText="That not your trespass, but my madness, speaks; |
-            It will but skin and film the ulcerous place; |
-            While rank corruption, mining all within, |
-            Infects unseen: confess your self to heaven; |
-            Repent what's past, avoid what is to come, "/>
         
-        <substitution method="pen" type="insertion" copyText="Then throw away the worser part of it | 
+        <!-- Substitutions -->
+        <substitution method="pen" type="replacement" copyText="
+            Lay not that flattering unction to your soul, |
+            That not your trespass but my madness speaks; |
+            It will but skin and film the ulcerous place, |
+            Whiles rank corruption mining all within |
+            Infects unseen: confess your self to heaven, |
+            Repent what’s past, avoid what is to come, |
+            &quot; And do not spread the compost on the weeds |
+            &quot; To make them ranker: forgive me this my vertue, |
+            &quot; For in the fatness of these pursie times |
+            &quot; Vertue it self of vice must pardon beg, |
+            &quot; Yea curb and wooe for leave to do him good." 
+            
+            amendedText="Lay not that flattering unction to your soul, |
+            That not your trespass, but my madness, speaks: |
+            It will but skin and film the ulcerous place; |
+            Whilst rank corruption, mining all within, |
+            Infects unseen: confess your self to heaven; |
+            Repent what’s past, avoid what is to come."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Then throw away the worser part of it, |
             And leave the purer with the other half. |
-            Goodnight, but go not to my Uncles bed |
-            Assume a vertue if you have it not. Once more goodnight. " amendedText="Then throw away the worser part of it. | 
+            Goodnight, but go not to my Uncles bed, |
+            Assume a vertue if you have it not. Once more goodnight. |
+            &quot; That monster custom, who all sense doth eat, |
+            &quot; of habits devil, is Angel yet in this, |
+            &quot; That to the use of actions fair and good |
+            &quot; He likewise gives a frock or livery |
+            &quot; That aptly is put on: refrain to night, |
+            &quot; And that shall lend a kind of easiness |
+            &quot; To the next abstinence, the next more easy; |
+            &quot; For use almost can change the stamp of nature, |
+            &quot; And master the Devil, or throw him out |
+            &quot; With wondrous potency: Once more, good night, |
+            And when you are desirous to be blest |
+            I’ll blessing beg of you, for this same Lord |
+            I do repent, but heaven hath pleas'd it so, |
+            To punish me with this, and this with me, |
+            That I must be their scourge and minister |
+            I will bestow him and will answer well |
+            The death I gave him; so again good night. |
+            I must be cruel only to be kind, |
+            Thus bad begins and worse remains behind. |
+            One word more good lady" 
+            
+            amendedText="Then throw away the worser part of it. |
             And live the purer with the other half. |
             Goodnight; but go not to my Uncles bed: |
-            Assume a vertue, if you have it not. Once more goodnight!"/>
+            Assume a vertue, if you have it not. Once more goodnight! |
+            And when you are desirous to be blest, |
+            I’ll blessing beg of you;--for this same Lord, |
+            I do repent: but heaven hath pleas'd it so, |
+            To punish me with this, and this with me. |
+            I will bestow him and will answer well |
+            The death I gave him; so again good night! |
+            I must be cruel only to be kind; |
+            Thus bad begins, and worse remains behind.-- |
+            One word more good lady"/>
         
+        <substitution method="pen" type="replacement" copyText="
+            &quot; Ham. Not this by no means that I bid you do, |
+            Let not the King tempt you to bed again, |
+            &quot; Pinch wanton on your cheek, call you his Mouse, |
+            &quot; And let him for a pair of reechy kisses, |
+            &quot;Or padling in your neck with his damn'd fingers, |
+            Make you to ravel all this matter out, |
+            That I essentially am not in madness," 
+            
+            amendedText="
+            Ham. Let not the King tempt you to bed again; |
+            Make you to ravel all this matter out, |
+            That I essentially am not in madness,"/>
 
-
-       
-        <substitution method="pen" type="deletion" copyText="''And do not spread the compost on the weeds|
-            ''To make them ranker: forgive me this my vertue,|
-            ''For in the fatness of these pursie times|
-            ''Vetrue it self of vice must pardon-beg,|
-            ''Yea curb and wooe for leave to do him good." amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="
-            '' And with such daily cost of brasen Cannon, | 
-            '' And foreign Mart for implements of war? |
-            '' Why such impress of ship-wrights, whose sore task |
-            '' Does not divide the Sunday from the week?
-            '' What might be toward, that this sweaty haste" amendedText=""/>
-    
- <substitution method="pen" type="deletion" copyText="
-     '' That monster custom, who all sense doth eat, |
-     '' of habits devil, is Angel yet in this, |
-     '' That to the use of actions fair and good |
-     '' He likewise gives a frock or livery |
-     '' That aptly is put on : refrain to night, |
-     '' And that shall lend a kind of easiness |
-     '' To the next abstinence, the next more easie; |
-     '' For use almost can change the stamp of nature, |
-     '' And master the Devil, or throw him out |
-     '' With wondrous potency : Once more good night," amendedText=""/>
- <substitution method="pen" type="deletion" copyText="That I must be their scourge and minister" amendedText=""/>       
- <substitution method="pen" type="deletion" copyText="Not this by no means that I bid you do," amendedText=""/>
- <substitution method="pen" type="deletion" copyText="
-     '' Pinch wanton on you cheek, call you his Mouse, |
-     '' And let him for a pair of reechy kisses, |
-     '' Or padling in your neck with his damn's fingers, " amendedText="" />
-        
-        
-        
-       
-        
-      		
-      
-        
-       
-        
-     
-        
-        
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
-        
         
     </annotation>
 </transcription>

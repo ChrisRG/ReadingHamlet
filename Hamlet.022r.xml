@@ -46,24 +46,105 @@
         
         
         <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="give me that man" amendedText="give me that man,"/>
-        <substitution method="pen" type="insertion" copyText="In my heart’s core I, in my heart, of heart" amendedText="In my heart’s core; I, in my heart, of heart,
-            "/>
-        <substitution method="pen" type="insertion" copyText="As I do thee. Something too much of this" amendedText="As I do thee.—Something too much of this:—
-            "/>
-        <substitution method="pen" type="insertion" copyText="One scene of it comes near the circumstance
-            " amendedText="One scene of it comes near the circumstance,
-            "/>
-        <substitution method="pen" type="insertion" copyText="give him heedful note" amendedText="give him heedful note;"/>
-        <substitution method="pen" type="deletion" copyText="To sound what stop she please: " amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="'' And my imaginations are as foul" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="'' As Vulcan’s smithy" amendedText=""/>
         
+        <substitution method="pen" type="replacement" copyText="
+            &quot; To sound what stop she please: &quot; give me that man |
+            That is not passions slave, and I will wear him |
+            In my hearts core, I, in my heart of hearts, |
+            As I do thee. Something too much of this: |
+            There is a Play to night before the King, |
+            One Scene of it comes near the circumstance |
+            Which I have told thee of my fathers death, |
+            I prethee when thou seest that Act on foot |
+            Even with the very comment of thy soul |
+            Observe my Uncle: if then his hidden guilt |
+            Do not it self discover in one speech, |
+            It is a damned Ghost that we have seen, |
+            &quot; And my imaginations are as foul |
+            &quot; As Vulcan’s stithy. &quot; give him heedful note, |
+            For I mine eyes will rivet to his face, |
+            And after we will both our judgments joyn |
+            In censure of his seeming."
+            
+            amendedText="
+            give me that man, |
+            That is not passions slave, and I will wear him |
+            In my hearts core: I, in my heart, of hearts, |
+            As I do thee.-Something too much of this:-- |
+            There is a Play to night before the King, |
+            One Scene of it comes near the circumstance, |
+            Which I have told thee, of my fathers death, |
+            I prethee, when thou seest that Act on foot |
+            Even with the very comment of thy soul |
+            Observe my Uncle: if then his hidden guilt |
+            Do not it self discover in one speech, |
+            It is a damned Ghost that we have seen: |
+            give him heedful note; |
+            For I mine eyes will rivet to his face; |
+            And, after, we will both our judgments joyn, |
+            In censure of his seeming."/>
         
-        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Hora. Well my Lord, |
+            If he steal ought the whilst this Play is playing |
+            And scape detection, I will pay the theft." 
+            
+            amendedText="
+            Hora. I will my Lord."/>
         
+        <substitution method="pen" type="deletion" copyText=
+            "Enter Trumpets and Kettle Drums, King, Queen, Polonius, Ophelia." 
+            
+            amendedText="Trumpets and Kettle Drums, King, Queen, Polonius, Ophelia."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. They are coming to the Play, I must be idle." 
+            
+            amendedText="
+            Ham. They are coming to the Play; I must be idle."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. How fares our Cousin Hamlet." 
+            
+            amendedText="
+            King. How fares our Cousin Hamlet?"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Excellent ifaith, |
+            Of the Cameleons dish I eat the air, |
+            Promise-cramd, you cannot feed Capons so."
+            
+            amendedText="
+            Ham. Excellent, ifaith, |
+            Of the Cameleons dish: I eat the air, |
+            Promise-cram'd; you cannot feed Capons so."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. No, nor mine now my Lord, |
+            You play'd once in the University you say."
+            
+            amendedText="
+            Ham. No, nor mine-now, my Lord |
+            You play'd once in the University, you say."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Pol. I did enact Julius Caesar, I was kill'd i'th Capitol, |
+            Brutus kill'd me."
+            
+            amendedText="
+            Pol. I did enact Julius Caesar, I will kill'd i'th Capitol; |
+            Brutus kill'd me."/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. It was a brute part of him to kill so capital a calf."
+            
+            amendedText="Ham. It was a brute part of him, to kill so capital a calf."/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. No good mother, here's metel more attractive."
+            
+            amendedText="No, good mother, here's metel more attractive."/>
 
-        
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 

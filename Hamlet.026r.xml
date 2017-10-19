@@ -18,24 +18,33 @@
                         2 Chairs on
                     </marginalia_text>
                     <person name="Queen"/>
-                    <person name= "Polonius"/>
+                    <person name="Polonius"/>
                 </position>
             </language>
         </marginalia>
-        <substitution method="pen" type="insertion" copyText="Where is this murderer" amendedText="Where is this murderer?"/>
-        <substitution method="pen" type="insertion" copyText="And now I’ll do’t" amendedText="And now I’ll do’t--"/>
-        <substitution method="pen" type="insertion" copyText="And so he goes to heaven," amendedText="And so he goes to heaven,--"/>
-        <substitution method="pen" type="insertion" copyText="That would be scann’d;" amendedText="That would be scann’d;--"/>
-        <substitution method="pen" type="insertion" copyText="I his sole son send him" amendedText="I, his sole son, send him"/>
-        <substitution method="pen" type="insertion" copyText="To heaven" amendedText="To heaven-------"/>
-        <substitution method="pen" type="insertion" copyText="He kill'd my father, and for that" amendedText="He kill'd my father-and fot that,"/>
-        <substitution method="pen" type="insertion" copyText="" amendedText="&amp;"/>
-        <substitution method="pen" type="insertion" copyText="" amendedText="7"/>
-        <substitution method="pen" type="deletion" copyText="why this is a reward" amendedText="why this is reward"/>
+        
+        <substitution method="pen" type="insertion" copyText="&quot; Offences guided hand may shew by justice," amendedText="&quot; Offences guilded hand may shew by justice,"/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Where is this murderer, he kneels and prays, | 
+            And now I'll do't, and so he goes to heaven, |
+            And so am I reveng'd? that would be scann'd; |
+            He kill'd my father; and for that |
+            I his sole son send him |
+            To heaven: |
+            Why this is a reward, -- not revenge:"
+            amendedText="
+            Ham. Where is this murderer? he kneels and prays, | 
+            And now I'll do't - and so he goes to heaven,-- |
+            And so am I reveng'd? that would be scann'd;-- |
+            He kill'd my father;-and for that, |
+            I, his sole son, send him |
+            To heaven-- |
+            Why this is reward, &amp; not revenge:"/>
             
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin" text="[Enter Hamlet."/> 
         
         
     </annotation>

@@ -5,7 +5,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.026v.tif" pagination="52" signature="III.3" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.026v.tif" pagination="52" signature="III.3-III.4" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation> 
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
@@ -33,7 +33,7 @@
             </language>
         </marginalia>
         
-        <marginalia>
+        <marginalia anchor_text="Enter Queen and Polonius.">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
@@ -44,7 +44,7 @@
             </language>
         </marginalia>
       
-        <marginalia>
+        <marginalia anchor_text="Withdraw, I hear him coming.">
             <language ident="EN"> 
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
@@ -67,35 +67,60 @@
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="And how his audit stands who knows save heavens" amendedText="And how his audit stands, who knows, save heavens"/>
-        <substitution method="pen" type="deletion" copyText="save heavens" amendedText="save heaven"/>
+        <substitution method="pen" type="replacement" copyText="
+            He took my father grossly, full of bread, |
+            With all his crimes broad blown as flush as May, |
+            And how his audit stands who knows save heaven? |
+            But in our circumstance and course of thought, |
+            'Tis heavy with him: and am I then reveng'd |
+            To take him in the purging of his soul"
+            
+            amendedText="
+            He took my father grossly, full of bread, |
+            With all his crimes broad blown, as flush as May, |
+            And how his audit stands, who knows save heaven! |
+            But in our circumstance and course of thought, |
+            'Tis heavy with him; and am I then reveng'd, |
+            To take him in the purging of his soul"/>
+        
+       <substitution method="pen" type="deletion" copyText="
+           Or in th'incestuous pleasures of his bed, |
+           At game, a swearing, or about some act |
+           That hath no rellish of salvation in't, |
+           &quot; Then trip him that his heels may kick at heaven, |
+           &quot; And that his soul may be as damn'd and black |
+           &quot; As hell whereto it goes: &quot; my mother stays, |
+           This Physick but prolongs thy sickly days." 
+           
+           amendedText="
+           Or in th'incestuous pleasures of his bed, |
+           or about some act |
+           That hath no rellish of salvation in't, |
+           my mother stays, |
+           This Physick but prolongs thy sickly days."/>
        
-        <substitution method="pen" type="insertion" copyText="With all his crimes broad blown as flush as May, |
-            And how his audit stands who knows save heaven |
-            But in our circumstance and course of thoughts, |
-            'Tis heavy with him and am I then reveng'd |
-            " amendedText="With all his crimes broad blown as flush as May, |
-            And how his audit stands, who knows, save heaven! |
-            But in our circumstance and course of thoughts, |
-            'Tis heavy with him and am I then reveng'd, |"/> 
-        <substitution method="pen" type="deletion" copyText="At game, a swearing" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="'Then trip him that his heels may kick at heaven |
-            ' And that his soul may be as damn'd and black |
-            ' As hell whereto it goes" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="you shall not budge" amendedText=""/>
+       <substitution method="pen" type="insertion" copyText="
+           Ham. Now mother, what's the matter?" amendedText="Ham. Now, mother, what's the matter?"/>
         
-        <substitution method="pen" type="insertion" copyText="And would were not so, you are my mother." amendedText="And would you were not so - you are my mother"/>
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Mother you have my father much offended." amendedText="Ham. Mother, you have my father much offended."/>
         
+        <substitution method="pen" type="replacement" copyText="
+            And would it were not so, you are my mother." amendedText="And would you were not so-you are my mother."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Come, come, and sit down, you shall not budge, |
+            You go not till I set you up a glass |
+            Where you may see the utmost part of you." amendedText="
+            Ham. Come, come, and sit you down, |
+            You go not, till I set you up a glass |
+            Where you may see the inmost part of you."/>
        
-       <substitution method="pen" type="insertion" copyText="Come, come, and sit down" amendedText="Come, come, and sit you down"/>
-        
-        <substitution method="pen" type="insertion" copyText="You go not till I set you a glass |
-            Where you may see the most part of you" amendedText="You go not, till I set you up a glass |
-            Where you may see the inmost part of you"/>
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/> 
-        <symbol name="Hatching" place= "tail"/>
-        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="left_margin" text="Enter Queen and Polonius."/>
+        <symbol name="Hatching" place="right_margin" text="[Enter Hamlet."/>
+        <symbol name="Hatching" place= "tail" text="Enter Polonius"/>
+        
         
         
     </annotation>

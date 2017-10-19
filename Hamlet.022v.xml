@@ -8,36 +8,77 @@
     <page filename="Hamlet.022v.tif" pagination="44" signature="III.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
          
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Ophel. I think nothing my Lord. |
+            &quot; Ham. That's a fair thought to lie between maids legs. |
+            &quot; Ophel. What is my Lord? |
+            &quot; Ham. Nothing." amendedText=""/>
         
-        <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="I could not believe this," amendedText="I could not this believe,"/>
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Who I?"
+            
+            amendedText="Ham. Who, I?"/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Your only Jig-maker, what should a man do but be merry: 
+            for look you how chearfully my mother looks, and my father 
+            died within's two hours."
         
-        <substitution method="pen" type="deletion" copyText="'' So frown'd he once, when in angry Parle | '' He smote the sleaded Pollax on the ice | 'Tis strange." amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="Mar. Pray sit down and tell me he that knows," amendedText="Mar. Pray tell me he that knows,"/>
-       
+            amendedText="
+            Ham. Your only Jig-maker; what should a man do, but be merry? 
+            for look you how chearfully my mother looks, and my father 
+            died within these two hours."/>
         
-        <substitution method="pen" type="replacement" copyText="Makes the night joynt labour with the day?" amendedText="Making the night joynt labourer with the day?"/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. So long! Nay then let the Devil wear black, for I’le have 
+            a sute of sables: O heavens! die two months ago, and not forgotten 
+            yet! then there’s hope a great mans memory may out-live his 
+            life half a year, but he must build Churches then, &quot; or else shall he 
+            suffer not thinking on, with the hobby-horse, whose Epitaph is 
+            for O, for O, the Hobby-horse is forgot."
         
-        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
-        
-        <substitution method="pen" type="insertion" copyText="King" amendedText="-- Mock King,"/>		
-        
-        <substitution method="pen" type="deletion" copyText="'' Thereto prickt on by a most emulate pride" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="'' For (so this side of our known world esteem'd him)" amendedText=""/>
+            amendedText="
+            Ham. So long? Nay then let the Devil wear black, for I’le have 
+            a sute of sables: O heavens! die two months ago, and not forgotten 
+            yet! then there’s hope, a great mans memory may out-live his 
+            life half a year: but byr lady he must build Churches then."/>
         
         <substitution method="pen" type="deletion" copyText="
-            '' Against the which a moity competent |
-            '' Was gaged by our King, which had returned |
-            '' To the inheritance of Fortinbas, |
-            '' Had he been vanquisher: as by the same compact, |
-            '' And carriage of the Articles design, |
-            '' His fell to Hamlet:" amendedText=""/>
+            The trumpets sounds. Dumb show follows.
+            
+            Enter a King and a Queen, the Queen embracing him, and he her, he
+            takes her up, and declines his head upon her neck, he lies him down 
+            upon a bank of flowers, she seeing him asleep, leaves him: anon comes
+            in another man, takes off his Crown, kisses it, pours poison in the 
+            sleepers ears, and leaves him; the Queen returns, finds the King dead, 
+            makes passionate action; the poisoner with some three or four comes in 
+            again, seem to condole with her, the dead body is carried away, the
+            poisoner woos the Queen with gifts, she seems harsh a while, but in 
+            the end accepts love."
+            amendedText="Enter a King and a Queen"/>
         
-        <substitution method="pen" type="deletion" copyText="'' Of unimproved metal, hot, and full," amendedText=""/>
-        
+        <substitution method="pen" type="replacement" copyText="
+            Ophel. What means this, my Lord?
+            Ham. It is munching Mallico, it means mischief.
+            Ophel. Be like this shew imports the argument of the Play.
+            Ham. &quot; We shall know by this fellow.  [Enter Prologue.
+            The Players cannot keep, they’l shew all straight.
+            Ophel. Will he shew us what this show meant?
+            Ham. I, or any show that you will shew him, be not you asham'd
+            to show, he’l not shame to tell you what it means."
+            
+            amendedText="
+            Ophel. What means the play, my Lord?
+            Ham. It is munching Mallico; it means mischief.
+            Ophel. But what imports the argument of the Play?
+            Ham. &quot; We shall know by this fellow.  [Enter Prologue.
+            The Players cannot keep counsel, they’l tell all.
+            Ophel. Are they so good at shew?
+            Ham. I, at any shew that you will shew them, be not you asham'd
+            to show, they’l not blush to tell you what it means."/> <!-- Possible different hand with 'counsel' and 'tell'-->
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        <symbol name="Hatching" place="left_margin"/>
+        <symbol name="Hatching" place="left_margin"/>
         <symbol name="Hatching" place="right_margin"/> 
         
         
