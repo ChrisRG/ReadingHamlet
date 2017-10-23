@@ -5,16 +5,56 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
      
-    <page filename="Hamlet.029v.tif" pagination="58" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.029v.tif" pagination="58" signature="IV.1-IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-     
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>
-                        Enter Rosencraus Guildenstern 2 attendants
-                      
+                        (3)
+                        Hamlet
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (4)
+                        Guildenstern
+                        Rosencraus
+                        2 Attendants                      
+                    </marginalia_text>
+                    <person name="Rosencraus "/>
+                    <person name="Guildenstern"/>
+                    <person name="Attendants"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="left_margin" book_orientation="0">
+                    <marginalia_text>
+                        (5)
+                        King
+                        Attended
+                    </marginalia_text>
+                    <person name="King"/>
+                </position>
+            </language>
+        </marginalia>
+        
+        <!-- Scene change: IV.1 -> IV.2 -->
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="tail" book_orientation="0">
+                    <marginalia_text>
+                        Enter Rosencraus, Guildenstern, &amp; 2 Attendants                      
                     </marginalia_text>
                     <person name="Rosencraus "/>
                     <person name="Guildenstern"/>
@@ -25,13 +65,62 @@
         
         
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Enter Hamlet, Rosencraus and others" amendedText="Ros: w[i]thout: Hamlet! Lord Hamlet"/>
+        <substitution method="pen" type="deletion" copyText="
+            His liberty is full of threats to all, |
+            To you your self, to us, to everyone. |
+            Alas, how shall this bloody deed be answered? |
+            It will be laid to us, whose providence |
+            Should have restrain'd |
+            This mad young man: but so much was our love |
+            We would not understand what was most fit, |
+            But like the owner of a foul disease, |
+            To keep it from divulging, let it feed |
+            Even on the pith of life: where is he gone?" amendedText="where is he gone?"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Qu. To draw apart the body he hath kill'd, |
+            O're whome his very madness, like some Ore |
+            Among a mineral of metal base, |
+            Shews it self pure, he weeps for what is done." amendedText="
+            Qu. To draw apart the body he hath kill'd. |
+            he weeps for what is done."/>
+        
+        <substitution method="pen" type="errata" copyText="Gertrard" amendedText="Gertrud"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            But we will ship him hence, and this vile deed |
+            We must with all our Majesty and skill |
+            Both countenance and excuse. Ho Guydelstern," amendedText="
+            But we will ship him hence, |
+            Ho Guydelstern, and Rosencraus,"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Into the Chappel; I pray you haste in this: |
+            Come Gertrard we'll call up our wisest friends," amendedText="
+            Into the Chappel; |
+            Come madam [deleted] we'll call up our wisest friends,"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Whose whisper o're the worlds Diameter, |
+            As level as the Cannons to his blank |
+            &quot; Transports his poisoned shot, may miss our name, |
+            &quot; And hit the woundless air: O come away, |
+            &quot; My soul is full of discord and dismay." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Enter Hamlet, Rosencraus, and others" amendedText="Enter Hamlet"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Safely stow'd. what noise? who calls Hamlet? |
+            O here they come," amendedText="
+            Ham. Safely stow'd - |
+            Ros: w[i]thout: Hamlet! Lord Hamlet
+            what noise? who calls Hamlet?"/>
         
        
-        <substitution method="pen" type="deletion" copyText="'' O here they come," amendedText=""/>
-        
-     
-        <!-- I think there are a couple Hatchings here. -->
+        <!-- Symbols -->
+        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="left_margin"/>
+        <symbol name="Hatching" place="tail"/>
       
     </annotation>
 </transcription>

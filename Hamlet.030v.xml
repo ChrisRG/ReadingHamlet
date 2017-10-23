@@ -14,7 +14,6 @@
                     <marginalia_text>
                         (9)
                         Ophelia
-                      
                     </marginalia_text>
                     <person name="Ophelia"/>
                 </position>
@@ -26,25 +25,83 @@
                 <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                         (10)
-                        King
+                        [K]ing
                     </marginalia_text>
                     <person name="King"/>
                 </position>
             </language>
         </marginalia>
         
-       <!--There are some deletions and one insertion on this page that need to be represented-->
         <!-- Substitutions --> 
-        <substitution method="pen" type="replacement" copyText="At supper, where? " amendedText="At supper? where? "/>
-        <substitution method="pen" type="replacement" copyText="I fee a Cherub that sees them: but come, for England. Farewel dear mother. " amendedText="I fee a Cherub, that sees them; but come, for England! Farewel,dear mother. "/>
-        <substitution method="pen" type="replacement" copyText="My mother, father and mother is man and wife; Man and wife is one flesh, and for so my mother. Come, for England." amendedText="My mother: father and mother is a man and wife; Man and wife is one flesh, and, so, my mother. Come, for England "/>
-        <substitution method="pen" type="replacement" copyText="Where is Polonius?" amendedText="But where is Polonius? " />
-        <substitution method="pen" type="replacement" copyText="thine" amendedText="thye" />
-        <substitution method="pen" type="replacement" copyText="thyself" amendedText="yourself" />
+        <substitution method="pen" type="replacement" copyText="
+            King. At supper, where? " amendedText="At supper? where?"/>
+    
+        <substitution method="pen" type="deletion" copyText="
+            Ham. Not where he eats, but where he is eaten, a certain 
+            convocation of politick worms are e’en at him: &quot; your worm is your only 
+            &quot; Emperour for diet. We fat all creatures else to fat us, and we fat our
+            &quot; selves for maggots; your fat King and your lean beggar is but 
+            variable service, two dishes but to one table, that’s the end.
+            King. Alas alas!
+            Ham. A man may fish with the worm that hath eat of a King,
+            &quot; and eat of the fish that hath fed of that worm.
+            &quot; King. What dost thou mean by this?
+            &quot; Ham. Nothing but to shew you how a King may go a progress 
+            &quot; through the guts of a beggar.
+            " amendedText="
+            Ham. Not where he eats, but where he is eaten, a certain 
+            convocation of politick worms are at him"/>
         
+        <substitution method="pen" type="insertion" copyText="
+            King. Where is Polonius?" amendedText="King. But where is Polonius?"/>
         
-
+        <substitution method="pen" type="deletion" copyText="
+            but indeed if you 
+            find him not within this month" amendedText="
+            but, if you
+            find him not within this month"/>
         
+        <substitution method="pen" type="replacement" copyText="
+            King. Hamlet this deed, for thine especial safety, |
+            Which we do tender, as we dearly grieve |
+            For that which thou hast done, must send thee hence: |
+            Therefore prepare thy self, |
+            The Bark is ready, and the wind sits fair, |
+            &quot; Th’ associates tend, and everything is bent |
+            For England." amendedText="
+            King. Hamlet this deed, for thy especial safety, |
+            must send thee hence: |
+            Therefore prepare yourself, |
+            The Bark is ready, and the wind sits fair, |
+            For England."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. So is it, if thou knew’st our purposes. |
+            Ham. I see a Cherub that sees them: but come, for England.
+            Farewel dear mother. |
+            King. Thy loving father Hamlet. |
+            Ham. My mother, father and mother is man and wife, |
+            Man and wife is one flesh, and so my mother. |
+            Come, for England." amendedText="
+            King. So it is, if thou knew’st our purposes. |
+            Ham. I see a Cherub, that sees them; but come, for England!
+            Farewel, dear mother. |
+            King. Thy loving father Hamlet. |
+            Ham. My mother: father and mother is man and wife; |
+            Man and wife is one flesh, and, so, my mother. |
+            Come, for England."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Delay it not, I’ll have him hence to night: |
+            Away, for every thing is seal'd and done |
+            That else leans on the affair; &quot; pray you, make haste. |
+            &quot; And England, if my present love thou holdst at aught |
+            &quot; As my great power thereof may give thee sense,
+            " amendedText="
+            I’ll have him hence to night: |
+            Away, for every thing is seal'd and done |
+            &quot; And England, if my present love thou holdst at aught |
+            Let it be testified in Hamlet's death."/>
         
     </annotation>
 </transcription>

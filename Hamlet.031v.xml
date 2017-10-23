@@ -9,48 +9,56 @@
     <annotation>
           
         <substitution method="pen" type="deletion" copyText="
-            '' How all occasions do inform against me,
-            '' And spur my dull revenge? what is a man,
-            '' If his chief good and market of his time
-            '' Be but to sleep and seed? a beast, no more.
-            '' Surche that made us with such large discourse,
-            '' Looking before and after, gave us not
-            '' That capability and God-like reason | 
-            '' To fust in us unus’d: now whether it be | 
-            '' Bestial oblivion, or some craven scruple |
-            '' Of thinking too precisely on th’ event, | 
-            '' A thought which quarter’d hath but one part wisdom, | 
-            '' And ever three parts coward: I do not know | 
-            '' Why yet I live to say this thing’s to do, | 
-            '' Sith I have cause, and will, and strength, and means | 
-            '' To do’t: examples gross as earth exhort me, |
-            '' Witness this army of such mass and charge, | 
-            '' Led by delicate and tender Prince, | 
-            '' Whose spirit with divine ambition pust | 
-            '' Make mouths at the invisible event, | 
-            '' Exposing what is mortal and unfure | 
-            '' To all that fortune, death and danger dare,| 
-            '' Even for an egg-shell. Rightly to be great | 
-            '' Is not to stir without great argument, | 
-            '' But greatly to find quarrel in a straw, | 
-            '' When honour’s at the stake. | 
-            '' How stand I then, that have a father kill’d, a mother stain’d, | 
-            '' Excitements of my reason and my blood, | 
-            '' And let all sleep, while to my shame I see |
-            '' The imminent death of twenty thousand men, | 
-            '' That for a fantsie and trick of fame Go to their graves likebeds, fight for a plot |
-            '' Whereon the numbers cannot try to cause, | 
-            '' Which is not tomb enough and continent | 
-            '' To hide the slain? O from this forth, |
-            '' My thoughts be bloody, or be nothing worth."
+            &quot; How all occasions do inform against me, |
+            &quot; And spur my dull revenge? what is a man, |
+            &quot; If his chief good and market of his time |
+            &quot; Be but to sleep and feed? a beast, no more. |
+            &quot; Sure he that made us with such large discourse, |
+            &quot; Looking before and after, gave us not |
+            &quot; That capability and God-like reason | 
+            &quot; To fust in us unus'd: now whether it be | 
+            &quot; Bestial oblivion, or some craven scruple |
+            &quot; Of thinking too precisely on th' event, | 
+            &quot; A thought which quarter'd hath but one part wisdom, | 
+            &quot; And ever three parts coward: I do not know | 
+            &quot; Why yet I live to say this thing’s to do, | 
+            &quot; Sith I have cause, and will, and strength, and means | 
+            &quot; To do't: examples gross as earth exhort me, |
+            &quot; Witness this army of such mass and charge, | 
+            &quot; Led by a delicate and tender Prince, | 
+            &quot; Whose spirit with divine ambition puft | 
+            &quot; Makes mouths at the invisible event, | 
+            &quot; Exposing what is mortal and unfure | 
+            &quot; To all that fortune, death, and danger dare,| 
+            &quot; Even for an egg-shell. Rightly to be great | 
+            &quot; Is not to stir without great argument, | 
+            &quot; But greatly to find quarrel in a straw, | 
+            &quot; When honour's at the stake. How stand I then, | 
+            &quot; That have a father kill’d, a mother stain’d, | 
+            &quot; Excitements of my reason and my blood, | 
+            &quot; And let all sleep, while to my shame I see |
+            &quot; The imminent death of twenty thousand men, | 
+            &quot; That for a fantsie and trick of fame | 
+            &quot; Go to their graves like beds, fight for a plot |
+            &quot; Whereon the numbers cannot try to cause, | 
+            &quot; Which is not tomb enough and continent | 
+            &quot; To hide the slain? O from this forth, |
+            &quot; My thoughts be bloody, or be nothing worth.  [Exit."
              amendedText=""/>
        
        
        <!-- Scene division -->
+        <substitution method="pen" type="replacement" copyText="
+            Enter Horatio, Gertrad, and a Gentleman." amendedText="
+            Enter Horatio, Gertrude, and"/>
         
-        <substitution method="pen" type="deletion" copyText="She speaks much of her father, says she hears There’s tricks i’th’ world, and hems, and beats her heart Spurns enviously at straws, speaks things in doubt That carry but half sense, her speech is nothing," amendedText="" />
+        <substitution method="pen" type="deletion" copyText="
+            Gent. She speaks much of her father, says she hears 
+            There’s tricks i'th' world, and hems, and beats her heart,
+            Spurns enviously at straws, speaks things in doubt 
+            That carry but half sense, her speech is nothing," amendedText="" />
             
-            
+        <symbol name="Hatching" place="left_margin"/>
             
     </annotation>
 </transcription>

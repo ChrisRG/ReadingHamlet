@@ -5,16 +5,103 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
      
-    <page filename="Hamlet.030r.tif" pagination="59" signature="IV.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.030r.tif" pagination="59" signature="IV.2-IV.3" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
+        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (6)
+                        Rosencra[us]
+                        Attendan[t]
+                    </marginalia_text>
+                    <person name="Rosencraus"/>
+                    <person name="Attendant"/>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (7)
+                        Hamlet
+                        Guildens[tern]
+                        Attendan[t]
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                    <person name="Guildenstern"/>
+                    <person name="Attendant"/>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (8)
+                        Horat[io]
+                        Queen
+                        Gentle[man]
+                    </marginalia_text>
+                    <person name="Horato"/>
+                    <person name="Queen"/>
+                    <person name="Gentleman "/>
+                </position>
+            </language>
+        </marginalia>
        
         <!-- Substitutions -->
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ros. What have you done my Lord with the dead body?"
+            amendedText="Ros. What have you done, my Lord, with the dead body?"/>
+        
+        <substitution method="pen" type="insertion" copyText="Ham. That I can keep your counsel and not mine own"
+            amendedText="Ham. That I can keep your counsel, and not mine own"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. I Sir, that sokes up the Kings countenance, his rewards, his 
+            authorities: but such Officers do the King best service in the end,
+            he keeps them like an apple in the corner of his jaw, first mouth'd
+            to be last swallowed; when he needs what you have gleaned, it is 
+            but squeesing you, and sponge you shall be dry again."
+            
+            amendedText="
+            Ham. I, Sir, that sokes up the Kings countenance, his rewards, his 
+            authorities; but such Officers do the King best service in the end;
+            he keeps them like an apple, in the corner of his jaw; first mouth'd
+            to be last swallowed: when he needs what you have glean'd, it is 
+            but squeesing you, and, sponge, you shall be dry again."/>
        
-        <substitution method="pen" type="insertion" copyText="That I can keep your counsel and not mine own, besides, to be demanded of a spunge, what replication should be made by the son of a King? " amendedText="That I can keep your counsel, and not mine own; besides, to be demanded of a spunge, what replication should be made by the son of a King?"/>		
-        <substitution method="pen" type="insertion" copyText="I Sir, that sokes up the Kings countenance, his rewards, his authorities: but such Officers do the King best service in the end; he keeps them like an apple in the corner of his jaw first mouth’d to be last swallowed. when he needs what you have gleaned, it is but squeesing you, and spunge you shall be dry again" amendedText="--I, Sir, that sokes up the Kings countenance, his rewards, his authorities; but such Officers do the King best service in the end; he keeps them like an apple, in the corner of his jaw; first mouth’d to be last swallowed: when he needs what you have glean'd, it is but squeesing you, and,spunge, you shall be dry again. "/>		
-        <substitution method="pen" type="insertion" copyText="I am glad of it: a knavish speech sleeps in a foolish ear." amendedText="--I am glad of it; a knavish speech sleeps in a foolish ear."/>		
-        <substitution method="pen" type="deletion" copyText="'' The body is with the King, but the King is not with the body: the King is a thing" amendedText=""/> 
-        <substitution method="pen" type="deletion" copyText="''A thing my Lord?" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="'' Of nothing, " amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            &quot; Ham. The body is with the King, but the King is not with the
+            &quot; body: the King is a thing.
+            &quot; Guil. A thing my Lord?
+            &quot; Ham. Of nothing, &quot; bring me to him." amendedText="Ham. bring me to him."/>
+        
+        <!-- Scene change: IV.2-IV.3 -->
+        
+        <substitution method="pen" type="replacement" copyText="By desperate appliance are reliev'd" amendedText="By desparate remedies are reliev'd"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+        Yet must not we put the strong law on him, |
+        He’s lov'd of the distracted multitude, |
+        Who like not in their judgment, but their eyes, |
+        And where 'tis so, th' offenders scourge is weigh'd, |
+        But never the offense: to bear all smooth and even, |
+        This sudden sending him away must seem |
+        Deliberate pause; diseases desperate grown |
+        By desperate remedies are relieved |
+        Or not at all." amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Enter Rosencraus, and all the rest" amendedText="Enter Rosencraus, and attendant"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            &quot; King. How now? what hath befallen" amendedText="How now?"/>
+        
+        <symbol name="Hatching" place="right_margin"/> 
     </annotation>
 </transcription>

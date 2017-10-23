@@ -8,55 +8,58 @@
     <page filename="Hamlet.031r.tif" pagination="61" signature="IV.3-IV.4" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
       
+        <!-- Scene change: IV.3 - IV.4 -->
         
         <substitution method="pen" type="deletion" copyText="
-            '' Since yet thy cicatrice looks raw and red | 
-            '' After the Danish Sword, and thy free awe | 
-            '' Pays homage to us, thou maist not coldly set |
-            '' Our Sovereign process, which imports at full |
-            '' By Letters congruing to that effect | 
-            '' The present death of Hamlet, do it England, |
-            '' For like the hectick in my blood he rages, |
-            '' And thou must cure me: till I know ‘tis done, | 
-            '' How e’re my haps, my joys will ne’er begin " amendedText=""/>
-        
-        
-        <!-- Scene division -->
-        
-        
-        <substitution method="pen" type="deletion" copyText="Enter Fortinbrass with his Army over the Stage.|
-            '' Fort: ‘Go Captain, from me greet Danish King, |
-            '' Tell him that by his license Fortinbrass Craves the conveyance of a promis’d march |
-            '' Over his Kingdom; you know the rendezvous If that his Majesty would ought with us |
-            '' We shall express our duty in his eye | 
-            '' And let him know so. |
-            '' Capt: I will do’t my Lord |
-            '' Fort: Go softly on |
-            Enter Hamlet, Rosencraus, etc. |
-            '' Ham: Good Sir whose powers are these? |
-            '' Capt: They are of Norway Sir |
-            '' Ham: How propos’d Sir I pray you? |
-            '' Capt: Against some part of Poland. |
-            '' Ham: Who commands them Sir? |
-            '' Capt: The Nephew of old Norway, Fortinbrass |
-            '' Ham: Goes it against the main of Poland Sir, |
-            '' or for some frontier? |
-            '' Capt: Truly to speak and with no addition, | 
-            '' We go to gain a litle patch of ground | 
-            '' That hath in it no profit but the name |
-            '' To pay five duckets, five I would not farm it, | 
-            '' Nor will it yield to Norway or the Pole | 
-            '' A ranker rate, should it be sold in fee |
-            '' Ham: Why then the Pollock never will defend it |
-            '' Capt: Nay ‘tis already garrison’d |
-            '' Ham: Two thousand souls, and 20000 duckets |
-            '' Will not debate the question of this straw |
-            '' This is th’imposthume of much wealth and peace | 
-            '' That inward breaks and shews no cause without | 
-            '' Why the man dies. I humbly thank you Sir.
-            '' Capt: God b’w’ye Sir.
-            '' Rof: Wil’t please you go my Lord?
-            '' Ham: I’ll be with you straight, go a little before" amendedText=""/>  
+            &quot; Since yet thy cicatrice looks raw and red |
+            &quot; After the Danish Sword, and thy free awe |
+            &quot; Pays homage to us, thou maist not coldly set |
+            &quot; Our Sovereign process, which imports at full |
+            &quot; By Letters congruing to that effect |
+            &quot; The present death of Hamlet, do it, England, |
+            &quot; For like the Hectick in my blood he rages, |
+            &quot; And thou must cure me: till I know 'tis done, |
+            &quot; How e'er my haps, my joys will ne'er begin.  [Exit. |
+            
+            Enter Fortinbras with his Army over the Stage. |
+            
+            &quot; Fort. Go Captain, from me greet the Danish King. |
+            &quot; Tell him that by his license Fortinbrass |
+            &quot; Craves the conveyance of a promis'd march |
+            &quot; Over his Kingdom; you know the rendezvous, |
+            &quot; If that his Majesty would aught with us |
+            &quot; We shall express our duty in his eye, |
+            &quot; And let him know so. |
+            &quot; Capt. I will do't my Lord. |
+            &quot; Fort. Go softly on. |
+            
+            Enter Hamlet, Rosencraus, &amp;c. |
+            
+            &quot; Ham. Good Sir whose powers are these? |
+            &quot; Capt. They are of Norway Sir. |
+            &quot; Ham. How propos'd Sir I pray you? |
+            &quot; Capt. Against some part of Poland. |
+            &quot; Ham. Who commands them Sir? |
+            &quot; Capt. The Nephew of old Norway, Fortinbrass. |
+            &quot; Ham. Goes it against the main of Poland Sir, |
+            &quot; Or for some frontier? |
+            &quot; Capt. Truly to speak, and with no addition, |
+            &quot; We go to gain a little patch of ground |
+            &quot; That hath in it no profit but the name, |
+            &quot; To pay five duckets, five I would not farm it, |
+            &quot; Nor will it yield to Norway or the Pole |
+            &quot; A ranker rate, should it be sold in fee. |
+            &quot; Ham. Why, then, the Pollock never will defend it. |
+            &quot; Capt. Yes, it is already garrison'd. |
+            &quot; Ham. Two thousand souls, and 20000 duckets |
+            &quot; Will not debate the question of this straw; |
+            &quot; This is th' imposthume of much wealth and peace, |
+            &quot; That inward breaks and shews no cause without |
+            &quot; Why the man dies. I humbly thank you Sir. |
+            &quot; Ham. God b'w'ye Sir. |
+            &quot; Ros. Wil't please you go my Lord? |
+            &quot; Ham. I'll be with you straight, go a little before.
+            " amendedText=""/>
        
         
     </annotation>
