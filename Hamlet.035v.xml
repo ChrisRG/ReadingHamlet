@@ -7,14 +7,26 @@
     <page filename="Hamlet.035v.tif" pagination="70" signature="IV.7" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         
-        <substitution method="pen" type="deletion" copyText="'' As did that out, and that in my regard | '' Of the unworthiest siege." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; As did that out, and that in my regard | 
+            &quot; Of the unworthiest siege." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="'' Yet needful too, for youth no less becomes |
-            '' The light and careless livery that it wears,
-            '' than setled age his sables, and his weeds,
-            '' Importing health and graveness home, two months since" amendedText="'' Yet needful too,"/>
+        <substitution method="pen" type="replacement" copyText="
+            &quot; Yet needful too, for youth no less becomes |
+            &quot; The light and careless livery that it wears,
+            &quot; Than setled age his sables, and his weeds,
+            &quot; Importing health and graveness home, two months since" 
+            
+            amendedText="&quot; Yet needful too, |
+            two months since,"/>
         
-        <substitution method="pen" type="deletion" copyText="I have seen my self, and serv'd against the French, |
+        <substitution method="pen" type="replacement" copyText="
+            Had witchcraft in 't, he grew unto his seat, |" amendedText="
+            Had witchcraft in him, he grew to his seat, |"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Here was a Gentleman of Normandy, |
+            I have seen my self, and serv'd against the French, |
             And they can well on horse-back; but this Gallant |
             Had witchcraft in him, he grew to his seat, |
             And to such wondrous doing brought his horse |
@@ -23,19 +35,28 @@
             That I in forgery of shapes and tricks |
             Come short of what he did." amendedText=""/>
         
-        <substitution method="pen" type="replacement" copyText="Laer. Upon my life Lamord." amendedText="Laer. Upon my life Lamorit!"/>
+        <substitution method="pen" type="replacement" copyText="
+            Laer. Upon my life Lamord" amendedText="Laer. Upon my life Lamorit!"/>
         
-        <substitution method="pen" type="replacement" copyText="If one could match you: the Fencers of their Nation" amendedText="To see Laertes match'd: - the Fencers of their Nation"/>
+        <substitution method="pen" type="replacement" copyText="
+            If one could match you: the Fencers of their Nation" 
+            
+            amendedText="To see Laertes match'd: - the Fencers of their Nation"/>
         
-        <substitution method="pen" type="replacement" copyText="If you oppos'd them: Sir this report of his" amendedText="If you oppos'd 'em: Sir this report of his"/>
+        <substitution method="pen" type="replacement" copyText="
+            If you oppos'd them: Sir this report of his" amendedText="
+            If you oppos'd 'em: Sir this report of his"/>
         
-        <substitution method="pen" type="insertion" copyText="Now out of this." amendedText="Now out of this, --"/>
+        <substitution method="pen" type="insertion" copyText="
+            Now out of this." amendedText="Now out of this. --"/>
         
-        <substitution method="pen" type="replacement" copyText="A face without a heart?" amendedText="The face without a heart?"/>
+        <substitution method="pen" type="replacement" copyText="
+            A face without a heart?" amendedText="The face without a heart?"/>
         
-        <substitution method="pen" type="deletion" copyText="'' But that I know love is begun by time, |
-            '' And that I see in passages of proof, |
-            '' Time qualifies the spark and fire of it;" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; But that I know love is begun by time, |
+            &quot; And that I see in passages of proof, |
+            &quot; Time qualifies the spark and fire of it;" amendedText=""/>
     </annotation>
     
 </transcription>

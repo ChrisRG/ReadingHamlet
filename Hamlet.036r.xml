@@ -19,30 +19,44 @@
             </language>
         </marginalia>
         
-        <substitution method="pen" type="deletion" copyText="'' There lives within the very flame of love |
-            '' A kind of wick or snuff that will abate it, |
-            '' And nothing is at a like goodness still; |
-            '' For goodness growing to a pleurisie, |
-            '' Dies in his own too much, that we would do, |
-            '' We should do when we would: for this would changes, |
-            '' And hath abatements and delays as many |
-            '' As there are tongues, are hands, are accidents, |
-            '' And then this Should is like a spend-thrift sight, |
-            '' That hurts by easing:" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; There lives within the very flame of love |
+            &quot; A kind of wick or snuff that will abate it, |
+            &quot; And nothing is at a like goodness still; |
+            &quot; For goodness growing to a pleurisie, |
+            &quot; Dies in his own too much, that we would do, |
+            &quot; We should do when we would: for this would changes, |
+            &quot; And hath abatements and delays as many |
+            &quot; As there are tongues, are hands, are accidents, |
+            &quot; And then this Should is like a spend-thrift sigh, |
+            &quot; That hurts by easing: &quot; but to the quick of th'ulcer, |
+            Hamlet comes back, what would you undertake" amendedText="
+            but to the business |
+            Hamlet comes back-what would you undertake"/>
         
-        <substitution method="pen" type="replacement" copyText="but to the quick of th'ulcer" amendedText="but to the business"/>
         
-        <substitution method="pen" type="deletion" copyText="Keep close within your chamber," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            Keep close within your chamber, |
+            Hamlet return'd shall know you are come home," amendedText="
+            Hamlet return'd, shall know you are come home,"/>
         
-        <substitution method="pen" type="replacement" copyText="A sword unbated, and in a pace of practice" amendedText="A sword thats bated, and"/>
+        <substitution method="pen" type="replacement" copyText="
+            A sword unbated, and in a pace of practice |
+            Requite him for your father." amendedText="
+            A sword thats bated, and |
+            Requite him for your father."/>
         
-        <substitution method="pen" type="deletion" copyText="'' Weigh what conveyance both of time and means, |
-            '' May fit us to our shape if this should fail, |
-            '' And that our drift look through our bad performance |
-            '' 'Twere better not assay'd. Therefore this project |
-            '' Should have a back or second, that might hold |
-            '' If this did blast in proof: ' soft! let me see, |
-            We'll make a solemn wager on your cunnings" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            King. Let's further think of this, |
+            &quot; Weigh what conveyance both of time and means, |
+            &quot; May fit us to our shape if this should fail, |
+            &quot; And that our drift look through our bad performance |
+            &quot; 'Twere better not assay'd. Therefore this project |
+            &quot; Should have a back or second, that might hold |
+            &quot; If this did blast in proof: &quot; soft, let me see, |
+            We'll make a solemn wager on your cunnings," amendedText="
+            King. Let's further think of this, |
+            let me see,--"/>
         
     </annotation>
 </transcription>

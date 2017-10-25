@@ -7,7 +7,7 @@
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
-        <marginalia>
+        <marginalia anchor_text="High and might [...] my sudden return.">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
@@ -20,23 +20,34 @@
          
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="And think it pastime:  you shortly shall hear more." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            And think it pastime:  you shortly shall hear more. |
+            I lov'd your father, and we love our self, |
+            &quot; And that I hope will teach you to imagine." 
+            
+            amendedText="
+            I lov'd your father, and we love your self.--"/>
         
-        <substitution method="pen" type="replacement" copyText="I lov'd your father, and we love our self." amendedText="I lov'd your father, and we love your self. --"/>
+        <substitution method="pen" type="replacement" copyText="
+            King. From Hamlet? who brought them?" amendedText="King. From Hamlet! who brought them?"/>
         
-        <substitution method="pen" type="deletion" copyText="'' And that I hope will teach you to imagine." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            They were given me by Claudio, he received them | 
+            Of him that brought them." amendedText="
+            They were given me by Claudio."/>
         
-        <substitution method="pen" type="replacement" copyText="King. From Hamlet?" amendedText="King. From Hamlet!"/>
+        <substitution method="pen" type="replacement" copyText="
+            Exit." amendedText="Exit Messenger"/>
         
-        <substitution method="pen" type="deletion" copyText="They were given me by Claudio, he received them | Of him that brought them." amendedText="They were given me by Claudio."/>
+        <substitution method="pen" type="deletion" copyText="
+            As how should it be so, how otherwise?" amendedText=""/>
         
-        <substitution method="pen" type="replacement" copyText="Exit." amendedText="Exit Messenger"/>
+        <substitution method="pen" type="deletion" copyText="
+            Wherein they say you shine; your sum of parts | 
+            Did not together pluck such envy from him" amendedText="Wherein they say you shine;"/>
         
-        <substitution method="pen" type="deletion" copyText="As how should it be so, how otherwise?" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="Wherein they say you shine; your sun of parts | Did not together pluck such envy from him" amendedText="Wherein they say you shine;"/>
-        
-        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin" text="
+            Enter a Messenger with Letters."/>
  
         
     </annotation>

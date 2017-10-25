@@ -6,19 +6,17 @@
     <page filename="Hamlet.037r.tif" pagination="73" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        
-        
         <marginalia>
             <language ident="EN">
                 <position place="intext" book_orientation="0">
                     <marginalia_text>
-                        Long Trap open, Earth, sculls and bones in it.
+                        Long Trap open, Earth, sculls and Bones in it.
                     </marginalia_text>
                 </position>
             </language>
         </marginalia>
         
-        <marginalia>
+        <marginalia anchor_text="Enter two Clowns with Spades and Mattocks">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>

@@ -6,13 +6,12 @@
     <page filename="Hamlet.034r.tif" pagination="67" signature="IV.5-IV.6" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <marginalia>
+        <marginalia anchor_text="And peace be with his soul and with all Lovers souls.">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                         Exit
                     </marginalia_text>
-                    <person name=""/>
                 </position>
             </language>
         </marginalia>
@@ -31,7 +30,7 @@
             </language>
         </marginalia>
 
-        <marginalia anchor_text="">
+        <marginalia anchor_text="Hora. Let the come in.">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
@@ -42,7 +41,7 @@
             </language>
         </marginalia>
         
-        <marginalia anchor_text="">
+        <marginalia anchor_text="Hor. &quot; Horatio. [...] Let the King have the Letters">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
@@ -53,15 +52,26 @@
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="but" amendedText=""/>   
-        <substitution method="pen" type="deletion" copyText="Our Crown, our life and all that we call ours" amendedText=""/>  
-        <substitution method="pen" type="deletion" copyText="Be you content to" amendedText=""/>
-        <substitution method="pen" type="replacement" copyText="lend your patience to us" amendedText="lend but your patience to us"/>
+        <substitution method="pen" type="replacement" copyText="
+            They find us toucht, we will our Kingdom give, |
+            &quot; Our Crown, our life and all that we call ours |
+            To you in satisfaction; but if not, |
+            Be you content to lend your patience to us," amendedText="
+            They find us toucht, we will our Kingdoms give, |
+            To you in satisfaction; if not, |
+            lend but your patience to us,"/>  
         
-        <!-- Scene division -->
+        <!-- Scene division: IV.5 -> IV. 6 -->
         
-        <substitution method="pen" type="replacement" copyText="Enter Horatio and others" amendedText="Enter Horatio and Gentleman"/>
-        <substitution method="pen" type="deletion" copyText="Say. There's a Letter for you Sir, it came from the Embassador that was bound for England, if your name be Horatio as I am let to know it is." amendedText="Say. There's a Letter for you Sir, if your name be Horatio as I am let to know it is."/>
+        <substitution method="pen" type="replacement" copyText="Enter Horatio and others." amendedText="Enter Horatio and Gentleman"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Say. There's a Letter for you Sir, it came from the Embassador 
+            that was bound for England, if your name be Horatio as I am let 
+            to know it is." amendedText="
+            Say. There's a Letter for you Sir, 
+            if your name be Horatio as I am let 
+            to know it is."/>
         
         <symbol name="Hatching" place="right_margin"/>
         <symbol name="Hatching" place="right_margin"/>

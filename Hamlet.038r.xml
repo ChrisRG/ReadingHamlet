@@ -7,16 +7,60 @@
     
     <page filename="Hamlet.038r.tif" pagination="75" signature="V.1" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-         
         
-        <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="where  be his quiddities now his quilietes, his case his tenures, and his tricks?" amendedText=" where  be his quiddities now ?his quilietes?  his case? his tenures, and his tricks?" /> 
-            <substitution method="pen" type="deletion" copyText="this fellow might bt in’s time a great buyer of land, with his statues, his recognisances, his fines, his double vouchers vouch him no more of his purchases and doubles, than the length and bredth of a pair of Indentures? the very conveyances of his land will scarcely lie in this box, and must th inheritor himself have no more? Ha?" amendedText=""/>
-            <substitution method="pen" type="insertion" copyText="Mine Sir, or a pit of clay for to be made. | I think it’s thine indeed, for thou lyft int. | You ly out on’t Sir, " amendedText=" Mine Sir, -or a pit of clay for to be made.-- | I think it’s thine indeed; for thou ly’ft in’t. | You ly’e out on’t’ Sir, "/>  
-            <substitution method="pen" type="insertion" copyText=" Thou doest lye in’t, to be in’t and say it is thine," amendedText=" Thou doest lye in’t; to be in’t and say, it is thine "/>  
+        <substitution method="pen" type="replacement" copyText="
+            Ham. There's another. Why may not that be the skull of a lawyer? 
+            where be his quiddities now, his quilities, his cases, his tenures, 
+            and his tricks? why does he suffer this mad knave now to knock 
+            him about the sconce with a dirty shovel, and will not tell him of 
+            his actions of battery? hum, this fellow might be in's time a great 
+            buyer of land, with his statutes, his recognisances, his fines, his 
+            double vouchers, his recoveries, to have his fine pate full of fine 
+            dirt: will vouchers vouch him no more of his purchases and doubles, 
+            than the length and bredth of a pair of Indentures? the very
+            conveyances of his land will scarcely lie in this box, and must th' 
+            inheritor himself have no more, ha? |
+            Hora. Not a jot more, my lord. |
+            Ham. &quot; Is not parchment made of sheepskins? |
+            Hora. &quot; I my Lord, and of calve-skins too. |
+            Ham. &quot; They are sheep and calves which seek out assurance in 
+            that. &quot; I will speak to this fellow: Whose grave’s this sirrah? |
+            Clow. Mine Sir, or a pit of clay for to be made. |
+            Ham. I think it's thine indeed, for thou ly'st in't. |
+            Clow. You lye out on 't Sir, and therefore 'tis not yours: for my
+            part I do not lye in't, yet it is mine.
+            Ham. Thou doest lye in't, to be in't and say it is thine, 'tis for the 
+            dead, not for the quick, therefore thou lyest." 
             
-            <substitution method="pen" type="replacement" copyText="Horatio this three years I have took notice, of it, the age is grown so picked, that the toe of the pesant comes so near the hell of the Courtier, he galls his kibe" amendedText=" Horatio these three years I have took notice, that the toe of the pesant comes so near the hell of the Courtier, he galls his kibe "/>
-            
+            amendedText="
+            Ham. There's another: Why may not that be the skull of a lawyer? 
+            where be his quiddities now? his quiliets? his cases? his tenures, 
+            and his tricks? why does he suffer this mad knave now to knock 
+            him about the sconce with a dirty shovel, and will not tell him of 
+            his actions of battery? 
+            I will speak to this fellow: Whose grave’s this sirrah? |
+            Clow. Mine Sir-or a pit of clay for to be made.-- |
+            Ham. I think, it's thine indeed; for thou ly'st in't. |
+            Clow. You lye out on 't Sir, and therefore 'tis not yours: for my
+            part I do not lye in't, yet it is mine.
+            Ham. Thou doest lye in't, to be in't, and say, it is thine; 'tis for the 
+            dead, not for the quick, therefore thou lyest."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            How absolute the knave is, we must speak by the card, or 
+            equivocation will undo us. Horatio this three years I have took 
+            notice of it, the age is grown so picked, that the toe of the Pesant comes 
+            so near the heel of the Courtier, he galls his kibe. How long hast 
+            thou been a Grave-maker?" amendedText="
+            How absolute the knave is? we must speak by the card, or 
+            equivocation will undo us. Horatio these three years I have took 
+            notice, that the toe of the Pesant comes 
+            so near the heel of the Courtier, he galls his kibe. How long hast 
+            thou been a Grave-maker?"/>
+
+        <substitution method="pen" type="insertion" copyText="
+            Ham. I marry, why was he sent into England?" amendedText="
+            Ham. I, marry, why was he sent into England?"/>
             
             
             

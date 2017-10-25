@@ -18,23 +18,62 @@
             </language>
         </marginalia> 
         
-      
-        
-        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="Antiquity forgot, custom not known, | 
+        <substitution method="pen" type="deletion" copyText="
+            Antiquity forgot, custom not known, | 
             The ratifiers and props of every word, | 
             They cry chuse we Laertes for our King, | 
-            Caps, hands, and tongues applaud it to the clouds, Laertes shall be King.| 
-            ‘How chearfully on the false tail they cry; | 
-            ‘O this is counter you false Danish doggs" amendedText=""/>       
-        <substitution method="pen" type="deletion" copyText="With others" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="The doors are broke" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="Cries Cuckold to my father, brands and the Harlot | 
-            Even here between the chaste brows |
-            Of my true mother" amendedText=""/>
-        <substitution method="pen" type="deletion" copyText="Acts little of his will: tell me Laertes Why thou art thus incenst" amendedText=""/>
+            Caps, hands, and tongues applaud it to the clouds, |
+            Laertes shall be King. | 
+            &quot; Qu. How chearfully on the false tail they cry; | 
+            &quot; O this is counter you false Danish doggs" 
+            
+            amendedText="
+            They cry chuse we Laertes for our King, | 
+            Caps, hands, and tongues applaud it to the clouds, |
+            Laertes shall be King."/>
         
+        <substitution method="pen" type="deletion" copyText="
+            They cry chuse we Laertes for our King, | 
+            Caps, hands, and tongues applaud it to the clouds, |
+            Laertes shall be King." amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="Enter Laertes with others." amendedText="Enter Laertes"/>
+        
+        <substitution method="pen" type="deletion" copyText="King. The doors are broke" amendedText=""/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Cries Cuckold to my father, brands and the Harlot | 
+            Even here between the chaste brows |
+            Of my true mother." amendedText=""/>
+        
+        <substitution method="pen" type="errata" copyText="Gertrard" amendedText="Gertrude"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Acts little of his will: tell me Laertes |
+            Why thou art thus incenst: let him go Getrard" amendedText="let him go Gertrude"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Laer. How came he dead? I'll not be jugled with: |
+            To hell allegeance, vows to the blackest Devil, |
+            &quot; Conscience and grace to the profoundest pit, |
+            &quot; I dare damnation, &quot; to this point I stand," 
+            
+            amendedText="
+            Laer. How came he dead? I'll not be jugled with: |
+            To hell allegiance, vows to the blackest Devil. |
+            To this point I stand,"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Laer. How came he dead? I'll not be jugled with: |
+            To hell allegiance, vows to the blackest Devil. |
+            To this point I stand," 
+            
+            amendedText="
+            Laer. How came he dead? I'll not be jugled with: |
+            to this point I stand,"/>
+        
+        <!-- Symbols -->
         <symbol name="Hatching" place="right_margin"/>
         
     </annotation>

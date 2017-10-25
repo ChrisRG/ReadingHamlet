@@ -25,7 +25,9 @@
                 <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                        (19)
-                        Sailor with Letter writ
+                        Sailor 
+                        w[i]th Letter 
+                        writ
                     </marginalia_text>
                     <person name="Sailor"/>
                 </position>
@@ -33,14 +35,29 @@
         </marginalia>
         
         
-        
-        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="A good childe, and" amendedText=""/>       
-       
-        <substitution method="pen" type="replacement" copyText="As day does to your eyes" amendedText="As day does to your eyes. Poor Ophelia!"/>
-        <substitution method="pen" type="deletion" copyText="How now? What noise is that? O heat dry up my brains, tears seven time fast Burn out the sense vertue of mine eye" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Laer. To his good riends thus wide Ile ope my arms," amendedText="
+            Laer. To this good riends thus wide Ile ope my arms,"/>
+        <substitution method="pen" type="replacement" copyText="
+            King. Why now you speake |
+            Like a good childe, and a true Gentleman." amendedText="
+            King. Why now you speake |
+            Like a true Gentleman."/>
         
-        <symbol name="Hatching" place="left_margin"/>
+        <substitution method="pen" type="insertion" copyText="As day does to your eye." amendedText="
+            As day does to your eye. |
+            Poor Ophelia!"/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Laer. Let her come in. |
+            &quot; How now? what noise is that? |
+            &quot; O heat dry up my brains, tears seven time salt |
+            &quot; Burn out the sense and vertue of mine eye: |
+            By heaven &quot; thy madness shall be paid with weight " amendedText="
+            Laer. Let her come in. |
+            By heaven &quot; thy madness shall be paid with weight"/>
+        
+        <symbol name="Hatching" place="left_margin" text="Poor Ophelia!"/>
     </annotation>
 </transcription>

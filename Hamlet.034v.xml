@@ -7,7 +7,7 @@
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         
-        <marginalia>
+        <marginalia anchor_text="Letters I have sent [...] Farewel.">
             <language ident="EN">
                 <position place="left_margin" book_orientation="0">
                     <marginalia_text>
@@ -34,26 +34,32 @@
 
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="As by your safety, greatness, wisdom, all things else. |
+        <substitution method="pen" type="deletion" copyText="
+            As by your safety, greatness, wisdom, all things else, |
             You mainly were stirr'd up." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="and for my self, |
+        <substitution method="pen" type="deletion" copyText="
+            Lives almost by his looks, and for my self, |
             My virtue or my plague, be it either, |
             She is so precious to my life and soul, |
             That as the Star moves not but in his Sphere, |
             I could not but by her: the other motive |
             Why to a publick count, I might not go, |
-            Is the great love" amendedText=""/>
+            Is the great love the people bear him," amendedText="
+            Lives almost by his looks, |
+            the people bear him,"/>
         
-        <substitution method="pen" type="deletion" copyText="'' Convert his gyves to graces so that my arrows |
-            '' Too slightly timbered for so loved arms, |
-            '' Would have reverted to my bow again, |
-            '' But not where I have aim'd them." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            &quot; Convert his gyves to graces so that my arrows |
+            &quot; Too slightly timbered for so loved arms, |
+            &quot; Would have reverted to my bow again, |
+            &quot; But not where I have aim'd them." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="That we are made of stuff so flat and dull, |
+        <substitution method="pen" type="deletion" copyText="
+            That we are made of stuff so flat and dull, |
             That we can let our beards be shook with danger," amendedText=""/>
 
-        <symbol name="Hatching" place="left_margin"/>
+        <symbol name="Hatching" place="left_margin" text="Enter King and Laertes."/>
         
         <mark name="quotation_mark" place="left_margin"/>
         <mark name="quotation_mark" place="left_margin"/>
