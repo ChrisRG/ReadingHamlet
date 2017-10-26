@@ -7,21 +7,137 @@
     
     <page filename="Hamlet.040r.tif" pagination="79" signature="V.1-V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (4)
+                        Hamlet
+                        Horatio
+                        a commission
+                    </marginalia_text>
+                    <person name="Hamlet"/>
+                    <person name="Horatio"/>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia>
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        (5)
+                        Ostrick
+                    </marginalia_text>
+                    <person name="Ostrick"/>
+                </position>
+            </language>
+        </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText="Hear you Sir," amendedText=" Hear you Sir,--"/>        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Hear you Sir, |
+            I lov'd you ever, but it is not matter, |
+            Let Hercules himself do what he may |
+            The Cat will mew, a Dog will have his day." amendedText="
+            Ham. Hear you Sir,-- |
+            I lov'd you ever; but it is not matter.-- |
+            Let Hercules himself do what he may, |
+            The Cat will mew; a Dog will have his day."/>  
         
-        <substitution method="pen" type="replacement" copyText="I lov’d you ever, but it is not matter," amendedText=" I lov’d you ever, but it is not matter --"/>
-        <substitution method="pen" type="insertion" copyText=" Let Hercules himself do what he may" amendedText=" Let Hercules himself do what he may ,"/>  
+        <substitution method="pen" type="replacement" copyText="
+            King. I pray thee good Horatio wait upon him." amendedText="
+            King. I pray you, good Horatio wait upon him."/>
         
-        <substitution method="pen" type="replacement" copyText="I pray thee good" amendedText=" I pray you  good "/>
-        <substitution method="pen" type="replacement" copyText=" Good Gertrard set some watch over you son, " amendedText=" Good Gertrurd set some watch over you son, "/>
+        <substitution method="pen" type="replacement" copyText="
+            Good Gertrard set some watch over you son, |
+            This Grave shall have a living monument, |
+            &quot; An hour of quiet thereby shall we see, |
+            &quot; Till then in patience our proceeding be." 
+            
+            amendedText="
+            Good Gertrud, set some watch over you son, |
+            This Grave shall have a living monument,"/>
         
-        <substitution method="pen" type="deletion" copyText="''  An hour of quiet thereby shall we see, |'' Till then in patience out proceeding be.  " amendedText=""/>
-            
-            
-            
+        <!-- Scene division: V.1 -> V.2 -->
+        
+        <substitution method="pen" type="insertion" copyText="
+            Enter Hamlet and Horatio." amendedText="
+            Enter Hamlet and Horatio meeting Ostrick"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. So much for this Sir. Now shall you see the other: |
+            You do remember all the circumstance.
+            Hora. Remember it my Lord?
+            Ham. Sir in my heart there was a kind of fighting |
+            That would not let me sleep, &quot; methought I lay |
+            &quot; Worse than the mutines in the Bilboes, rashly,
+            &quot; And prais'd be rashness for it; let us know, |
+            Our indiscretion sometime serves us well |
+            When our deep plots do fall, and that should learn us, |
+            There's a divinity that shapes our ends, |
+            Rough hew them how we will." 
+            amendedText="
+            Ham. So much for this Sir. Now shall you see the other: |
+            You do remember all the circumstance?
+            Hora. Remember it my Lord?
+            Ham. Sir, in my heart there was a kind of fighting, |
+            That would not let me sleep; |
+            and that should learn us, |
+            There's a divinity that shapes our ends, |
+            Rough hew them how we will."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            My Sea-gown wrapt about me, in the dark |
+            I grop'd to find out them, had my desire, |
+            Reach'd their packet, and in fine withdrew |
+            To mine own room again, making so bold |
+            (My fears forgetting manners) to unfold |
+            Their grand Commission; where I found, Horatio, |
+            An exact command, |
+            &quot; Larded with many several sorts of reasons, |
+            &quot; Importing Denmarks health, and Englands too, |
+            &quot; With hoe such Bugs and Goblins in my life, |
+            &quot; That on the supervise, no leisure bated, |
+            &quot; No not to stay the grinding of the ax, |
+            My head should be strook off." 
+            amendedText="
+            My Sea-gown wrapt about me, in the dark |
+            I grop'd to find out them; had my desire, |
+            Reach'd their packet, and in fine withdrew |
+            To mine own room again; making so bold |
+            (My fears forgetting manners) to unseal |
+            Their grand Commission; where I found, Horatio, |
+            An exact command, that soon, as I to England came,|
+            My head should be strook off."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Ham. So much for this Sir. Now shall you see the other: |
+            You do remember all the circumstance?
+            Hora. Remember it my Lord?
+            Ham. Sir, in my heart there was a kind of fighting, |
+            That would not let me sleep; |
+            and that should learn us, |
+            There's a divinity that shapes our ends, |
+            Rough hew them how we will. |
+            Hora. That is most certain. |
+            Ham. Up from my Cabbin, |
+            My Sea-gown wrapt about me, in the dark |
+            I grop'd to find out them; had my desire, |
+            Reach'd their packet, and in fine withdrew |
+            To mine own room again; making so bold |
+            (My fears forgetting manners) to unseal |
+            Their grand Commission; where I found, Horatio, |
+            An exact command, that soon, as I to England came,|
+            My head should be strook off. |
+            Hora. Is't possible; |
+            Ham. Here's the Commission, read it at more leisure: |
+            But wilt thou hear now how I did proceed? |
+            Hora. I beseech you.
+            " amendedText=""/>
+        
+        <!-- Symbols -->
+        
+        <symbol name="Hatching" place="right_margin" text="Enter Hamlet and Horatio meeting Ostrick"/>
             
             
     </annotation>

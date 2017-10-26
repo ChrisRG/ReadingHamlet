@@ -8,26 +8,109 @@
     
     <page filename="Hamlet.043r.tif" pagination="85" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
+        <marginalia anchor_text="Ham. I'll play this bout first, set it by a while.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Flourish
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
+        <marginalia anchor_text="Laer. Say you so? come on.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Flourish
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
 
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Stay , give me drink, Hamlet this pearl is thine," amendedText="Stay , give me the cup, Hamlet this pearl is thine,"/>
+        <substitution method="pen" type="insertion" copyText="
+            Ham. One.
+            Laer. No." amendedText="
+            Ham. One.--
+            Laer. No.--"/>
         
-        <substitution method="pen" type="deletion" copyText=" He's fat and seant of breath| Here Hamlet, Take my Handkerchief; wipe day brows" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            [Drums, Trumpts, and Short,
+            [Flourish, a Piece goes off." amendedText="
+            [Flourish."/>
         
-        <substitution method="pen" type="replacement" copyText="I will my lord, I pray you pardon me." amendedText=" good my lord; I have."/>
-       
-        <substitution method="pen" type="deletion" copyText=" I dare not drink yet Madam, by and by.| Come let me wipe thy face."amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            King. Stay , give me drink, Hamlet this pearl is thine," amendedText="
+            King. Stay , give me the cup, Hamlet this pearl is thine,"/>
         
-        <substitution method="pen" type="replacement" copyText="Come, for the third Laertes, you do but dally," amendedText="Come, for the third Laertes, you but dally"/>
+        <substitution method="pen" type="replacement" copyText="
+            Come, anothe hit, what say you?" amendedText="
+            Come-another hit-what say you?"/>
         
-        <substitution method="pen" type="deletion" copyText="Look to the Queen there ho." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            Queen. He's fat and scant of breath | 
+            Here Hamlet, take my Handkerchief; wipe day brows |
+            The Queen salutes thy fortune Hamlet." amendedText="
+            Queen. The Queen salutes thy fortune Hamlet."/>
         
-        <substitution method="pen" type="replacement" copyText="They bleed on both sides, how is't my Lord" amendedText="How is't my Lord?"/>		
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Good Madam." amendedText="Ham. Good Madam.--"/>
         
-        <substitution method="pen" type="insertion" copyText="Why as a woodclock in mine own sprindge Ostrick," amendedText="Why as a woodclock caught in mine own sprindge Ostrick,"/>
+        <substitution method="pen" type="replacement" copyText="
+            King. Gertrard do not drink." amendedText="
+            King. Gertrude do not drink."/>
         
-        <substitution method="pen" type="replacement" copyText="She swoons to see them bleed." amendedText="She swoons to see 'em bleed."/>
+        <substitution method="pen" type="replacement" copyText="
+            Qu. I will my Lord, I pray you pardon me." amendedText="
+            Qu. Your pardon good my Lord; I have."/>
         
+        <substitution method="pen" type="deletion" copyText="
+            Ham. I dare not drink yet Madam, by and by. |
+            Qu. Come let me wipe thy face." amendedText=""/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. I do not think 't." amendedText="King. I do not think it."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Come, for the third Laertes, you do but dally, |
+            I pray you pass with your best violence, |
+            I am sure you make a wanton of me." amendedText="
+            Ham. Come, for the third Laertes, you but dally; |
+            I pray you, pass with your best violence; |
+            I am sure, you make a wanton of me."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Laer. Have at you now." amendedText=""/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Nay come again." amendedText="Nay come again.--"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ostr. Look to the Queen there ho. |
+            Hora. They bleed on both sides, how is't my Lord." amendedText="
+            Hor. How is't my Lord?"/> <!-- Probable different hand -->
+        
+        <substitution method="pen" type="replacement" copyText="
+            Laer. Why as a Woodcock, in my own sprindge Ostrick, |
+            I am justly kill d with mine own treachery." amendedText="
+            Laer. Why as a Woodcock; caught in my own sprindge Ostrick, |
+            I am justly kill d with mine own treachery."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. She swoons to see them bleed." amendedText="
+            King. She swoons to see 'em bleed."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. O villain! ho let the door be lockt, |
+            Treachery, seek it out." amendedText="
+            Ham. O villainy! ho let the door be lockt; |
+            Treachery! seek it out --"/>
+        
+        <!-- Marks -->
+        
+        <mark name="plus_sign" place="right_margin" text="Ham. I'll play this bout first, set it by a while."/>
+        
+        <mark name="plus_sign" place="right_margin" text="Laer. Say you so? come on."/>
         
     </annotation>
 </transcription>

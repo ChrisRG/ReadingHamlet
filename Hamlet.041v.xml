@@ -10,7 +10,7 @@
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                         (6)
                         King
@@ -21,60 +21,114 @@
                         one with a 
                         cup of wine
                     </marginalia_text>
-                    <person name=""/>
+                    <person name="King"/>
+                    <person name="Queen"/>
+                    <person name="Laertes"/>
                 </position>
             </language>
         </marginalia>
         
         <marginalia>
             <language ident="EN">
-                <position place="right_margin" book_orientation="0">
+                <position place="left_margin" book_orientation="0">
                     <marginalia_text>
                         (7)
-                        Ophrick 
+                        Ostrick 
                         with Foile
                     </marginalia_text>
+                    <person name="Ostrick"/>
                 </position>
             </language>
         </marginalia>
         
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost"/>
-        
-        <substitution method="pen" type="deletion" copyText="Hora I knew you must be edited by the margin e've you had done." amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="I would it might be hangers till then;" amendedText=""/>
-        
-        <substitution method="pen" type="replacement" copyText="why is this all you call it?" amendedText="as I take it"/>
-        
-        <substitution method="pen" type="deletion" copyText="He did so Sir with his dog before he fuckt it;" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="Your does well rocommend it felt, there are no tongues, elfe for his turn. Hora. This lapwong runaway with the shell on his head.''He did so Sir with his dog before he fuckt it;''thus has be and many more of the fame breed that I know the drossie age doses on, only got the tun of the tie, and out of an habit of inconnter, a kind of yefty collection, which carries them through and through the most profane and renowned opinions; and do but blow them to their trials the bubbles are out." amendedText=""/>		
-        
-        <substitution method="pen" type="deletion" copyText="'' Thereto prickt on by a most emulate pride" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="'' For (so this side of our known world esteem'd him)" amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Court. Single Rapier." amendedText="Ost. Single Rapier."/>
         
         <substitution method="pen" type="deletion" copyText="
-            '' Against the which a moity competent |
-            '' Was gaged by our King, which had returned |
-            '' To the inheritance of Fortinbas, |
-            '' Had he been vanquisher: as by the same compact, |
-            '' And carriage of the Articles design, |
-            '' His fell to Hamlet:" amendedText=""/>
+            Hora. I knew you must be edified by the margin e're you had
+            done." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="'' Of unimproved metal, hot, and full," amendedText=""/>
+        <substitution method="pen" type="replacement" copyText="
+            Court. The carriages Sir are the hangers." amendedText="
+            Ost. The carriages Sir are the hangers."/>
         
+        <substitution method="pen" type="replacement" copyText="
+            Ham. The phrase would be more german to the matter if we 
+            could carry a cannon by our sides, I would it might be hangers till 
+            then: but on, six Barbary horses against six French swords, their
+            assigns, and three liberal conceited carriages, that's the French bet 
+            against the Danish, why is this all that you call it?" 
+            
+            amendedText="
+            Ham. The phrase would be more germane to the matter, if we 
+            could carry a cannon by our sides, 
+            but on; six Barbary horses, against six French swords, their
+            assigns, and three liberal conceited carriages; that's the French bet 
+            against the Danish; as I take it."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. How if I answer no?" amendedText="Ham. How if I answer, no?"/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Sir I will walk here in the Hall, if it please his Majesty, it 
+            is the breathing time of day with me, let the foils be brought, 
+            the Gentleman willing, and the King hold his purpose, I will win 
+            for him if I can; if not, I will gain nothing but my shame and the 
+            odd hits." 
+            amendedText="
+            Ham. Sir, I will walk here in the Hall, if it please his Majesty, it 
+            is the breathing time of day with me; let the foils be brought, 
+            the Gentleman willing, and the King hold his purpose, I will win 
+            for him if I can: if not, I will gain nothing but my shame and the 
+            odd hits."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="insertion" copyText="
+            Ham. To this effect Sir, after what flourish your nature will." amendedText="
+            Ham. To this effect, Sir, after what flourish your nature will."/>
+        
+        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Yours does well to commend it self, there are no tongues 
+            else for his turn. |
+            Hora. This lapwing runs away with the shell on his
+            head. |
+            Ham. &quot; He did so Sir with his dug before he suckt it; &quot; thus
+            has he and many more of the same breed that I know, the drossie age
+            dotes on, only got the tune of the time, and out of an habit of
+            inconnter, a kind of misty collection, which carries them through and through the most profane and renowed opinions; and do but 
+            blow them to their trial, the bubbles are out." 
+            
+            amendedText="
+            Ham. Yours; he does well to commend it himself, there are no tongues 
+            else for turn. |
+            Hora. This lapwing runs away with the shell on his
+            head. |
+            Ham. thus
+            has he (and many more of the same breed that I know) 
+            only got the tune of the time, an outward habit of
+            inconnter, a kind of yesty collection, which carries them through and through the most profane and renowed opinions; and do but 
+            blow them to their trials, the bubbles are out."/>
+        
+        <substitution method="pen" type="deletion" copyText="
+            Ham. Yours; he does well to commend it himself, there are no tongues 
+            else for turn. |
+            Hora. This lapwing runs away with the shell on his
+            head. |
+            Ham. thus
+            has he (and many more of the same breed that I know) 
+            only got the tune of the time, an outward habit of
+            inconnter, a kind of yesty collection, which carries them through and through the most profane and renowed opinions; and do but 
+            blow them to their trials, the bubbles are out." amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <symbol name="Hatching" place="right_margin"/> 

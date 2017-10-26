@@ -11,26 +11,70 @@
         
         <!-- Substitutions -->
         
+        <substitution method="pen" type="replacement" copyText="
+            Ham. No faith not a jot but to follow him thither with 
+            modestly enough, and likelihood to lead it: Alexander died, Alexander was 
+            buried, Alexander returneth to dust, the dust is earth, of earth we 
+            make lome, and why of that lome whereto he was converted might 
+            they not stop a Beer-barrel? |
+            Imperious Caesar dead and turned to clay | 
+            Might stop a hole to keep the wind away, | 
+            O that that earth which kept the world in awe, |
+            Should patch a wall t'expel the waters flaw! | 
+            But soft, but soft a while, here comes the King, | 
+            The Queen, the Courters: who is this they follow, |
+            And with such maimed rites? this doth betoken, |
+            The coarse they follow did with desperate hand |
+            Fordo its own life, 'twas of some estate: |
+            Stand by a while and mark.
+            " amendedText="
+            Ham. No faith, not a jot: but to follow him thither with 
+            modestly enough, as thus Alexander died, Alexander was 
+            buried, Alexander returneth to dust; the dust is earth: of earth we 
+            make lome; and why of that lome, whereto he was converted, might 
+            they not stop a Beer-barrel? |
+            Imperiall Caesar dead and turned to clay, | 
+            Might stop a hole to keep the wind away; | 
+            O, that that earth, which kept the world in awe, |
+            Should patch a wall, t'expel the waters flaw! | 
+            But soft, a while-here comes the King, | 
+            The Queen, the Courters: who is this they follow, |
+            And with such maimed rites? this doth betoken, |
+            The coarse, they follow did with desperate hand |
+            Fordo its own life, |
+            Stand by a while, and mark."/>
+                
+        <substitution method="pen" type="insertion" copyText="
+            Ham. This is Laertes a very noble youth." amendedText="
+            Ham. This is Laertes a very noble youth.--"/>        
         
-        <substitution method="pen" type="replacement" copyText="No faith not a jot but to follow him thither with modestly enough, and likelihood to lead it; as thus Alexander died, Alexander was buried, Alexander returneth to dust, the dust is earth, of earth we make lome, and why of that lome where to he was converted might they not stop a Beer-barrel?" amendedText=" No faith not a jot: but to follow him thither with modestly enough, as thus Alexander died, Alexander was buried, Alexander returneth to dust; the dust is earth; of earth we make lome; and why of that lome, where to he was converted, might they not stop a Beer-barrel?"/>
+        <substitution method="pen" type="deletion" copyText= "
+            Doct. Her obsequies have been as far inlarg'd |
+            As we have warranty; her death was doubtful, | 
+            And but that great command o're-sways the order, | 
+            She should in ground unstanctified been lodg'd: | 
+            For charitable prayers, | 
+            Flints and pebbles should be thrown on her, | 
+            Yet here she is allow'd her virgin rites, | 
+            Her maiden strewments, and the bringing home | 
+            Of bell and burial." amendedText="
+            Doct. Her obsequies have been as far inlarg'd |
+            As we have warranty;"/>
         
-        <substitution method="pen" type="replacement" copyText=" Imperious C esar dead and turned to clay | Might stop a hole to keep the wind away | O that that earth which kept the world in awe ,| Should patch a wall t’expel the waters flaw! | Put soft, but soft a while, here comes the King, " amendedText=" Imperiall C esar, dead and turned to clay, Might stop a hole to keep the wind away ; | O, that that earth, which kept the world in awe,| Should patch a wall, t’expel the waters flaw! | Put soft, a while,- here comes the King, "  />
-            
-            <substitution method="pen" type="replacement" copyText=" The coarse they follow did with desperate hand | Fordo its own life, ‘twas of some  estate: | Stand by a while and mark." amendedText=" The coarse, they follow, did with desperate hand | Fordo its own life, : | Stand by a while, and mark."  />
-                
-                <substitution method="pen" type="insertion" copyText=" This is Laertes a very noble youth." amendedText=" This is Laertes a very noble youth.--"/>        
-                
-                <substitution method="pen" type="deletion" copyText= " her death was doubtful, | And but that great command o’re- sways the order, | She should in grounf unstanctified been lodg’d: | For charitable prayers, | Flints and pebbles should be thrown on her, | Yet here she is allowed her virgin rites, | Her maiden strewments, and the bringing home | Of – bell and burial." amendedText=""/>
-                
-                <substitution method="pen" type="deletion" copyText= " What? the fair  Ophelia?" amendedText=" What the fair  Ophelia?"/>
-                
-                <substitution method="pen" type="deletion" copyText= " We should profane the service of the dead  | To sing a Requiem and sach reft to her  | As to peace- parted souls." amendedText=""/>
-                
-                <!-- Symbols and marks -->    <!-- Positions available: head, intext, tail, left_margin, right_margin -->
-                <symbol name="Hatching" place="right_margin"/> 
-                
-                <mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/>
-                
+        <substitution method="pen" type="deletion" copyText= "
+            Doct. No more: |
+            We should profane the service of the dead | 
+            To sing a Requiem and such reft to her | 
+            As to peace-parted souls." amendedText="
+            Doct. No more:"/>
+        
+        <substitution method="pen" type="replacement" copyText= "
+            Ham. What? the fair Ophelia?" amendedText="Ham. What, the fair Ophelia?"/>
+        
+        <!-- Symbols and marks -->    <!-- Positions available: head, intext, tail, left_margin, right_margin -->
+        
+        <symbol name="Hatching" place="right_margin"/>
+        
                 
     </annotation>
 </transcription>

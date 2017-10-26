@@ -66,9 +66,9 @@
       
       
         <!-- Symbols -->
-        <symbol name="Hatching" place="left_margin"/>  <!-- Margins cleaned or erased -->
+        <symbol name="Hatching" place="left_margin" text="Enter King, Rosencraus, and Guildenstern."/>  <!-- Margins cleaned or erased -->
       
-        <symbol name="Hatching" place="left_margin"/> 
+        <symbol name="Hatching" place="left_margin" text="Enter Polonius."/> 
         
         
     </annotation>

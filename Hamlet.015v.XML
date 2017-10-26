@@ -45,7 +45,7 @@
         <substitution method="pen" type="deletion" copyText="&quot; and sure dear friends my thanks are too dear a half peny: &quot;" amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin" text="Enter Guildenstern and Rosencraus."/> 
         
     </annotation>
 </transcription>

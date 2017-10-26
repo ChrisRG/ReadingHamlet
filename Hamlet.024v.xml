@@ -81,8 +81,8 @@
         <substitution method="pen" type="replacement" copyText="Ham. I Sir, but while the grass grows; the Proverb is something" amendedText="Ham. I Sir, but while the grass grows-the Proverb is something"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/> 
-        <symbol name="Hatching" place="left_margin"/>
+        <symbol name="Hatching" place="left_margin" text="Enter Rosencraus and Guildenstern."/> 
+        <symbol name="Hatching" place="left_margin" text="Enter Horatio with Recorder."/>
         
         
     </annotation>

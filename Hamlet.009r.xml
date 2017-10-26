@@ -65,7 +65,7 @@
         <substitution method="pen" type="replacement" copyText="Ham. Alas poor Ghost." amendedText="Alas, poor Ghost!"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin" text="Enter Ghost and Hamlet."/>
         
     </annotation>
 </transcription>

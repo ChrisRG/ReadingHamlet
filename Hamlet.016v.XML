@@ -93,7 +93,7 @@
         <substitution method="pen" type="deletion" copyText="Ham. Why one fair daughter and no more," amendedText="Ham. Why, one fair daughter and no more,"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/> 
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="left_margin" text="[Enter Polonius."/> 
+        <symbol name="Hatching" place="right_margin" text="[Enter Polonius"/> 
     </annotation>
 </transcription>

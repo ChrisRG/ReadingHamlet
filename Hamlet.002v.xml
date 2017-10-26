@@ -39,9 +39,9 @@
         <substitution method="pen" type="errata" copyText="your" amendedText="you"/>
        
            <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/> 
+        <symbol name="Hatching" place="left_margin" text="[Enter Ghost."/> 
         
-        <mark name="X_sign" method="pen" place="right_margin" text="For which they say you spirits oft walk in death,"/>
+        <mark name="X_sign" method="pen" place="right_margin" text="[The Cock crows."/>
         
         
     </annotation>

@@ -52,7 +52,7 @@
             I value not my life:"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/>
+        <symbol name="Hatching" place="left_margin" text="[Enter Ghost."/>
         
     </annotation>
 </transcription>

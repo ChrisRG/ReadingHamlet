@@ -7,39 +7,74 @@
     
     <page filename="Hamlet.041r.tif" pagination="81" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
-        <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            methinks it is very soultry and hot, or my 
+            complexion." amendedText="
+            methinks it is very soultry and hot, for my
+            complexion.--"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Court. Exceedingly my Lord, it is very soultry, as 'twere I cannot
+            tell how. My Lord, his Majesty had me signifie unto you that
+            he has laid a great wager on your head, Sir this is the matter." amendedText="
+            Ost. Exceedingly my Lord, it is very soultry, as 'twere I cannot
+            tell how. My Lord, his Majesty had me signifie unto you that
+            he has laid a great wager on your head. Sir this is the matter.--"/>
         
         <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
         
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Sir, his definement suffers no loss in you, though I know
+            to divide him inventorially, would dizzy th' arithmetick of memory, 
+            and yet but raw neither in respect of his quick sail; but in the
+            verity of extolment I take him to be a soul of great article, and his 
+            infusion of such dearth and rareness, as to make true diction of 
+            him, his semblable is his mirrour, and who else would trace him, 
+            his umbrage, nothing more. |
+            Court. Your Lordship speaks most infallibly of him. |
+            Ham. The concernancy Sir, why do we wrap the Gentleman in
+            our rawer breath? |
+            Court. Sir. |
+            Hora. Is't not possible to understand in another tongue, you will
+            do't Sir really. |
+            Ham. What imports the nomination of this Gentleman?" 
+            
+            amendedText="
+            Ham. Sir, his definement suffers no loss in you, though I know
+            to divide him inventorially, would dizzy th' arithmetick of memory, 
+            but in the
+            verity of extolment, I take him to be a soul of great article.
+            Ost. Your Lordship speaks most infallibly of him. |
+            Ham. The concernancy, Sir? why do we wrap the Gentleman in
+            our rawer breath? |
+            Ost. Sir.-- |
+            Ham. What imports the nomination of this Gentleman?"/>
         
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        <substitution method="pen" type="deletion" copyText="
+            Ham. Sir, his definement suffers no loss in you, though I know
+            to divide him inventorially, would dizzy th' arithmetick of memory, 
+            but in the
+            verity of extolment, I take him to be a soul of great article.
+            Ost. Your Lordship speaks most infallibly of him. |
+            Ham. The concernancy, Sir? why do we wrap the Gentleman in
+            our rawer breath? |
+            Ost. Sir.-- |
+            Ham. What imports the nomination of this Gentleman?" 
+            
+            amendedText="Ham. What imports the nomination of this Gentleman?"/>
+            
+        <substitution method="pen" type="replacement" copyText="
+            Court. Of Laertes?" amendedText="
+            Ost. Of Laertes?"/>
         
-        <substitution method="pen" type="replacement" copyText="Court." amendedText="Ost."/>
+        <substitution method="pen" type="deletion" copyText="
+            Ham. His purse is empty already, all's golden words are spent." amendedText=""/>
         
-        <substitution method="pen" type="deletion" copyText="Sir,his definement suffers no lossin you, though I know to divide him inventorially, would dizzy th' arithmetick of memo-ry, : but in the verity of extolment, I take him to be a foul of great article. and his infusion of such dearth and rarenels, as to make true diction of him, his femblable is his mirrour, and who elfe would trace him, his umbrage, nothing more." amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="Your Lordship speaks most infalliby of him." amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="The concernancy, Sir why do we wrap the Gentleman in our rawerbreath?" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="Sir." amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="'' At least the whisper goes so:" amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="Is't not possible to understand in another tongue, you will do't Sir really-" amendedText=""/>		
-        
-        <substitution method="pen" type="deletion" copyText="'' His purse is empty already, all's golden words are spent," amendedText=""/>
-        
-        <substitution method="pen" type="deletion" copyText="'' I know you are not ignorant" amendedText=""/>
-       
-        <substitution method="pen" type="deletion" copyText="I would you did Sir yet if you did it would not much approve me: well Sir." amendedText=""/> 
-       
-        <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
-        
+        <substitution method="pen" type="deletion" copyText="
+            Court. I know you are not ignorant. |
+            Ham. I would you did Sir, yet if you did it would not much
+            approve me: well Sir." amendedText=""/>
         
     </annotation>
 </transcription>

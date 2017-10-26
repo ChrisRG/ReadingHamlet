@@ -9,16 +9,51 @@
     <annotation>
          
         <!-- Substitutions -->
-        <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
-        <substitution method="pen" type="insertion" copyText=" What is he whose grief | Bears such an emphasis " amendedText=" What is he whose griefe | Bears such an emphasis ?" />        
-        <substitution method="pen" type="insertion" copyText=" I prethee take thy fingers from my throat, " amendedText=" I prethee take thy fingers from my throat, --" />        
+        <substitution method="pen" type="replacement" copyText="
+            What is he whose grief | 
+            Bears such an emphasis, whose phrase of sorrow" amendedText="
+            What is he, whose griefs | 
+            Bears such an emphasis? whose phrase of sorrow" />        
+                
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Thou pray'st not well: I prethee take thy fingers from my throat, |
+            For though I am not spleenative and rash," amendedText="
+            Ham. Thou pray'st not well: I prethee take thy fingers from my throat, -- |
+            For though I am not spleenative and rash;" />        
         
-        <substitution method="pen" type="deletion" copyText=" Hamlet, Hamlet. | Gentlemen. | Good my Lord be quiet. " amendedText=""/>    
-        <substitution method="pen" type="deletion" copyText=" O he is mad Laertes. | Forbear him. " amendedText=""/>    
-        <substitution method="pen" type="replacement" copyText=" Shew me what thou’t do, | Wilt weep wilt fight, wilt fast wilt tear thy self, | Wilt drink up  Efil, eat a Crocodile? | I’ll do’t ; doest thou come here to whine? " amendedText=" Shew me what thoust do. | Wilt weep?  wilt fight, ? wilt fast wilt tear thy self,? | Wilt drink up  Eifil, eat a Crocodile? | I’ll do’t --doest thou come here to whine? " />                
+        <substitution method="pen" type="deletion" copyText="
+            Qu. Hamlet, Hamlet. | 
+            All. Gentlemen. | 
+            Hora. Good my Lord be quiet. " amendedText=""/> 
         
-        <substitution method="pen" type="deletion" copyText=" Be buried quick with her ;" amendedText=" Be buried quick with her "/>    
-        <substitution method="pen" type="insertion" copyText=" Make Ossa like a wart nay, and thou’lt mouth  " amendedText=" Make Ossa like a wart! nay, and thou’lt mouth  ," />        
+        <substitution method="pen" type="deletion" copyText="
+            King. O he is mad Laertes. | 
+            Qu. Forbear him." amendedText=""/>    
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. Shew me what thou't do, | 
+            Wilt weep, wilt fight, wilt fast, wilt tear thy self, | 
+            Wilt drink up Esil, eat a Crocodile? | 
+            I'll do't; doest thou come here to whine? |
+            To out-face me with leaping in her grave? |
+            Be buried quick with her: and so will I; |
+            And if thou prate of mountains, let them throw |
+            Millions of acres on us, till our ground |
+            Sindging his pate against the burning Zone, |
+            Make Ossa like a wart; nay, and thou'lt mouth |
+            I'll rant as well as thou." 
+            amendedText="
+            Ham. Shew me what thou'lt do, | 
+            Wilt weep? wilt fight? wilt fast? wilt tear thy self? | 
+            Wilt drink up Eisil, eat a Crocodile? | 
+            I'll do't--doest thou come here to whine? |
+            To out-face me with leaping in her grave? |
+            Be buried quick with her, and so will I; |
+            And if thou prate of mountains, let them throw |
+            Millions of acres on us, till our ground, |
+            Sindging his pate against the burning Zone, |
+            Make Ossa like a wart! nay, and thou'lt mouth, |
+            I'll rant as well as thou." />                
         
     </annotation>
 </transcription>

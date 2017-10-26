@@ -61,7 +61,7 @@
             So much as from occasion you may glean," amendedText="To draw him on to pleasures, and to learn"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin" text="Enter King, Queen, Rosencraus and Guildenstern."/> 
         
         
     </annotation>

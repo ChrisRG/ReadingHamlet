@@ -11,10 +11,37 @@
 
         
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="On plots and errors happen.| '' Let four Captains| Bear Hamlet like a souldier to the stage,| For he was likely hadhe been put on,| T'have prov'd most royal: and for his passage,| The Souldiers Musick and the rights of War| Speak loudly for him.| ," amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            On plots and errors happen.| 
+            Fort. &quot; Let four Captains | 
+            Bear Hamlet like a Souldier to the stage, | 
+            For he was likely had he been put on, | 
+            T'have prov'd most royal: and for his passage, | 
+            The Souldiers Musick and the rights of War | 
+            Speak loudly for him. |
+            Take up the bodies; such a sight as this |
+            Becomes the Field, but here shews much amiss.
+            &quot; Go bid the Souldiers Shoot." amendedText="
+            Let four Captains | 
+            Bear Hamlet like a Souldier to the stage, | 
+            For he was likely had he been put on, | 
+            T'have prov'd most royal: |
+            Take up the bodies; such a sight as this |
+            Becomes the Field, but here shews much amiss."/>
         
-        <substitution method="pen" type="deletion" copyText="Go bid the Souldiers Shoot." amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            Let four Captains | 
+            Bear Hamlet like a Souldier to the stage, | 
+            For he was likely had he been put on, | 
+            T'have prov'd most royal: |
+            Take up the bodies; such a sight as this |
+            Becomes the Field, but here shews much amiss." amendedText="
+            Take up the bodies; such a sight as this |
+            Becomes the Field, but here shews much amiss."/>
        
+        <!-- A marginal note is found at the bottom of the page, which has been
+        crossed out. It may be possible to read the note by consulting the
+        physical book. -->
         
     </annotation>
 </transcription>

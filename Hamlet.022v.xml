@@ -77,9 +77,9 @@
             to show, they’l not blush to tell you what it means."/> <!-- Possible different hand with 'counsel' and 'tell'-->
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="left_margin"/>
-        <symbol name="Hatching" place="left_margin"/>
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="left_margin" text="Enter a King and a Queen."/>
+        <symbol name="Hatching" place="left_margin" text="[Enter Enter King and Queen."/>
+        <symbol name="Hatching" place="right_margin" text="Enter Prologue."/> 
         
         
     </annotation>

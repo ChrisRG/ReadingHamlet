@@ -7,14 +7,73 @@
     
     <page filename="Hamlet.042v.tif" pagination="84" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
+        
+        <marginalia anchor_text="[Trumpets the while.">
+            <language ident="EN">
+                <position place="right_margin" book_orientation="0">
+                    <marginalia_text>
+                        Flourish
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
     
-        
         <!-- Substitutions -->
-        <substitution method="pen" type="deletion" copyText="'' but in my terms of honour| I stand aloof, and will no reconcilement,| Till by some older Masters of known honour| I have a voice and president of peace| To my name ungor'd: but all that time" amendedText=""/>
+        <substitution method="pen" type="deletion" copyText="
+            Laer. I am satisfied in nature, |
+            Whose motive in this case should stir me most |
+            To my revenge, &quot; but in my terms of honour | 
+            &quot; I stand aloof, and will no reconcilement, | 
+            &quot; Till by some older Masters of known honour | 
+            &quot; I have a voice and president of peace | 
+            &quot; To my name ungor'd: but all that time &quot; |
+            I do receive your offered love like love, |
+            And will not wrong it." 
+            amendedText="
+            Laer. I am satisfied in nature, |
+            Whose motive in this case should stir me most |
+            To my revenge, |
+            I do receive your offered love like love, |
+            And will not wrong it."/>
         
-        <substitution method="pen" type="replacement" copyText="Serve me the floops of wine, upon th table;" amendedText="erve me the wine,;"/>
-        <substitution method="pen" type="replacement" copyText="And let the Kettle to the Trumpet speak," amendedText="now let the Kettle to the Trumpet speak,"/>
-       
+        <substitution method="pen" type="replacement" copyText="
+            Ham. I'll be your foil Laertes, in mine ignorance |
+            Your skill shall like a star i'th darkest night |
+            Appear." amendedText="
+            Ham. I'll be your foil, Laertes, in my ignorance |
+            Your skill shall like a star i'th darkest night |
+            Appear."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. No on my honour." amendedText="
+            Ham. No, on my honour."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            Ham. This likes me well, these foils have all a length." amendedText="
+            Ham. This likes me well, these foils have all a length?"/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            King. Set me the stoops of wine upon the table;" amendedText="
+            King: Give me the wine."/>
+        
+        <substitution method="pen" type="replacement" copyText="
+            In Denmarks Crown have worn. Give me the cups, |
+            And let the Kettle to the Trumpet Speak, |
+            The Trumpets to the Cannoneer without, |
+            The Cannons to the Heavens the Heavens to Earth." amendedText="
+            In Denmarks Crown have worn. Give me the cup; |
+            Now let the Kettle to the Trumpet Speak, |
+            The Trumpets to the Cannoneer without, |
+            The Cannons to the Heavens, the Heavens to Earth"/>
+        <substitution method="pen" type="insertion" copyText="
+            Ham. Come on Sir." amendedText="
+            Ham. Come on, Sir."/>
+        
+        <!-- Marks -->
+        
+        <mark name="plus_sign" place="right_margin" text="[Trumpets the while."/>
+        
+        <mark name="plus_sign" place="intext" text="come begin"/>
         
     </annotation>
 </transcription>

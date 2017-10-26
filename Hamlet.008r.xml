@@ -48,7 +48,7 @@
             amendedText=""/>
   
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin" text="Enter Hamlet, Horatio, and Marcellus."/>
         
         <mark name="plus_sign" method="pen" place="right_margin" text="[ A flourish of Trumpets and Guns."/> 
         

@@ -17,7 +17,6 @@
             </language>
         </marginalia>
           
-       
         
         <!-- Substitutions -->
         <substitution method="pen" type="replacement" copyText="Possess it meerly: that it should come thus," amendedText="Possess it meerly: that it should come to this,"/>
@@ -54,7 +53,7 @@
         <substitution method="pen" type="insertion" copyText="Ham. I prethee do not mock me fellow student." amendedText="Ham. I prethee, do not mock me, fellow student;"/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/>
+        <symbol name="Hatching" place="right_margin" text="Enter Horatio, Marcellus, and Barnardo."/>
         
         
         

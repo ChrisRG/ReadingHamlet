@@ -45,7 +45,7 @@
         <substitution method="pen" type="deletion" copyText="How say you by that?" amendedText=""/>
         
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin" text="Enter Hamlet. M:D:O:P."/> 
         
     </annotation>
 </transcription>

@@ -31,7 +31,7 @@
         <!-- Scene division: I.1 to I.2-->
 
         <!-- Symbols and marks -->	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <symbol name="Hatching" place="right_margin"/> 
+        <symbol name="Hatching" place="right_margin" text="Enter Claudius King of Denmark, Gertrad the Queen, Council, as Polonius, and his Son Laertes, Hamlet, cum aliis."/> 
         
         <symbol name="Sun" place="left_margin" text="Flourish"/>
         

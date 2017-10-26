@@ -9,25 +9,72 @@
     <page filename="Hamlet.044r.tif" pagination="87" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
-        <marginalia>
+        <marginalia anchor_text="Which have solicited--the rest in silence.">
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
                        Dies
+                    </marginalia_text>
+                </position>
+            </language>
+        </marginalia>
       
         <!-- Substitutions -->
-        <substitution method="pen" type="replacement" copyText="On Furtinbrass; he has my dying voice." amendedText="On Furtinbrass; he has my dying voice!"/>
-        
-        <substitution method="pen" type="replacement" copyText=" So tell him, with the occurents more and less" amendedText="So tell him, with the occurrents more or less"/>
-                        
-        <substitution method="pen" type="replacement" copyText="Which have folicted; the reft in filence." amendedText="Which have folicited the reft in filence."/>
+        <substitution method="pen" type="replacement" copyText="
+            On Fortinbrass; he has my dying voice, |
+            So tell him, with th' occurents more and less |
+            Which have folicted: the reft in silence." amendedText="
+            On Fortinbrass; he has my dying voice! |
+            So tell him, with the occurents more or less |
+            Which have folicted--the reft in silence."/>
       
-        <substitution method="pen" type="replacement" copyText=" Now crack a noble heart, good night sweet prince," amendedText="There crack the cordage of a noble heart, good night sweet Prince,"/>
+        <substitution method="pen" type="replacement" copyText="
+            Hora. Now cracks a noble heart, good night sweet Prince, |
+            And choires of Angels sing thee to thy rest." 
+            amendedText="
+            Hora. There cracks the cordage of a noble heart, good night sweet Prince, |
+            And choires of Angels sing thee to thy rest."/>
         
-        <substitution method="pen" type="deletion" copyText="Why does the drum come hither?| Enter Fortinbrass with the Embassadours| Where is this fight?| what is it you would see?| If ought of woe or wonder, cease your search?| ''This quarry cries on havock: '' O proud death,| What feast is toward in thine infernal Cell,| That tho so many Princes at a shot| So bloodily hast strook?| The fight is dismal, And our affairs from England come too late,| The ears are fenflefs that should give us hearing.| To tell him his commandment is fulfill'd,| That Rofenaus and Guildenstern are dead, Where should we have our thanks?| Not from his mouth| Had it th' ability of breath to thank you| Henever gave commandement for their death| But since so apt upon this bloody question| You from the Pollack wars, and you from England| Are here arrived, give order that that these bodies| High on a stage be placed to publick view,| And let me speak to th' yet unknowing world| How these things cameabout ; so shall slaughters| Of deaths pat on by cunning, and for no cause,| and in this upshot, purposes mistook,| Fall'n on the inventors heads: all this can I| Truly deliver.| Let us hafte to hear it,| And call the nobless to the audience:| For me, with sorroq I embrace my fortune,| I have some rights of memory in this kingdom,| Which now to claim my intereft doth invite me.| Of that I shall have also cause to speak,| And from his mouth whose voice will draw no more:| But let this fame be presently perform'd,| Even while mens minds are wild, left more mischance|" amendedText=""/>
-        
-        
-       
+        <substitution method="pen" type="deletion" copyText="
+            Why does the drum come hither? | 
+            Enter Fortinbrass with the Embassadours. | 
+            Fort. Where is this fight? |
+            Hora. What is it you would see? | 
+            If ought of woe or wonder, cease your search? | 
+            Fort. &quot; This quarry cries on havock: &quot; O proud death, | 
+            What feast is toward in thine infernal Cell, | 
+            That thou so many Princes at a shot |
+            So bloodily hast strook? | 
+            Embass. The fight is dismal, |
+            And our affairs from England come too late, | 
+            The ears are senseless that should give us hearing. | 
+            To tell him his commandment is fulfill'd, | 
+            That Rosencraus and Guildenstern are dead, |
+            Where should we have our thanks? | 
+            Hora. Not from his mouth | 
+            Had it th' ability of breath to thank you, | 
+            He never gave commandement for their death, | 
+            But since so apt upon this bloody question | 
+            You from the Pollack wars, and you from England | 
+            Are here arrived, give order that that these bodies | 
+            High on a stage be placed to publick view, | 
+            And let me speak to th' yet unknowing world | 
+            How these things came about; so shall you hear |
+            Of cruel, bloody, and unnatural acts, |
+            Of accidental judgments, casual slaughters, | 
+            Of deaths put on by cunning, and for no cause, | 
+            And in this upshot, purposes mistook, | 
+            Fall'n on the inventors heads: all this can I |
+            Truly deliver. | 
+            Fort. Let us haste to hear it, |
+            And call the nobless to the audience: | 
+            For me, with sorrow I embrace my fortune, |
+            I have some rights of memory in this Kingdom, |
+            Which now to claim my interest doth invite me. | 
+            Hora. Of that I shall have also cause to speak, | 
+            And from his mouth whose voice will draw no more: |
+            But let this same be presently perform'd, | 
+            Even while mens minds are wild, left more mischance." amendedText=""/>
         
     </annotation>
 </transcription>
