@@ -32,9 +32,9 @@
             <language ident="EN">
                 <position place="right_margin" book_orientation="0">
                     <marginalia_text>
-                        Enter Horachio &amp; Marcellus
+                        Enter Horatio &amp; Marcellus
                     </marginalia_text>
-                    <person name="Horachio"/>
+                    <person name="Horatio"/>
                     <person name="Marcellus"/>
                 </position>
             </language>

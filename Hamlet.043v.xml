@@ -6,7 +6,7 @@
 <transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/ChrisRG/ReadingHamlet/master/RHschema.xsd">
     
-    <page filename="Hamlet.002r.tif" pagination="86" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
+    <page filename="Hamlet.043v.tif" pagination="86" signature="V.2" reader="John Ward"/> <!-- Signature = act + scene -->
     <annotation>
         <!-- Marginalia --> 	<!-- Positions available: head, intext, tail, left_margin, right_margin -->
         <marginalia>
